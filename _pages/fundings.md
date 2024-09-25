@@ -5,9 +5,22 @@ permalink: /fundings/
 author_profile: true
 ---
 
-- 华为技术有限公司，2012实验室XXXX技术合作项目（92万），主持
-- 华为技术有限公司，光产品线XXXX技术合作项目（50万），主持
-- 国家自然科学基金委青年项目，高效的无模型子抽样方法研究（编号：12101606，30万），主持
-- 国家自然科学基金委面上项目，单细胞多组学数据融合优化建模与异质性分析（编号：12271522，70万），共同主持
-- 北京自然科学基金委面上项目，测量限制下的大数据重采样理论与算法研究（编号：1232019，20万），共同主持
+- Huawei Technologies Co., Ltd., 2012 Laboratory xxx Technology Cooperation Project (¥920,000), PI
 
+- Huawei Technologies Co., Ltd., Photonics xxx Technology Cooperation Project (¥500,000), PI
+
+- National Natural Science Foundation of China (PI ¥300,000)
+  - Grant No.12101606
+  - Effective model-free subsampling methods. The award supports the development of effective modelfree subsampling methods. The award also supports the development of the theoretical properties of these methods and the real-world applications.
+
+- National Natural Science Foundation of China (Co PI ¥700,000)
+  - Grant No.12271522
+  - Single-cell multi-omics data fusion modeling and heterogeneity analysis. This award supports the development of effective data fusion methodologies for modern single-cell multi-omics data.
+
+- Science Foundation for Youths (PI ¥100,000)
+  - Renmin University of China
+  - Optimal transport problems in big data. The award supports the development of a suite of efficient computational tools to tackle the computational burden of large-scale optimal transport problems faced in various real-world applications.
+
+- Beijing Natural Science Foundation of China (Co PI ¥200,000)
+  - Grant No.1232019
+  - Large-sample subsampling under measurement constraint. This award supports the development of effective subsampling methodologies and theoretical results for measurement-constrained problems.
