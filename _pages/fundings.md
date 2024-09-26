@@ -5,9 +5,9 @@ permalink: /fundings/
 author_profile: true
 ---
 
-- Huawei Technologies Co., Ltd., 2012 Laboratory xxx Technology Cooperation Project (¥920,000), PI
+- Huawei Technologies Co., Ltd., 2012 Laboratory xxx Technology Cooperation Project (PI ¥920,000)
 
-- Huawei Technologies Co., Ltd., Photonics xxx Technology Cooperation Project (¥500,000), PI
+- Huawei Technologies Co., Ltd., Photonics xxx Technology Cooperation Project (PI ¥500,000)
 
 - National Natural Science Foundation of China (PI ¥300,000)
   - Grant No.12101606

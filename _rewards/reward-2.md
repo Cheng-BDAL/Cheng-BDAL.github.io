@@ -7,5 +7,5 @@ permalink: /rewards/reward-2/  # 可选，手动设置URL
 
 ---
 
-## 简介
+
 In the inaugural National College Student Swimming Championship in 2012, Tsinghua University student Meng cheng was the only athlete without a professional sports background to win the championship.

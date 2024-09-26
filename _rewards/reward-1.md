@@ -6,5 +6,5 @@ categories: rewards  # 类别，使用 rewards 以便归档
 permalink: /rewards/reward-1/  # 可选，手动设置URL
 ---
 
-## 简介
+
 Under the leadership of Professor Meng, Kang Xinlai, Huang Qiannan, and other lab members proposed a cross-domain processing approach based on statistical theory and an efficient solution for the challenging task of 'Non-Native Bayer Raw Image Denoising Analysis and Processing Technology'. This achievement was awarded the Spark Award.。

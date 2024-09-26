@@ -6,5 +6,4 @@ categories: rewards  # 类别，使用 rewards 以便归档
 permalink: /rewards/reward-3/  # 可选，手动设置URL
 ---
 
-## 简介
 International Chinese Statistical Association (ICSA) China Conference.
