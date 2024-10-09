@@ -6,7 +6,7 @@ permalink: 'https://www.igi-global.com/chapter/effective-statistical-methods-for
 excerpt: '<u>Cheng Meng</u>, Ye Wang, Xinlian Zhang, Abhyuday Mandal, Wenxuan Zhong, Ping Ma'
 date: 2017-01-01
 venue: 'Handbook of Research on Applied Cybernetics and Systems Science'
-paperurl: '/bdal.github.io/files/Effective statistical methods.pdf'
+paperurl: '/cheng-bdal.github.io/files/Effective statistical methods.pdf'
 
 ---
 
