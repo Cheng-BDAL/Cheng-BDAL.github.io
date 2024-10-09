@@ -11,12 +11,13 @@ redirect_from:
 
 Education
 ======
-* [Ph.D. in Statistics](https://bdalpingio.github.io/)  
-  *University of Georgia*
+* [Ph.D. in Statistics](https://bdalpingio.github.io/)<br> 
+  *University of Georgia*<br>
   *August 2015 - May 2020*
 
-* Bachelor of Mathematics, Department of Mathematics and Applied Mathematics
-  *Tsinghua University*
+* Bachelor of Mathematics<br>
+  *Department of Mathematics and Applied Mathematics*<br>
+  *Tsinghua University*<br>
   *July 2011 - June 2015*
 
 Academic Positions
