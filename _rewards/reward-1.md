@@ -3,7 +3,7 @@ layout: post  # 使用合适的布局
 title: "Spark Award"  # 奖励名称
 date: 2023-09-11  # 奖励的发布日期
 categories: rewards  # 类别，使用 rewards 以便归档
-permalink: /rewards/reward-1/  # 可选，手动设置URL
+permalink: http://isbd.ruc.edu.cn/xstd/326f8975750542e0a3093da69294709a.htm
 ---
 
 

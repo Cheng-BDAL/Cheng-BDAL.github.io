@@ -8,10 +8,10 @@ author_profile: true
 ## PI Fundings
 
 - Technology Cooperation Project (PI ¥920,000)  
-  Huawei Technologies Co., Ltd. 2012 Laboratory 
+  - Huawei Technologies Co., Ltd. 2012 Laboratory 
 
 - Technology Cooperation Project (PI ¥500,000)  
-  Huawei Technologies Co., Ltd. Photonics 
+  - Huawei Technologies Co., Ltd. Photonics 
 
 - National Natural Science Foundation of China (PI ¥300,000)  
   - Grant No. 12101606  

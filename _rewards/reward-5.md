@@ -1,9 +1,9 @@
 ---
 layout: post  # 使用合适的布局
-title: "Best Presentation Award & Student Paper Award(Cheng Meng)"  # 奖励名称
-date: 2019-04-01  # 奖励的发布日期
+title: "Junior Researcher Award(Cheng Meng)"  # 奖励名称
+date: 2023-02-05  # 奖励的发布日期
 categories: rewards  # 类别，使用 rewards 以便归档
-permalink: /rewards/reward-3/  # 可选，手动设置URL
+permalink: http://isbd.ruc.edu.cn/cslm/d6b3a5efe0484c49aa8b9010875d53cf.htm
 ---
 
-Nonparametric Statistics Section, Joint Statistical Meetings, American Statistical Association
+International Chinese Statistical Association (ICSA) China Conference.
