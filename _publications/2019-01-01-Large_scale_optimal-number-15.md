@@ -6,7 +6,7 @@ permalink: 'https://proceedings.neurips.cc/paper/2019/hash/4bbbe6cb5982b9110413c
 excerpt: '<u>Cheng Meng</u>, Yuan Ke, Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong, Ping Ma'
 date: 2019-01-01
 venue: 'NeurIPS'
-paperurl: '/bdal.github.io/files/Large-scale optimal.pdf'
+paperurl: '/files/Large-scale optimal.pdf'
 
 ---
 
