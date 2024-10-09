@@ -11,17 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Statistics, University of Georgia, Athens, Georgia, USA  
-  August 2015 - May 2020
+* [Ph.D. in Statistics](https://bdalpingio.github.io/)  
+  *University of Georgia*
+  *August 2015 - May 2020*
 
-* Bachelor of Mathematics, Department of Mathematics and Applied Mathematics, Tsinghua University, Beijing, China  
-  July 2011 - June 2015
+* Bachelor of Mathematics, Department of Mathematics and Applied Mathematics
+  *Tsinghua University*
+  *July 2011 - June 2015*
 
 Academic Positions
-=====
-
-* Assistant Professor (Tenure track), Institute of Statistics and Big Data, Renmin University of China, Beijing, China  
-  Sep. 2020 - present
+======
+* Assistant Professor (Tenure track),  
+  Institute of Statistics and Big Data,  
+  Renmin University of China, Beijing, China  
+  *Sep. 2020 - present*
 
 Research Interest
 ======
