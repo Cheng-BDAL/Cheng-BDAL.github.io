@@ -6,7 +6,7 @@ permalink: 'https://www.sciencedirect.com/science/article/pii/S0160412022001751'
 excerpt: 'Lei King, Yue Huang, <u>Tao Li</u>, Qiang Wang, Wanyi Li, Zhilei Shan, Jiawei Yin, Liangkai Chen, Pei Wang, Changchang Dun, Litao Zhuang, Xiaolin Peng, Liegang Liu
 date: 2022-01-01
 venue: 'EnvironmentInternational'
-paperurl: '/bdal.github.io/files/Associations of urinary.pdf'
+paperurl: 'https://cheng-bdal.github.io/files/Associations of urinary.pdf'
 
 ---
 

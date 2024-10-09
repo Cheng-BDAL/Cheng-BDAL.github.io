@@ -6,7 +6,7 @@ permalink: 'https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2024-03989-
 excerpt: '<u>Mengyu Li</u>, Jun Yu, Hongteng Xu, <u>Cheng Meng</u>'
 date: 2024-01-01
 venue: 'Mathematics of Computation'
-paperurl: '/bdal.github.io/files/Sampling-Based Methods.pdf'
+paperurl: 'https://cheng-bdal.github.io/files/Sampling-Based Methods.pdf'
 
 
 ---

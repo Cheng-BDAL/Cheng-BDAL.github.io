@@ -6,7 +6,7 @@ permalink: 'https://www.jmlr.org/papers/v24/22-1311.html'
 excerpt: '<u>Mengyu Li</u>, Jun Yu, <u>Tao Li</u>, and <u>Cheng Meng</u>'
 date: 2023-01-01
 venue: 'Journal of Machine Learning Research'
-paperurl: '/bdal.github.io/files/Importance Sparsification for.pdf'
+paperurl: 'https://cheng-bdal.github.io/files/Importance Sparsification for.pdf'
 
 ---
 

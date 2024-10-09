@@ -6,7 +6,7 @@ permalink: 'https://www.jstor.org/stable/27164210'
 excerpt: '<u>Mengyu Li</u>, Junlong Zhao'
 date: 2022-01-01
 venue: 'Statistica Sinica'
-paperurl: '/bdal.github.io/files/Communication-Efficient Distributed.pdf'
+paperurl: 'https://cheng-bdal.github.io/files/Communication-Efficient Distributed.pdf'
 
 ---
 

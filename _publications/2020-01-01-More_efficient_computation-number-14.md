@@ -6,7 +6,7 @@ permalink: 'https://academic.oup.com/biomet/article-abstract/107/3/723/5831923'
 excerpt: '<u>Cheng Meng</u>, Xinlian Zhang, Jingyi Zhang, Wenxuan Zhong, Ping Ma'
 date: 2020-01-01
 venue: 'Biometrika'
-paperurl: '/bdal.github.io/files/More efficient approximation.pdf'
+paperurl: 'https://cheng-bdal.github.io/files/More efficient approximation.pdf'
 
 ---
 

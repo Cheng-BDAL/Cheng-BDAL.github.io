@@ -6,7 +6,7 @@ permalink: 'https://ieeexplore.ieee.org/abstract/document/10365205'
 excerpt: '<u>Xinlai Kang</u>, <u>Mengyu Li</u>, Xuqiang Chen, Fangyu Li, <u>Cheng Meng</u>'
 date: 2023-01-01
 venue: 'IEEE Signal Processing Letters'
-paperurl: '/bdal.github.io/files/A Hausdorff Regression.pdf'
+paperurl: 'https://cheng-bdal.github.io/files/A Hausdorff Regression.pdf'
 
 ---
 

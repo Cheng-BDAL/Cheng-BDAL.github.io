@@ -6,7 +6,7 @@ permalink: 'https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2165500'
 excerpt: '<u>Mengyu Li</u>, Jun Yu, Hongteng Xu, <u>Cheng Meng</u>'
 date: 2022-01-01
 venue: 'Statistica Sinica'
-paperurl: '/bdal.github.io/files/Efficient Approximation of.pdf'
+paperurl: 'https://cheng-bdal.github.io/files/Efficient Approximation of.pdf'
 
 ---
 

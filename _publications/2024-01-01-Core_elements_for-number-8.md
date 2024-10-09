@@ -6,7 +6,7 @@ permalink: 'https://arxiv.org/html/2206.10240v4'
 excerpt: '<u>Mengyu Li</u>, Jun Yu, <u>Tao Li</u>, <u>Cheng Meng</u>'
 date: 2024-01-01
 venue: 'Journal of Statistics and Computings'
-paperurl: '/bdal.github.io/files/Core-Elements for.pdf'
+paperurl: 'https://cheng-bdal.github.io/files/Core-Elements for.pdf'
 
 ---
 
