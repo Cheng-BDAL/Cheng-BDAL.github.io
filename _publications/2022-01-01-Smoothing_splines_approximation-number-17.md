@@ -7,6 +7,7 @@ excerpt: '<u>Cheng Meng</u>, Jun Yu, Yongkai Chen, Wenxuan Zhong, Ping Ma'
 date: 2022-01-01
 venue: 'Journal of Computational and Graphical Statistics'
 paperurl: 'https://cheng-bdal.github.io/files/Smoothing splines approximation.pdf'
+slidesurl: 'https://cheng-bdal.github.io/files/Smoothing splines approximation.pdf'
 
 ---
 

@@ -7,6 +7,7 @@ excerpt: '<u>Tao Li</u>, Jun Yu, <u>Cheng Meng</u>'
 date: 2023-01-01
 venue: 'Journal of Computational and Graphical Statistics'
 paperurl: 'https://cheng-bdal.github.io/files/Scalable Model-Free.pdf'
+slidesurl: 'https://cheng-bdal.github.io/files/Scalable Model-Free.pdf'
 
 ---
 

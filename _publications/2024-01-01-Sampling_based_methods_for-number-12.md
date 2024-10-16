@@ -7,6 +7,7 @@ excerpt: '<u>Mengyu Li</u>, Jun Yu, Hongteng Xu, <u>Cheng Meng</u>'
 date: 2024-01-01
 venue: 'Mathematics of Computation'
 paperurl: 'https://cheng-bdal.github.io/files/Sampling-Based Methods.pdf'
+slidesurl: 'https://cheng-bdal.github.io/files/Sampling-Based Methods.pdf'
 
 
 ---

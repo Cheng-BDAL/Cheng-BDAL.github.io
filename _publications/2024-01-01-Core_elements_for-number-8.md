@@ -7,6 +7,7 @@ excerpt: '<u>Mengyu Li</u>, Jun Yu, <u>Tao Li</u>, <u>Cheng Meng</u>'
 date: 2024-01-01
 venue: 'Journal of Statistics and Computings'
 paperurl: 'https://cheng-bdal.github.io/files/Core-Elements for.pdf'
+slidesurl: 'https://cheng-bdal.github.io/files/Core-Elements for.pdf'
 
 ---
 

@@ -7,6 +7,7 @@ excerpt: '<u>Cheng Meng</u>, Xinlian Zhang, Jingyi Zhang, Wenxuan Zhong, Ping Ma
 date: 2020-01-01
 venue: 'Biometrika'
 paperurl: 'https://cheng-bdal.github.io/files/More efficient approximation.pdf'
+slidesurl: 'https://cheng-bdal.github.io/files/More efficient approximation.pdf'
 
 ---
 

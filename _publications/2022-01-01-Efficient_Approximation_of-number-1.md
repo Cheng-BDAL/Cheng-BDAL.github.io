@@ -7,6 +7,7 @@ excerpt: '<u>Mengyu Li</u>, Jun Yu, Hongteng Xu, <u>Cheng Meng</u>'
 date: 2022-01-01
 venue: 'Statistica Sinica'
 paperurl: 'https://cheng-bdal.github.io/files/Efficient Approximation of.pdf'
+slidesurl: 'https://cheng-bdal.github.io/files/Efficient Approximation of.pdf'
 
 ---
 

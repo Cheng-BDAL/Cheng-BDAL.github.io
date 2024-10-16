@@ -7,6 +7,7 @@ excerpt: '<u>Cheng Meng</u>, Jun Yu, Jingyi Zhang, Ping Ma, Wenxuan Zhong'
 date: 2020-01-01
 venue: 'NeurIPS'
 paperurl: 'https://cheng-bdal.github.io/files/Sufficient dimension reduction.pdf'
+slidesurl: 'https://cheng-bdal.github.io/files/Sufficient dimension reduction.pdf'
 
 ---
 

@@ -7,6 +7,7 @@ excerpt: '<u>Mengyu Li</u>, Jingyi Zhang, <u>Cheng Meng</u> '
 date: 2024-01-01
 venue: 'Journal of Computational and Graphical Statistics'
 paperurl: 'https://cheng-bdal.github.io/files/Nonparametric Additive Models.pdf'
+slidesurl: 'https://cheng-bdal.github.io/files/Nonparametric Additive Models.pdf'
 
 ---
 

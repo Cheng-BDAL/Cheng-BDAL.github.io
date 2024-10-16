@@ -7,6 +7,7 @@ excerpt: '<u>Xinlai Kang</u>, <u>Mengyu Li</u>, Xuqiang Chen, Fangyu Li, <u>Chen
 date: 2023-01-01
 venue: 'IEEE Signal Processing Letters'
 paperurl: 'https://cheng-bdal.github.io/files/A Hausdorff Regression.pdf'
+slidesurl: 'https://cheng-bdal.github.io/files/A Hausdorff Regression.pdf'
 
 ---
 

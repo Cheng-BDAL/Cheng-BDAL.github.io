@@ -7,6 +7,7 @@ excerpt: '<u>Mengyu Li</u>, Junlong Zhao'
 date: 2022-01-01
 venue: 'Statistica Sinica'
 paperurl: 'https://cheng-bdal.github.io/files/Communication-Efficient Distributed.pdf'
+slidesurl: 'https://cheng-bdal.github.io/files/Communication-Efficient Distributed.pdf'
 
 ---
 

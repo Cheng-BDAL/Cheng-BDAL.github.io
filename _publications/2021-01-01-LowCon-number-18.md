@@ -7,6 +7,7 @@ excerpt: '<u>Cheng Meng</u>, Rui Xie, Abhyuday Mandal, Xinlian Zhang, Wenxuan Zh
 date: 2021-01-01
 venue: 'Journal of Computational and Graphical Statistics'
 paperurl: 'https://cheng-bdal.github.io/files/LowCon.pdf'
+slidesurl: 'https://cheng-bdal.github.io/files/LowCon.pdf'
 
 ---
 
