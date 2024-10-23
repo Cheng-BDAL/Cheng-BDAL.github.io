@@ -8,8 +8,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  #- title: "Talks"
-  #  url: /talks/    
+  - title: "Talks"
+    url: https://academicpages.github.io/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -27,7 +27,7 @@ main:
     url: /cv/
     
   #- title: "Guide"
-  #  url: /markdown/
+  #  url: https://academicpages.github.io/
 
   - title: "Photos"
     url: /photos/
