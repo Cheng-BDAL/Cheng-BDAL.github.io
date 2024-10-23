@@ -27,18 +27,14 @@ By leveraging advanced statistical models and computational techniques, we have 
 
 Latest News
 ======
--Assistant Professor Meng Cheng's team was invited to participate in the filming of Huawei's promotional video. 
-  -![Image](https://cheng-bdal.github.io//images/赛道.jpg)
-  -[Video](https://www.xiaohongshu.com/explore/66d6f7890000000012012a34?note_flow_source=wechat&xsec_token=CBhIRfeD6rz8QlVh5HqqZVviu6C8Bh8E-CJ1CaC1RRFCo=)
+- Assistant Professor Meng Cheng's team was invited to participate in the filming of Huawei's promotional video. 
+  - ![Image](https://cheng-bdal.github.io//images/赛道.jpg)
+  - [Video](https://www.xiaohongshu.com/explore/66d6f7890000000012012a34?note_flow_source=wechat&xsec_token=CBhIRfeD6rz8QlVh5HqqZVviu6C8Bh8E-CJ1CaC1RRFCo=)
   
--Associate Professor Meng Cheng spoke as a representative of faculty members at the opening ceremony of the 2024 postgraduate program at Renmin University of China.
-  -![Image](https://cheng-bdal.github.io//images/新生讲话.jpg)
-  -[Video](https://www.xiaohongshu.com/explore?app_platform=android&ignoreEngage=true&app_version=8.37.2&share_from_user_hidden=true&xsec_source=app_share&type=video&xsec_token=CB394Cv4miRbY6QE6Gs-t2WhwyGE5ewXYwJfq046b1Izk%3D&author_share=1&xhsshare=WeixinSession&shareRedId=ODYzQkk3ST02NzUyOTgwNjY0OThIOTo6&apptime=1729680034&wechatWid=24bdc588bdaf3b7a41adde5699c4577f&wechatOrigin=menu&target_note_id=66dedec6000000000c01b534&note_flow_source=wechat)
+- Associate Professor Meng Cheng spoke as a representative of faculty members at the opening ceremony of the 2024 postgraduate program at Renmin University of China.
+  - ![Image](https://cheng-bdal.github.io//images/新生讲话.jpg)
+  - [Video](https://www.xiaohongshu.com/explore?app_platform=android&ignoreEngage=true&app_version=8.37.2&share_from_user_hidden=true&xsec_source=app_share&type=video&xsec_token=CB394Cv4miRbY6QE6Gs-t2WhwyGE5ewXYwJfq046b1Izk%3D&author_share=1&xhsshare=WeixinSession&shareRedId=ODYzQkk3ST02NzUyOTgwNjY0OThIOTo6&apptime=1729680034&wechatWid=24bdc588bdaf3b7a41adde5699c4577f&wechatOrigin=menu&target_note_id=66dedec6000000000c01b534&note_flow_source=wechat)
   
-
-
-
-
 
 
 Content information
