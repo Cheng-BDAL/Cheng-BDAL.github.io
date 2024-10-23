@@ -3,11 +3,11 @@ title: "Sufficient dimension reduction for classification using principal optima
 collection: publications
 category: conferences
 permalink: 'https://proceedings.neurips.cc/paper/2020/hash/29586cb449c90e249f1f09a0a4ee245a-Abstract.html'
-excerpt: '<u>Cheng Meng</u>, Jun Yu, Jingyi Zhang, Ping Ma, Wenxuan Zhong'
+excerpt: '<u>Cheng Meng</u>, Jun Yu, Jingyi Zhang, Ping Ma, Wenxuan Zhong<sup>*</sup>'
 date: 2020-01-01
 venue: 'NeurIPS'
 paperurl: 'https://cheng-bdal.github.io/files/Sufficient dimension reduction.pdf'
-slidesurl: 'https://cheng-bdal.github.io/files/Sufficient dimension reduction.pdf'
+#slidesurl: 'https://cheng-bdal.github.io/files/Sufficient dimension reduction.pdf'
 
 ---
 

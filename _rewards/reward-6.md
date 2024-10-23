@@ -6,4 +6,3 @@ categories: rewards  # 类别，使用 rewards 以便归档
 permalink: /rewards/reward-3/  # 可选，手动设置URL
 ---
 
-Nonparametric Statistics Section, Joint Statistical Meetings, American Statistical Association

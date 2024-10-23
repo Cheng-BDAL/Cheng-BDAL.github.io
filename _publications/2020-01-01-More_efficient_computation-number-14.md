@@ -3,11 +3,11 @@ title: "More efficient computation of smoothing splines via space-filling basis 
 collection: publications
 category: manuscripts
 permalink: 'https://academic.oup.com/biomet/article-abstract/107/3/723/5831923'
-excerpt: '<u>Cheng Meng</u>, Xinlian Zhang, Jingyi Zhang, Wenxuan Zhong, Ping Ma'
+excerpt: '<u>Cheng Meng</u>, Xinlian Zhang, Jingyi Zhang, Wenxuan Zhong, Ping Ma<sup>*</sup>'
 date: 2020-01-01
 venue: 'Biometrika'
 paperurl: 'https://cheng-bdal.github.io/files/More efficient approximation.pdf'
-slidesurl: 'https://cheng-bdal.github.io/files/More efficient approximation.pdf'
+#slidesurl: 'https://cheng-bdal.github.io/files/More efficient approximation.pdf'
 
 ---
 

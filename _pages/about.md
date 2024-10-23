@@ -10,7 +10,7 @@ redirect_from:
 
 About Cheng Meng
 ======
-I am an Assistant professor in Institue of Statistics and Big Data (ISBD), Renmin University of China. I received my PhD degree in Statistics form Department of Statistics at the University of Georgia in 2020. I worked in the Big Data Analytics Lab, under the supervision of Professor Wenxuan Zhong and Professor Ping Ma. I received BSc degree in Mathmatics form Tsinghua University in 2015.
+I am an Assistant professor in Institue of Statistics and Big Data (ISBD), Renmin University of China. I received my PhD degree in Statistics form Department of Statistics at the University of Georgia in 2020. I worked in the Big Data Analytics Lab, under the supervision of Professor Ping Ma and Professor Wenxuan Zhong. I received BSc degree in Mathmatics form Tsinghua University in 2015.
 
 About BDAL LAB
 ======
@@ -31,3 +31,6 @@ Content information
 - **Address:** 710 Chondde Xi Building, Haidian, Beijing, China
 
 - **Email:** chengmeng at ruc dot edu dot cn
+
+
+![Photo](../files/实验室合照.jpg)

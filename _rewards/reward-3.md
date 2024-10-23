@@ -7,4 +7,3 @@ permalink: http://isbd.ruc.edu.cn/xstd/326f8975750542e0a3093da69294709a.htm
 ---
 
 
-This is the first time that a domestically trained PhD student has consecutively won the 'Student Paper Award' at the Joint Statistical Meetings in image statistics. This award has a total of five recipients each year.
