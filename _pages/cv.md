@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-- [Ph.D. in Statistics](https://bdalpingio.github.io/)<br> 
+- Ph.D. in Statistics<br> 
+  - [Big Data Analytics Lab](https://bdalpingio.github.io/)<br>
   - University of Georgia<br>
   - August 2015 - May 2020
 
