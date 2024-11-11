@@ -5,12 +5,7 @@ title: "Students"
 author_profile: true  # 可选，视需要是否显示作者信息
 ---
 
-## Graduated Students
 
-- Tao Li (PhD, 2019-2024, China Galaxy Securities, [GitHub](https://github.com/sherlockLitao))
-- Xitong Wei (MS, 2020-2022, Meituan)
-- Dianjun Lin (MS, 2020-2022, PhD student at  The Pennsylvania State University)
-- Xin Wang (MS, 2020-2022, PhD student at University of Washington)
 
 ## Graduate Research Assistants
 
@@ -26,3 +21,11 @@ author_profile: true  # 可选，视需要是否显示作者信息
 - Haoxian Liang (MS, 2024-Now)
 - Junyi Lin (PhD, 2024-Now)
 - Dunyao Xue (PhD, 2024-Now)
+
+
+## Graduated Students
+
+- Tao Li (PhD, 2019-2024, China Galaxy Securities, [GitHub](https://github.com/sherlockLitao))
+- Xitong Wei (MS, 2020-2022, Meituan)
+- Dianjun Lin (MS, 2020-2022, PhD student at  The Pennsylvania State University)
+- Xin Wang (MS, 2020-2022, PhD student at University of Washington)

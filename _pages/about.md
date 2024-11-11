@@ -11,26 +11,15 @@ Lab Group Photo
 ======
 ![Photo](../files/实验室合照.jpg)
 
-About Cheng Meng
-======
-<<<<<<< HEAD
-I am an Assistant Professor in the Institute of Statistics and Big Data (ISBD), Renmin University of China. I received my PhD in Statistics from Department of Statistics at the University of Georgia in 2020. I worked in Big Data Analytics Lab (BDAL), under the joint supervision of Professor Ping Ma and Professor Wenxuan Zhong. I received a BSc degree in Mathematics from Tsinghua University in 2015.
-=======
-I am an Assistant professor in Institue of Statistics and Big Data (ISBD), Renmin University of China. I received my PhD degree in Statistics from Department of Statistics at the University of Georgia in 2020. I worked in the Big Data Analytics Lab (BDAL), under the supervision of Professor Ping Ma and Professor Wenxuan Zhong. I received BSc degree in Mathmatics from Tsinghua University in 2015.
->>>>>>> 142a78cfeee6e1fbe8d63f54656c1e75bd464673
 
 About BDAL-RUC
 ======
-Our lab's research interests lie in developing novel theoretically justifiable and computationally efficient methods for tackling the computation burden brought about by the sheer size of large-scale datasets. Our current research interests are as follows.
+Hello everyone, I'm Cheng Meng, currently an Assistant Professor and Ph.D. advisor at the Institute of Statistics and Big Data at Renmin University of China (RUC). My primary research interests lie in big data statistics, optimal transport, artificial intelligence, and industrial statistics.
 
-- Statistical machine learning
-- Subsampling methods in big data
-- Large-scale optimal transport problems
-- Non/Semi-parametric modeling
-- Generative models
-- Statistical applications in imaging data, LiDAR data and 3d point cloud data
+I graduated from the Department of Mathematics at Tsinghua University in 2015 and earned my Ph.D. in Statistics from the University of Georgia in 2020. I was fortunate to be advised by the remarkable academic duo, Professors Ping Ma and Wenxuan Zhong, who lead the Big Data Analytics Lab (BDAL). After joining RUC, I had the pleasure of working with a talented group of students, with whom I co-founded the BDAL-RUC Lab. To date, my students have been awarded the Joint Statistical Meetings (JSM) Student Paper Award twice (a first for institutions in mainland China) and have received the National Scholarship on two occasions.
 
-By leveraging advanced statistical models and computational techniques, we have successfully addressed challenges in fields such as image processing, large-scale transportation optimization, and generative modeling. Our research has direct applications in industries including healthcare, autonomous systems, and environmental monitoring. In the future, our lab aims to expand its research into new areas such as artificial intelligence, sustainable data analytics, and quantum computing, continuing to push the boundaries of what's possible with statistical methods in practice.
+I am honored to have received the 2023 Junior Researcher Award from the International Chinese Statistical Association (one of five recipients globally) and the Huawei Spark Award for tackling key challenges, with recognition from both RUC's and Huawei's official media channels. I serve as the principal investigator for a National Natural Science Foundation of China (NSFC) Youth Fund project as well as multiple projects sponsored by Huawei. In recent years, our lab has been dedicated to developing theoretically grounded, fast algorithms for big data, aiming to advance the application of statistical methodologies across a range of industrial and interdisciplinary domains.
+
 
 Highlights
 =====

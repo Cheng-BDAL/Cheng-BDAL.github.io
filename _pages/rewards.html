@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.rewards reversed %}
+{% assign sorted_rewards = site.rewards | sort: "order" | reverse %}
+{% for post in sorted_rewards %}
   {% include archive-single.html %}
 {% endfor %}
+
