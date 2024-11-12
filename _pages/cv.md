@@ -19,7 +19,7 @@ Education
 - Bachelor of Mathematics<br>
   - Department of Mathematics and Applied Mathematics<br>
   - Tsinghua University<br>
-  - July 2011 - June 2015
+  - June 2011 - June 2015
 
 Academic Positions
 ======
