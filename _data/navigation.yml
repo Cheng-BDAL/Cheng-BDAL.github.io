@@ -25,11 +25,10 @@ main:
     
   - title: "CV"
     url: /cv/
-    
-  - title: "中文"
-    url: https://cheng-bdal.github.io/Cheng-BDAL-CN.github.io/
 
   - title: "Photos"
     url: /photos/
 
+  - title: "中文"
+    url: https://cheng-bdal.github.io/Cheng-BDAL-CN.github.io/
 
