@@ -46,4 +46,6 @@ Contact information
 Latest News
 =====
 
+- Congratulations! Qiannan Huang has been awarded the National Scholarship for Master's Students in the 2024 Student Award Review! This is BDAL Lab's third National Scholarship, following the 2023 Doctoral National Scholarship awarded to Mengyu Li and the 2021 Master's National Scholarship awarded to Dianjun Lin.
+
 - Congratulations! Mengyu Li was awarded the Outstanding Poster Award at the 22nd Annual Conference of the China Society for Industrial and Applied Mathematics.[Link](https://mp.weixin.qq.com/s/ffKNLItqx5vv-P0r3Yd2QQ)
