@@ -21,6 +21,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
 - Haoxian Liang (MS, 2024-Now)
 - Junyi Lin (PhD, 2024-Now)
 - Dunyao Xue (PhD, 2024-Now)
+- Peize Wang(Phd, 2024-Now)
 
 
 ## Graduated Students
