@@ -5,3 +5,4 @@ date: 2024-12-31  # 奖励的发布日期
 categories: rewards  # 类别，使用 rewards 以便归档
 ---
 
+![荣誉证书](../images/李梦雨青托.png){: style="width:300px; height:auto;" }
