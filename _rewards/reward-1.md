@@ -15,5 +15,7 @@ order: 3
 | Yangtze Campaign Issue 5 | Yangtze Campaign          | Optical Coupling Quick Optimization              | Mengyu Li | Value Award   | Issue 109       | Mengyu Li, Junlie Huang, Cheng Meng    |
 | Hardware Engineering Challenge Phase 10 | Hardware Engineering        | A Self-Adaptive Fuzzy Detection Adjustment Algorithm | Cheng Meng | Encouragement Award | Issue 109       | Junlie Huang, Cheng Meng               |
 
+
+
 ![honorary medal](../images/火花奖.jpg){: style="width:300px; height:auto;" }
 
