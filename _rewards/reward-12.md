@@ -6,4 +6,4 @@ categories: rewards  # 类别，使用 rewards 以便归档
 permalink: https://mp.weixin.qq.com/s/Nb6RIBYcZQp_K66wvEr34A
 ---
 
-<img src="https://cheng-bdal.github.io//images/李梦雨青托.jpg" alt="Image" width="400">
+![荣誉证书](../images/李梦雨青托.png){: style="width:300px; height:auto;" }
