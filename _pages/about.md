@@ -46,6 +46,8 @@ Contact information
 Latest News
 =====
 
+- Congratulations! Mengyu Li has been selected for the 2024 China Association for Science and Technology (CAST) Young Talent Support Program for Doctoral Students, supported by the Chinese Association for Applied Statistics (CAAS)! This is the inaugural year of the program, with approximately 3,000 students selected.
+
 - Congratulations! Qiannan Huang has been awarded the National Scholarship for Master's Students in the 2024 Student Award Review! This is BDAL Lab's third National Scholarship, following the 2023 Doctoral National Scholarship awarded to Mengyu Li and the 2021 Master's National Scholarship awarded to Dianjun Lin.
 
 - Congratulations! Mengyu Li was awarded the Outstanding Poster Award at the 22nd Annual Conference of the China Society for Industrial and Applied Mathematics.[Link](https://mp.weixin.qq.com/s/ffKNLItqx5vv-P0r3Yd2QQ)
