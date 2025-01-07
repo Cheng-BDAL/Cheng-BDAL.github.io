@@ -15,5 +15,5 @@ order: 3
 | Hardware Engineering Challenge Phase 10 | Hardware Engineering        | A Self-Adaptive Fuzzy Detection Adjustment Algorithm | Cheng Meng | Encouragement Award | Issue 109       | Junlie Huang, Cheng Meng               |
 
 
-- <img src="https://cheng-bdal.github.io//images/赛道.jpg" alt="Image" width="400">
+- <img src="https://cheng-bdal.github.io//images/火花奖.jpg" alt="Image" width="400">
 

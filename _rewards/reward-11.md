@@ -6,4 +6,4 @@ categories: rewards  # 类别，使用 rewards 以便归档
 
 ---
 
-- <img src="https://cheng-bdal.github.io//images/赛道.jpg" alt="Image" width="400">
+- <img src="https://cheng-bdal.github.io//images/李梦雨青托.jpg" alt="Image" width="400">
