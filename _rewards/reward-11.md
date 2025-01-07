@@ -6,4 +6,4 @@ categories: rewards  # 类别，使用 rewards 以便归档
 
 ---
 
-![荣誉证书](https://cheng-bdal.github.io/images/李梦雨青托.png){: style="width:500px; height:auto;" }
+- <img src="https://cheng-bdal.github.io//images/赛道.jpg" alt="Image" width="400">
