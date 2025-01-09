@@ -6,8 +6,7 @@ permalink: http://isbd.ruc.edu.cn/cslm/d0d29e7f7e83449c96a8c6da0d6de2c0.htm
 order: 3
 ---
 
-
-- | Challenge Issue       | Department                 | Challenge Name                                   | Chanllenge Taker   | Award Type   | Spark Award Issue | Core Team Members                      |
+| Challenge Issue       | Department                 | Challenge Name                                   | Chanllenge Taker   | Award Type   | Spark Award Issue | Core Team Members                      |
 | ---------------------- | -------------------------- | ----------------------------------------------- | -------- | ------------ | ------------------ | -------------------------------------- |
 | Yangtze Campaign Issue 3 | Full-Spectrum Perception Lab | Non-native Bayer Raw Image Noise Analysis and Processing Technology | Cheng Meng | Value Award   | Issue 73        | Xinlai Kang, Qiannan Huang, Jingyi Zhang, Cheng Meng |
 | Yangtze Campaign Issue 1 | Eighth Assault Laboratory      | Fiber Optic Sensing Data Enhancement Algorithm   | Cheng Meng | Encouragement Award | Issue 73        | Jun Zhu, Mengyu Li, Cheng Meng         |
@@ -15,7 +14,7 @@ order: 3
 | Yangtze Campaign Issue 5 | Yangtze Campaign          | Optical Coupling Quick Optimization              | Mengyu Li | Value Award   | Issue 109       | Mengyu Li, Junlie Huang, Cheng Meng    |
 | Hardware Engineering Challenge Phase 10 | Hardware Engineering        | A Self-Adaptive Fuzzy Detection Adjustment Algorithm | Cheng Meng | Encouragement Award | Issue 109       | Junlie Huang, Cheng Meng               |
 
-- ![Image](https://cheng-bdal.github.io/images/火花奖.jpg)
+![荣誉奖章](../images/火花奖.jpg){: style="width:300px; height:auto;" }
 
 
 
