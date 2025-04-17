@@ -23,7 +23,7 @@ I graduated from the Department of Mathematics at Tsinghua University in 2015 an
 </p>
 
 <p style="text-align: justify;">
-I am honored to have received the 2023 Junior Researcher Award from the International Chinese Statistical Association (one of five recipients globally) and two Huawei Spark Award for tackling key challenges, with recognition from both RUC's and Huawei's official media channels. I serve as the principal investigator for a National Natural Science Foundation of China (NSFC) Youth Fund project as well as multiple projects sponsored by Huawei. In recent years, our lab has been dedicated to developing theoretically grounded, fast algorithms for big data, aiming to advance the application of statistical methodologies across a range of industrial and interdisciplinary domains.
+I am honored to have received the 2023 Junior Researcher Award from the International Chinese Statistical Association (one of five recipients globally) and three Huawei Spark Award for tackling key challenges, with recognition from both RUC's and Huawei's official media channels. I serve as the principal investigator for a National Natural Science Foundation of China (NSFC) Youth Fund project as well as multiple projects sponsored by Huawei. In recent years, our lab has been dedicated to developing theoretically grounded, fast algorithms for big data, aiming to advance the application of statistical methodologies across a range of industrial and interdisciplinary domains.
 </p>
 
 Highlights
@@ -46,7 +46,7 @@ Contact information
 
 Latest News
 =====
-- (2025-3) Congratulations to Cheng Meng for leading students Hao Zheng, Tao Wang, Haoxian Liang, and Mengyu Li to win the Huawei "Challenge Solving" 114th Spark Award. This is the team's third time receiving this honor![Link](https://mp.weixin.qq.com/s/NXFraboslDTdyHaGAFEjFA)
+- (2025-3) Congratulations to Cheng Meng for leading students Hao Zheng, Tao Wang, Haoxian Liang, and Mengyu Li to win the Huawei "Challenge Solving" 114th Spark Award. This is the team's third time receiving this honor![Link](https://mp.weixin.qq.com/s/NXFraboslDTdyHaGAFEjFA)Congratulations to Haoxian Liang on Being Interviewed by Mingli College![My Spark Moments](https://mp.weixin.qq.com/s/0SyJYpWQNhOvDi2sjYaxOg)
 
 - (2025-3) Congratulations! The paper "Efficient Variants of Wasserstein Distance in Hyperbolic Space via Space-filling Curve Projection" by Tao Li, Jun Zhu, and others has been accepted by IEEE TNNLS (IF: 10.2)! This is the third 1A-class journal publication from our group at the research institute![Link](https://mp.weixin.qq.com/s/1LUVaZowmOd9oIREQAScgA)
 
@@ -54,8 +54,10 @@ Latest News
 
 - (2024-12) Congratulations! Mengyu Li has been selected for the 2024 China Association for Science and Technology (CAST) Young Talent Support Program for Doctoral Students, supported by the Chinese Association for Applied Statistics (CAAS)! This is the inaugural year of the program, with approximately 3,000 students selected.[Link](https://mp.weixin.qq.com/s/rRtjWDszTF0U0GonVTHsRA)
 
-- (2024-11) Congratulations! Qiannan Huang has been awwared the JD Scholarship Nomination.
+- (2024-11) Congratulations! Qiannan Huang has been awwared the JD Scholarship Nomination.[Link](https://mp.weixin.qq.com/s/yr_M4j9BJM41Ku5_H25O0Q)
 
-- (2024-11) Congratulations! Qiannan Huang has been awarded the National Scholarship for Master's Students in the 2024 Student Award Review! This is BDAL Lab's third National Scholarship, following the 2023 Doctoral National Scholarship awarded to Mengyu Li and the 2021 Master's National Scholarship awarded to Dianjun Lin.
+- (2024-11) Congratulations! Qiannan Huang has been awarded the National Scholarship for Master's Students in the 2024 Student Award Review! This is BDAL Lab's third National Scholarship, following the 2023 Doctoral National Scholarship awarded to Mengyu Li and the 2021 Master's National Scholarship awarded to Dianjun Lin.[Link](https://cheng-bdal.github.io//images/黄倩楠国奖.jpg)
 
 - (2024-10) Congratulations! Mengyu Li was awarded the Outstanding Poster Award at the 22nd Annual Conference of the China Society for Industrial and Applied Mathematics.[Link](https://mp.weixin.qq.com/s/ffKNLItqx5vv-P0r3Yd2QQ)
+
+- (2024-9) The BDAL-RUC homepage is officially launched! Website maintenance: Chengshuo Du.

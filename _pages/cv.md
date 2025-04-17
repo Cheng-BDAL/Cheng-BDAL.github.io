@@ -31,6 +31,8 @@ Academic Positions
 
 Service
 =====
+- Stat2Spark Mingli Innovation Laboratory Supervisor[Link](https://mp.weixin.qq.com/s/ci3yEQE8B6Om9nn7HDRXJA)
+- <img src="https://cheng-bdal.github.io//images/明理创新实验室.png" alt="Image" width="400"><br>
 - Associate Editor of The Chinese Encyclopedia (Third Edition), Statistics Volume – Data Science Subvolume
 - Reviewer for journals and conferences including Annals of Statistics (AOS), Annals of Applied Statistics (AOAS), Biometrika, Journal of Machine Learning Research (JMLR), Journal of Computational and Graphical Statistics (JCGS), NeurIPS, ICLR, among others.
 
