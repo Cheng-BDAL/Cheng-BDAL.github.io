@@ -46,9 +46,11 @@ Contact information
 
 Latest News
 =====
-- (2025-04) Congratulations to Junyi Lin, Junlie Huang and Dunyao Xue for receiving the Travel Award and being selected for the Doctoral Forum at the 2025 Annual Conference of the Youth Statisticians Association of the National Industrial Statistics Teaching and Research Association and the 3rd International Symposium on Statistical Theory and its Applications.[Link](https://mp.weixin.qq.com/s/ko2HoiA6hpjWPdyo8Q8E-g)
+- (2025-04) Congratulations to Junyi Lin, Junlie Huang and Dunyao Xue for receiving the Travel Award and being selected for the Doctoral Forum at the 2025 Annual Conference of the Youth Statisticians Association of the National Industrial Statistics Teaching and Research Association and the 3rd International Symposium on Statistical Theory and its Applications[Link](https://mp.weixin.qq.com/s/ko2HoiA6hpjWPdyo8Q8E-g). The award was  reported by a well-known academic platform.[Link](https://mp.weixin.qq.com/s/secOUhCJQb0NYumfMlM5qQ) 
 
-- (2025-3) Congratulations to Cheng Meng for leading students Hao Zheng, Tao Wang, Haoxian Liang, and Mengyu Li to win the Huawei "Challenge Solving" 114th Spark Award. This is the team's third time receiving this honor![Link](https://mp.weixin.qq.com/s/NXFraboslDTdyHaGAFEjFA)Congratulations to Haoxian Liang on Being Interviewed by Mingli College![My Spark Moments](https://mp.weixin.qq.com/s/0SyJYpWQNhOvDi2sjYaxOg)
+- (2025-3) Congratulations to Cheng Meng for leading students Hao Zheng, Tao Wang, Haoxian Liang, and Mengyu Li to win the Huawei "Challenge Solving" 114th Spark Award. This is the team's third time receiving this honor!
+[Link](https://mp.weixin.qq.com/s/NXFraboslDTdyHaGAFEjFA)Congratulations to Haoxian Liang on Being Interviewed by Mingli College!
+[My Spark Moments](https://mp.weixin.qq.com/s/0SyJYpWQNhOvDi2sjYaxOg)
 
 - (2025-3) Congratulations! The paper "Efficient Variants of Wasserstein Distance in Hyperbolic Space via Space-filling Curve Projection" by Tao Li, Jun Zhu, and others has been accepted by IEEE TNNLS (IF: 10.2)! This is the third 1A-class journal publication from our group at the research institute![Link](https://mp.weixin.qq.com/s/1LUVaZowmOd9oIREQAScgA)
 
