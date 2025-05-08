@@ -36,7 +36,7 @@ Graduation Commemoration on May 17, 2024.
 - Xin Wang (MS, 2020-2022, PhD student at University of Washington)
 
 
-## Photos
+## Team members
 <style>
   table, tr, td {
     border: none !important;
@@ -53,49 +53,105 @@ Graduation Commemoration on May 17, 2024.
   }
 </style>
 
-## Photos
 
 <table>
   <tr>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/李梦雨.jpg" alt="Mengyu Li"><br>
       Mengyu Li
+      PhD (2020)
+      School of Statistics, Beijing Normal University 
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/康欣来.jpg" alt="Xinlai Kang"><br>
       Xinlai Kang
+      Phd (2021)
+      School of Statistics, Renmin University of China
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/黄君烈.jpg" alt="Junlie Huang"><br>
       Junlie Huang
+      PhD (2022)
+      Mathematics and Applied Mathematics, Tsinghua University
     </td>
   </tr>
   <tr>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/朱珺.jpg" alt="Jun Zhu"><br>
       Jun Zhu
+      PhD (2022)
+      School of Mathematics, Southeast University
+      
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/杜承朔.jpg" alt="Chengshuo Du"><br>
       Chengshuo Du
+      PhD (2023)
+      School of Mathematics, Beihang University
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/王涛.jpg" alt="Tao Wang"><br>
       Tao Wang
+      PhD (2023)
+      School of Mathematics, Tianjin University
     </td>
   </tr>
   <tr>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/欧阳夏雪.jpg" alt="Xiaxue Ouyang"><br>
       Xiaxue Ouyang
+      PhD (2023)
+      School of Mathematics, Wuhan University
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/林俊一.jpg" alt="Junyi Lin"><br>
       Junyi Lin
+      PhD (2024)
+      School of Statistics and Data Science, Nankai University
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/薛敦耀.jpg" alt="Dunyao Xue"><br>
       Dunyao Xue
+      PhD (2024)
+      Cuiying Honors College, Lanzhou University
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/董雨铮.jpg" alt="Xiaxue Ouyang"><br>
+      Yuzheng Dong
+      PhD (2025)
+      School of Mathematical Sciences, Beijing Normal University
+    </td>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/曾贺舵.jpg" alt="Junyi Lin"><br>
+      Heduo Zeng
+    </td>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/王沛泽.jpg" alt="Dunyao Xue"><br>
+      Peize Wang
+      PhD (2025)
+      School of Mathematical Sciences, Xiamen University
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/黄倩楠.jpg" alt="Xiaxue Ouyang"><br>
+      Qiannan Huang
+      M.S. (2023)
+      School of Mathematics, Tianjin University
+    </td>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/郑浩.jpg" alt="Junyi Lin"><br>
+      Hao Zheng
+      M.s. (2023)
+      School of Mathematics, Shandong University
+    </td>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/梁浩贤.jpg" alt="Dunyao Xue"><br>
+      Haoxian Liang
+      M.S. (2024)
+      School of Mathematical Sciences, Beijing Normal University
     </td>
   </tr>
 </table>
