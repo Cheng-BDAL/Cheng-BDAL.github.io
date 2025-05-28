@@ -46,9 +46,7 @@ Contact information
 
 Latest News
 ======
-- (2025-05) Congratulations to Dr. Mengyu Li (Ph.D.) and Qiannan Huang (Master’s) on successfully passing their thesis defenses!
-
-- (2025-05) Congratulations to Mengyu Li on successfully passing her Ph.D. dissertation defense! "Nothing in the world is difficult for one who is determined." May your confidence and perseverance empower you like wings of a tiger. May your idealism never fade, as you continue to pursue research that is both visionary and grounded. And may you face the greater challenges ahead with strength — fearless and untroubled.
+- (2025-05) Congratulations to Dr. Mengyu Li (Ph.D.) and Qiannan Huang (Master’s) on successfully passing their thesis defenses! "Nothing in the world is difficult for one who is determined." May your confidence and perseverance empower you like wings of a tiger. May your idealism never fade, as you continue to pursue research that is both visionary and grounded. And may you face the greater challenges ahead with strength — fearless and untroubled.
 
 - (2025-05) Congratulations to Junlie Huang, Xinlai Kang, Qiannan Huang, and others on their paper "Efficient Approximation of Leverage Scores in Two-dimensional Autoregressive Models with Application to Image Anomaly Detection" being accepted by JCGS! This marks the 9th paper from our group published in a Category 1B journal of the Research Institute![Link](https://mp.weixin.qq.com/s/68Qa5Yv9DNXlm035fzIhjQ)
 
