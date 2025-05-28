@@ -188,7 +188,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     <td>
       <img src="https://cheng-bdal.github.io//images/李梦雨毕业照/李梦雨毕业照2.jpg" alt="Mengyu Li"><br>
       Graduation Commemoration on May 16, 2025<br>
-      <br>
+      Postdoctoral Researcher, Department of Statistics, Tsinghua University<br>
       <br>
       <br>
     </td>
