@@ -15,16 +15,20 @@ Lab Group Photo
 About BDAL-RUC
 ======
 <p style="text-align: justify;">
-Hello everyone, I'm Cheng Meng, currently an Assistant Professor and Ph.D. advisor at the Institute of Statistics and Big Data at Renmin University of China (RUC). My primary research interests lie in big data statistics, optimal transport, artificial intelligence, and industrial statistics.
+Hi! I’m Cheng Meng, currently a tenure-track Assistant Professor and Ph.D. advisor at the School of Statistics and Data Science, Renmin University of China (RUC). My research interests include Big Data Statistics, Optimal Transport, Artificial Intelligence, and Industrial Statistics, among others. I received my B.S. in Mathematics from Tsinghua University in 2015 and my Ph.D. in Statistics from the University of Georgia (UGA) in 2020. I was fortunate to be advised by a wonderful academic couple, Prof. Ping Ma and Prof. Wenxuan Zhong, who co-direct the Big Data Analytics Lab (BDAL) at UGA.
 </p>
 
 <p style="text-align: justify;">
-I graduated from the Department of Mathematics at Tsinghua University in 2015 and earned my Ph.D. in Statistics from the University of Georgia in 2020. I was fortunate to be advised by the remarkable academic duo, Professors Ping Ma and Wenxuan Zhong, who lead the Big Data Analytics Lab (BDAL). After joining RUC, I had the pleasure of working with a talented group of students, with whom I co-founded the BDAL-RUC Lab. To date, my students have been awarded the Joint Statistical Meetings (JSM) Student Paper Award twice (a first for institutions in mainland China) and have received the National Scholarship on three occasions.
+Since joining RUC, I have been privileged to work with a group of exceptional students to establish the BDAL-RUC Lab. Our students have achieved numerous honors, including: One Wu Yuzhang Honorary Scholarship – the highest student honor at RUC, awarded to only four Ph.D. students annually. Two JSM Student Paper Awards – a prestigious international award at the world’s largest statistics conference, marking the first time in nearly 30 years that a Ph.D. student trained entirely in China has received this honor, And three National Graduate Scholarships.
 </p>
 
 <p style="text-align: justify;">
-I am honored to have received the 2023 Junior Researcher Award from the International Chinese Statistical Association (one of five recipients globally) and three Huawei Spark Award for tackling key challenges, with recognition from both RUC's and Huawei's official media channels. I serve as the principal investigator for a National Natural Science Foundation of China (NSFC) Youth Fund project as well as multiple projects sponsored by Huawei. In recent years, our lab has been dedicated to developing theoretically grounded, fast algorithms for big data, aiming to advance the application of statistical methodologies across a range of industrial and interdisciplinary domains.
+I was honored to receive the 2023 Junior Researcher Award from the Pan-Asian Committee for Statistical Research (one of only five recipients worldwide). Under my leadership, our team has also won the Huawei Spark Award three times for solving major industrial challenges, recognized by both RUC and Huawei official media. Additionally, I serve as Associate Editor for the Data Science Volume of the 3rd Edition of the Encyclopedia of China (Statistics), playing an active role in its compilation. I have led several national and industrial research projects, including funding from the National Natural Science Foundation of China (NSFC) and Huawei.
+
+Our lab is currently focused on developing theory-backed, scalable algorithms for big data, with a mission to enable the practical deployment of statistical methods across diverse industrial applications.
 </p>
+
+
 
 Highlights
 ======
