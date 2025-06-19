@@ -125,6 +125,13 @@ author_profile: true  # 可选，视需要是否显示作者信息
       BS: Beijing Normal University<br>
       School of Mathematical Sciences
     </td>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/柳欣怡.jpg" alt="Xiaxue Ouyang"><br>
+      Xinyi Liu<br>
+      BS: Renmin University of China<br>
+      Business School<br>
+      <br>
+    </td>
   </tr>
 </table>
 

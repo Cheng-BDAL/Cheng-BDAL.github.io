@@ -51,7 +51,7 @@ Contact information
 Latest News
 ======
 - (2025-06)<span style="color: rgb(165, 16, 33);"> Congratulations to Mengyu Li on receiving the "Wu Yuzhang Scholarship"! The "Wu Yuzhang Scholarship" is the highest honor awarded to students at our university. It is presented to graduating students who demonstrate all-around excellence in moral character, intellect, physical fitness, aesthetics, and labor, and who best embody the university's educational goals. Each year, only four doctoral students are selected for this prestigious award!
-[Link](https://mp.weixin.qq.com/s/QhNF0S1-fVvmXWJoVN2c3Q)</span>
+[Link](https://mp.weixin.qq.com/s/zID17NSsC8q4sK_bimLOJQ)</span>
 
 - (2025-06) Congratulations to Mengyu Li and co-authors on their paper "Double Optimal Transport for Differential Gene Regulatory Network Inference with Unpaired Samples" being accepted by Bioinformatics in June 2025! This marks the 10th paper from our group published in a Class-A journal recognized by Renmin University of China.
 
