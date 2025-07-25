@@ -132,6 +132,13 @@ author_profile: true  # 可选，视需要是否显示作者信息
       Business School<br>
       <br>
     </td>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/金贝宁.jpg" alt="Xiaxue Ouyang"><br>
+      Beining Jin<br>
+      PhD candidate (2024)<br>
+      BS: Beijing University of Technology<br>
+      School of Science
+    </td>
   </tr>
 </table>
 
@@ -195,7 +202,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     <td>
       <img src="https://cheng-bdal.github.io//images/李梦雨毕业照/李梦雨毕业照2.jpg" alt="Mengyu Li"><br>
       Graduation Commemoration on May 16, 2025<br>
-      Postdoctoral Researcher, Department of Statistics, Tsinghua University<br>
+      Shuimu Scholar, Department of Statistics, Tsinghua University<br>
       <br>
       <br>
     </td>
@@ -219,7 +226,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
       Graduation Commemoration on May 25, 2025<br>
       Next affiliation:<br>
       HKU Business School<br>
-      <br>
+      Graduation Message: <a href="https://mp.weixin.qq.com/s/JjcNgioFblkL_FJBtw1wbw">Link</a><br>
     </td>
   </tr>
 </table>
