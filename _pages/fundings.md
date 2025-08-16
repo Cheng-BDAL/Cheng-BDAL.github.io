@@ -6,31 +6,34 @@ author_profile: true
 ---
 
 ## PI Fundings
-- Technology Cooperation Project (PI ¥550,000)  
+- Technology Cooperation Project (Project completed, rated as excellent)  
   - Huawei Technologies Co., Ltd. Photonics
+  - Recorded in Huawei's Outstanding Talent System: Junlie Huang, Zhengbo Wang, Lvjia Di. 
 
-- Technology Cooperation Project (PI ¥920,000)  
+- Technology Cooperation Project (Project completed, rated as excellent.)  
   - Huawei Technologies Co., Ltd. 2012 Laboratory 
+  - Recorded in Huawei's Outstanding Talent System: Peize Wang, Tao Wang.
 
-- Technology Cooperation Project (PI ¥500,000)  
+- Technology Cooperation Project (Project completed, rated as excellent.)  
   - Huawei Technologies Co., Ltd. Photonics 
-  - Project completed, rated as excellent.
   - Recorded in Huawei's Outstanding Talent System: Xinlai Kang, Qiannan Huang, Tao Wang.
 
-- National Natural Science Foundation of China (PI ¥300,000)  
+- National Natural Science Foundation of China (Project completed)  
   - Grant No. 12101606  
   - Effective model-free subsampling methods. 
   
-- Science Foundation for Youths (PI ¥100,000)  
+- Science Foundation for Youths  
   - Renmin University of China  
   - Optimal transport problems in big data. 
 
 ## Co-PI Fundings
 
-- National Natural Science Foundation of China (Co-PI ¥500,000)  
+- National Natural Science Foundation of China  
   - Grant No. 12271522  
   - Single-cell multi-omics data fusion modeling and heterogeneity analysis.
 
-- Beijing Natural Science Foundation of China (Co-PI ¥200,000)  
+- Beijing Natural Science Foundation of China
   - Grant No. 1232019  
   - Large-sample subsampling under measurement constraint.
+
+- Technical collaboration project with Huawei Technologies Co., Ltd., Semiconductor Division.

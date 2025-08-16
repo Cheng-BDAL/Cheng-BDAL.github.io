@@ -50,6 +50,9 @@ Contact information
 
 Latest News
 ======
+- (2025-08) Congratulations to Cheng Meng and co-authors on their paper "SPOT: An Active Learning Algorithm for Efficient Deep
+ Neural Network Training" being accepted by Big Data Mining and Analytics (IF: 13.6)!
+
 - (2025-07) Congratulations to Mengyu Li on being selected for Tsinghua University’s “Shuimu Scholar” Program! The “Shuimu Scholar” Program is a key initiative of Tsinghua University aimed at cultivating high-level young talents. Its goal is to foster a group of outstanding young scholars who are dedicated to academic research, innovative in spirit, socially responsible, and equipped with a global vision. The program supports no more than 100 individuals each year.
 
 - (2025-06) Cheng Meng was invited to multiple platforms to introduce the statistics major and share stories from his personal growth journey.[Link](https://www.bilibili.com/video/BV1gZM1zSEKs/?spm_id_from=333.337.search-card.all.click&vd_source=e6527d198967f47b463a38a48f92d812)
