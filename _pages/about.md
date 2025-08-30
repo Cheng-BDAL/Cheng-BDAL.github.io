@@ -50,6 +50,8 @@ Contact information
 
 Latest News
 ======
+- (2025-08) Congratulations to Xiaxue Ouyang for hosting the project "Efficient Feature Selection Driven by Adaptive Subsampling and Bio-inspired Encoding Expansion and Sparse Representation Methods," which has been approved as a 2025 Graduate Scientific Research Fund Project by the Institute of Statistics and Big Data.
+
 - (2025-08) Congratulations to Cheng Meng and co-authors on their paper "SPOT: An Active Learning Algorithm for Efficient Deep
  Neural Network Training" being accepted by Big Data Mining and Analytics (IF: 13.6)!
 
