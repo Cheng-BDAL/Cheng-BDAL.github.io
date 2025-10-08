@@ -50,12 +50,17 @@ Contact information
 
 Latest News
 ======
+- (2025-10) Congratulations to Meng Cheng for participating in the project “Building a New Collegiate System for All Students to Foster an Innovative ‘Three Crosses, Three Integrations, and Three Learnings’ Talent Development Ecosystem for the Future”, which won the Special Prize (Undergraduate Category) of the Renmin University of China Teaching Achievement Awards!
+
+- (2025-10) Congratulations to Meng Cheng for participating in the project “Construction and Practice of a ‘Big Data Statistics+’ Innovative and Interdisciplinary International Talent Training System”, which won the First Prize (Postgraduate Category) of the Renmin University of China Teaching Achievement Awards!
+
+- (2025-09) Congratulations to Xinlai Kang and co-authors on their paper “Hausdorff Correlation for Interval-valued Random Objects” being accepted by Statistics and Computing! This marks the 12th paper from our group published in an RUC A- class journal!
+
 - (2025-09) Our work Gaussian Herding across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS has been accepted at NeurIPS 2025 as a spotlight!
 
 - (2025-08) Congratulations to Xiaxue Ouyang for hosting the project "Efficient Feature Selection Driven by Adaptive Subsampling and Bio-inspired Encoding Expansion and Sparse Representation Methods," which has been approved as a 2025 Graduate Scientific Research Fund Project by the Institute of Statistics and Big Data.
 
-- (2025-08) Congratulations to Cheng Meng and co-authors on their paper "SPOT: An Active Learning Algorithm for Efficient Deep
- Neural Network Training" being accepted by Big Data Mining and Analytics (IF: 13.6)!
+- (2025-08) Congratulations to Cheng Meng and co-authors on their paper "SPOT: An Active Learning Algorithm for Efficient Deep Neural Network Training" being accepted by Big Data Mining and Analytics (IF: 13.6)!
 
 - (2025-07) Congratulations to Mengyu Li on being selected for Tsinghua University’s “Shuimu Scholar” Program! The “Shuimu Scholar” Program is a key initiative of Tsinghua University aimed at cultivating high-level young talents. Its goal is to foster a group of outstanding young scholars who are dedicated to academic research, innovative in spirit, socially responsible, and equipped with a global vision. The program supports no more than 100 individuals each year.
 

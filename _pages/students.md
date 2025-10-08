@@ -140,6 +140,46 @@ author_profile: true  # 可选，视需要是否显示作者信息
       School of Science
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/向智鹏.jpg" alt="Xiaxue Ouyang"><br>
+      Zhipeng Xiang<br>
+      PhD candidate (2025)<br>
+      BS: Nankai University<br>
+      School of Statistics and Data Science
+    </td>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/王政博.jpg" alt="Xiaxue Ouyang"><br>
+      Zhengbo Wang<br>
+      M.S. (2025)<br>
+      BS: Dongbei University of Finance and Economics<br>
+      School of Accounting
+      <br>
+    </td>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/吕佳迪.jpg" alt="Xiaxue Ouyang"><br>
+      Jiadi Lv<br>
+      M.S. (2025)<br>
+      BS: Zhongnan University of Economics and Law<br>
+      School of Statistics and Mathematics
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/胡婧璇.jpg" alt="Xiaxue Ouyang"><br>
+      Jingxuan Hu<br>
+      M.S. (2025)<br>
+      BS: Beijing Jiaotong University<br>
+      School of Economics and Management
+    </td>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/蒋文浩.jpg" alt="Xiaxue Ouyang"><br>
+      蒋文浩<br>
+      M.S. (2025)<br>
+      BS: Renmin University of China<br>
+      School of Mathematics
+    </td>
+  </tr>
 </table>
 
 ## Graduated Students
