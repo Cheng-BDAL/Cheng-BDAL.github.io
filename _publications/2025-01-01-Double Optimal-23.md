@@ -1,5 +1,5 @@
 ---
-title: "Double Optimal Transportfor Differential Gene Regulatory Network Inference with Unpaired Samples"
+title: "Double Optimal Transport for Differential Gene Regulatory Network Inference with Unpaired Samples"
 collection: publications
 category: manuscripts
 permalink: 'https://www.tandfonline.com/doi/abs/10.1080/10618600.2025.2505732'
