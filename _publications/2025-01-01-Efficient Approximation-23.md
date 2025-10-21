@@ -1,5 +1,5 @@
 ---
-title: "Efficient Approximation of Leverage Scores in Two-dimensional Autoregressive Models with Application to Image Anomaly Detection"
+title: "Efficient approximation of leverage scores in two-dimensional autoregressive models with application to image anomaly detection"
 collection: publications
 category: manuscripts
 permalink: 'https://www.tandfonline.com/doi/abs/10.1080/10618600.2025.2505732'

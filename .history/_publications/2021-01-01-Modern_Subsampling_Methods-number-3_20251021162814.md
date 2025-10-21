@@ -1,5 +1,5 @@
 ---
-title: "Modern subsampling methods for large-scale least squares regression"
+title: "More efficient computation of smoothing splines via space-filling basis selection"
 collection: publications
 category: manuscripts
 permalink: 'https://www.igi-global.com/article/modern-subsampling-methods-for-large-scale-least-squares-regression/280467'
