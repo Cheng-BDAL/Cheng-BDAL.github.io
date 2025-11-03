@@ -50,7 +50,7 @@ Contact information
 
 Latest News
 ======
-- (2025-11) Congratulations to Junlie Huang, Chengshuo Du, Tao Wang and Dunyao Xue for the Outstanding Poster Award at the 9th Student Forum of the China Society for Industrial and Applied Mathematics(CSIAM), with the number of awards ranking first among all participating units! [Link](https://mp.weixin.qq.com/s/krRC5HjTbBXFPWO6ZEP19Q)
+- (2025-11) Congratulations to Junlie Huang, Chengshuo Du, Tao Wang and Dunyao Xue for the Outstanding Poster Award at the 9th Student Forum of the China Society for Industrial and Applied Mathematics(CSIAM), with the number of awards ranking first among all participating units![Link](https://mp.weixin.qq.com/s/krRC5HjTbBXFPWO6ZEP19Q)
 
 - (2025-11) Congratulations to Zhu Jun for receiving the Doctoral Student Comprehensive Scholarship (only 4 recipients across the entire institute)!
 
@@ -105,4 +105,4 @@ Congratulations to Haoxian Liang on Being Interviewed by Mingli College！
 
 - (2024-10) Congratulations! Mengyu Li was awarded the Outstanding Poster Award at the 22nd Annual Conference of the China Society for Industrial and Applied Mathematics.[Link](https://mp.weixin.qq.com/s/ffKNLItqx5vv-P0r3Yd2QQ)
 
-- (2024-9) The BDAL-RUC homepage is officially launched! Website maintenance: Chengshuo Du.
+- (2024-9) The BDAL-RUC homepage is officially launched! Website maintenance: Chengshuo Du, Zhipeng Xiang.
