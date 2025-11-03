@@ -4,7 +4,6 @@ title: "China Association for Science and Technology (CAST) Young Talent Support
 date: 2024-12-31  # 奖励的发布日期
 categories: rewards  # 类别，使用 rewards 以便归档
 permalink: https://mp.weixin.qq.com/s/rRtjWDszTF0U0GonVTHsRA
-order: -3
 
 ---
 

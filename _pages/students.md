@@ -107,7 +107,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/王沛泽.jpg" alt="Dunyao Xue"><br>
       Peize Wang<br>
-      PhD candidate (2025)<br>
+      PhD candidate (2024)<br>
       BS: Xiamen University<br>
       School of Mathematical Sciences<br>
       wpz2024 at ruc dot edu dot can
@@ -130,6 +130,14 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
   </tr>
   <tr>
+      <td>
+      <img src="https://cheng-bdal.github.io//images/头像/金贝宁.jpg" alt="Xiaxue Ouyang"><br>
+      Beining Jin<br>
+      PhD candidate (2024)<br>
+      BS: Beijing University of Technology<br>
+      School of Science<br>
+      Jinbeining at foxmail dot com
+    </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/董雨铮.jpg" alt="Xiaxue Ouyang"><br>
       Yuzheng Dong<br>
@@ -139,30 +147,22 @@ author_profile: true  # 可选，视需要是否显示作者信息
       dongyz0514 at ruc dot edu dot cn
     </td>
     <td>
-      <img src="https://cheng-bdal.github.io//images/头像/柳欣怡.jpg" alt="Xiaxue Ouyang"><br>
-      Xinyi Liu<br>
-      BS: Renmin University of China<br>
-      Business School<br>
-      guyu04202025 at gmail dot com
-      <br>
-    </td>
-    <td>
-      <img src="https://cheng-bdal.github.io//images/头像/金贝宁.jpg" alt="Xiaxue Ouyang"><br>
-      Beining Jin<br>
-      PhD candidate (2024)<br>
-      BS: Beijing University of Technology<br>
-      School of Science<br>
-      Jinbeining at foxmail dot com
-    </td>
-  </tr>
-  <tr>
-    <td>
       <img src="https://cheng-bdal.github.io//images/头像/向智鹏.jpg" alt="Xiaxue Ouyang"><br>
       Zhipeng Xiang<br>
       PhD candidate (2025)<br>
       BS: Nankai University<br>
       School of Statistics and Data Science<br>
       ycx_lives at 163 dot com
+    </td>
+  </tr>
+  <tr>
+      <td>
+      <img src="https://cheng-bdal.github.io//images/头像/柳欣怡.jpg" alt="Xiaxue Ouyang"><br>
+      Xinyi Liu<br>
+      BS: Renmin University of China<br>
+      Business School<br>
+      guyu04202025 at gmail dot com
+      <br>
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/王政博.jpg" alt="Xiaxue Ouyang"><br>
