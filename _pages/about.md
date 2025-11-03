@@ -50,7 +50,7 @@ Contact information
 
 Latest News
 ======
-- (2025-11) Congratulations to Junlie Huang, Chengshuo Du, Tao Wang and Dunyao Xue for the Outstanding Poster Prize at the 9th Student Forum of the China Society for Industrial and Applied Mathematics(CSIAM), with the number of awards ranking first among all participating units![Link](https://mp.weixin.qq.com/s/krRC5HjTbBXFPWO6ZEP19Q)
+- (2025-11) Congratulations to Junlie Huang, Chengshuo Du, Tao Wang and Dunyao Xue for the Outstanding Poster Award at the 9th Student Forum of the China Society for Industrial and Applied Mathematics(CSIAM), with the number of awards ranking first among all participating units! [Link](https://mp.weixin.qq.com/s/krRC5HjTbBXFPWO6ZEP19Q)
 
 - (2025-11) Congratulations to Zhu Jun for receiving the Doctoral Student Comprehensive Scholarship (only 4 recipients across the entire institute)!
 
