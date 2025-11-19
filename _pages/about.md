@@ -50,7 +50,11 @@ Contact information
 
 Latest News
 ======
-- (2025-11) Congratulations to Junlie Huang, Chengshuo Du, Tao Wang and Dunyao Xue for the Outstanding Poster Award at the 9th Student Forum of the China Society for Industrial and Applied Mathematics(CSIAM), with the number of awards ranking first among all participating units![Link](https://mp.weixin.qq.com/s/krRC5HjTbBXFPWO6ZEP19Q)
+- (2025-11) Meng Cheng was selected as one of the 25 representatives of Tsinghua's sports athletes to share the growth and stories of the sports team. [Link](https://mp.weixin.qq.com/s/vy3i4iGzefxdtZy2zuq0dQ)
+
+- (2025-11) Congratulations to Mengyu Li and co-authors on their paper “Iterative Optimal Transport for Multimodal Image Registration” being accepted by Pattern Recognition! This marks the 13th paper from our group published in an RUC A- class journal!
+
+- (2025-11) Congratulations to Junlie Huang, Chengshuo Du, Tao Wang and Dunyao Xue for the Outstanding Poster Award at the 9th Student Forum of the China Society for Industrial and Applied Mathematics(CSIAM), **with the number of awards ranking first among all participating units**! [Link](https://mp.weixin.qq.com/s/krRC5HjTbBXFPWO6ZEP19Q) Honored to be featured on the official news website of Renmin University! [Link](https://news.ruc.edu.cn/1984663406100312065.html)
 
 - (2025-11) Congratulations to Zhu Jun for receiving the Doctoral Student Comprehensive Scholarship (only 4 recipients across the entire institute)!
 

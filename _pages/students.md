@@ -38,6 +38,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
       <img src="https://cheng-bdal.github.io//images/头像/黄君烈.jpg" alt="Junlie Huang"><br>
       Junlie Huang<br>
       PhD candidate (2022)<br>
+      Co-advisor: Associate Professor Shaojun Guo<br>
       BS: Tsinghua University<br>
       Mathematics and Applied Mathematics<br>
       hjl22 at ruc dot edu dot cn
@@ -56,7 +57,8 @@ author_profile: true  # 可选，视需要是否显示作者信息
       <img src="https://cheng-bdal.github.io//images/头像/杜承朔.jpg" alt="Chengshuo Du"><br>
       Chengshuo Du<br>
       PhD candidate (2023)<br>
-      BS: Beihang University<br>
+      Co-advisor: Associate Professor Shaojun Guo<br>
+      BS: Beijing University of Aeronautics and Astronautics<br>
       School of Mathematics<br>
       duchengshuo at ruc dot edu dot cn
     </td>
@@ -72,6 +74,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
       <img src="https://cheng-bdal.github.io//images/头像/欧阳夏雪.jpg" alt="Xiaxue Ouyang"><br>
       Xiaxue Ouyang<br>
       PhD candidate (2023)<br>
+      Co-advisor: Associate Professor Kejun He<br>
       BS: Wuhan University<br>
       School of Mathematics<br>
       ouyangxiaxue at ruc dot edu dot cn
@@ -90,6 +93,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
       <img src="https://cheng-bdal.github.io//images/头像/林俊一.jpg" alt="Junyi Lin"><br>
       Junyi Lin<br>
       PhD candidate (2024)<br>
+      Co-advisor: Associate Professor Kejun He<br>
       BS: Nankai University<br>
       School of Statistics and Data Science<br>
       junyilin at ruc dot edu dot cn
@@ -98,6 +102,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
       <img src="https://cheng-bdal.github.io//images/头像/薛敦耀.jpg" alt="Dunyao Xue"><br>
       Dunyao Xue<br>
       PhD candidate (2024)<br>
+      Co-advisor: Associate Professor Wenlin Dai<br>
       BS: Lanzhou University<br>
       Cuiying Honors College<br>
       xuedunyao1202 at ruc dot edu dot cn
@@ -110,11 +115,11 @@ author_profile: true  # 可选，视需要是否显示作者信息
       PhD candidate (2024)<br>
       BS: Xiamen University<br>
       School of Mathematical Sciences<br>
-      wpz2024 at ruc dot edu dot can
+      wpz2024 at ruc dot edu dot cn
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/曾贺舵.jpg" alt="Junyi Lin"><br>
-      Heduo Zeng<br>
+      Geduo Zeng<br>
       M.S. (2024)<br>
       BS: Wuhan University<br>
       School of Mathematics<br>
@@ -252,7 +257,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
       <img src="https://cheng-bdal.github.io//images/头像/李梦雨.jpg" alt="Mengyu Li"><br>
       Mengyu Li<a href="https://mengyu8042.github.io/">GitHub</a><br>
       PhD candidate (2020)<br>
-      BS: Tianjin University<br>
+      BS: Beijing Normal University<br>
       School of Mathematics<br>
       mengyuli (at) tsinghua.edu.cn
     </td>
