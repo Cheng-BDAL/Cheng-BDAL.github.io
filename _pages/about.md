@@ -50,11 +50,11 @@ Contact information
 
 Latest News
 ======
-- (2025-11) Congratulations to Li Mengyu on receiving the China Postdoctoral Science Foundation！ [Link](https://mp.weixin.qq.com/s/Ziaz-dZziQIdrkS6bBu6uQ)
+- (2025-11) Congratulations to Mengyu Li on receiving the China Postdoctoral Science Foundation！ [Link](https://mp.weixin.qq.com/s/Ziaz-dZziQIdrkS6bBu6uQ)
 
-- (2025-11) Congratulations to Wang Tao for being invited to attend the NeurIPS 2025 offline sharing session in Beijing and for presenting a poster. [Link](https://mp.weixin.qq.com/s/DaLrbOeDIacQ-XAorbPVGA)
+- (2025-11) Congratulations to Tao Wang for being invited to attend the NeurIPS 2025 offline sharing session in Beijing and for presenting a poster. [Link](https://mp.weixin.qq.com/s/DaLrbOeDIacQ-XAorbPVGA)
 
-- (2025-11) Meng Cheng was selected as one of the 25 representatives of Tsinghua's sports athletes to share the growth and stories of the sports team. [Link](https://mp.weixin.qq.com/s/vy3i4iGzefxdtZy2zuq0dQ)
+- (2025-11) Cheng Meng was selected as one of the 25 representatives of Tsinghua's sports athletes to share the growth and stories of the sports team. [Link](https://mp.weixin.qq.com/s/vy3i4iGzefxdtZy2zuq0dQ)
 
 - (2025-11) Congratulations to Mengyu Li and co-authors on their paper “Iterative Optimal Transport for Multimodal Image Registration” being accepted by Pattern Recognition! This marks the 13th paper from our group published in an RUC A- class journal!
 
