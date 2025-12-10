@@ -64,7 +64,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/王涛.jpg" alt="Tao Wang"><br>
-      Tao Wang<br>
+      <a href="https://taowang0105.github.io/">Tao Wang</a><br>
       PhD candidate (2023)<br>
       BS: Tianjin University<br>
       School of Mathematics<br>
