@@ -50,6 +50,8 @@ Contact information
 
 Latest News
 ======
+- (2025-12) Congratulations to Xiaxue Ouyang and co-authors on their paper “Sparsification Techniques for Large-scale Optimal Transport Problems” being accepted by WIREs Computational Statistics!
+
 - (2025-11) Congratulations to Mengyu Li on receiving the China Postdoctoral Science Foundation！ [Link](https://mp.weixin.qq.com/s/Ziaz-dZziQIdrkS6bBu6uQ)
 
 - (2025-11) Congratulations to Tao Wang for being invited to attend the NeurIPS 2025 offline sharing session in Beijing and for presenting a poster. [Link](https://mp.weixin.qq.com/s/DaLrbOeDIacQ-XAorbPVGA)
