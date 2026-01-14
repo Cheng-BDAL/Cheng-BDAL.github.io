@@ -11,8 +11,8 @@ main:
   #- title: "Talks"
   #  url: https://academicpages.github.io/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
   - title: "Awards"
     url: /rewards/
