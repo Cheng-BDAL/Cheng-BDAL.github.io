@@ -50,6 +50,10 @@ Contact information
 
 Latest News
 ======
+- (2026-01) Congratulations to Cheng Meng for receiving the "Best Collaborative Team Achievement Award" from the Huawei 2012 Labs Central Research Institute for 2025!
+
+- (2026-01) Congratulations to Mengyu Li, Junlie Huang, Chengshuo Du, Tao Wang, and Dunyao Xue, five students featured in the 2025 RUC Statistics Student Growth Chronicle! [Link](https://mp.weixin.qq.com/s/ZAW9in5xx4kh3uWEm1sinA)
+
 - (2025-12) Congratulations to Xiaxue Ouyang and co-authors on their paper “Sparsification Techniques for Large-scale Optimal Transport Problems” being accepted by WIREs Computational Statistics!
 
 - (2025-11) Congratulations to Mengyu Li on receiving the China Postdoctoral Science Foundation！ [Link](https://mp.weixin.qq.com/s/Ziaz-dZziQIdrkS6bBu6uQ)
