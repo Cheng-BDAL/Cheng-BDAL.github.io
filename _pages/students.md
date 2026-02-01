@@ -100,7 +100,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/薛敦耀.jpg" alt="Dunyao Xue"><br>
-      Dunyao Xue<br>
+      <a href="https://sapphirexdy.github.io/">Dunyao Xue</a><br>
       PhD candidate (2024)<br>
       Co-advisor: Associate Professor Wenlin Dai<br>
       BS: Lanzhou University<br>
