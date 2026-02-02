@@ -241,20 +241,18 @@ author_profile: true  # 可选，视需要是否显示作者信息
   </tr>
     <tr>
     <td>
-      <img src="https://cheng-bdal.github.io//images/头像/张宇飞.jpg" alt="Junlie Huang"><br>
-      Yufei Zhang<br>
-      PhD candidate (2025)<br>
+      <img src="https://cheng-bdal.github.io//images/头像/罗茜.jpg" alt="Junlie Huang"><br>
+      Qian Luo<br>
+      M.S. (2026)<br>
       Co-advisor: Researcher Zhang Jingyi<br>
-      BS: Yanshan University<br>
-      2025010723 at bupt dot cn
+      2867202110 at qq dot com
     </td>
         <td>
-      <img src="https://cheng-bdal.github.io//images/头像/李泽.jpg" alt="Junlie Huang"><br>
-      Yufei Zhang<br>
-      PhD candidate (2025)<br>
+      <img src="https://cheng-bdal.github.io//images/头像/蒋璇.jpg" alt="Junlie Huang"><br>
+      Xuan Jiang<br>
       Co-advisor: Researcher Zhang Jingyi<br>
       BS: Zhengzhou University<br>
-      li.ze at bupt dot cn
+      2024212523 at bupt dot cn
     </td>
   </tr>
 </table>
@@ -362,7 +360,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
       Xinyi Liu<br>
       BS: Renmin University of China<br>
       Business School<br>
-      guyu04202025 at gmail dot com
+      guyu04202025 at gmail dot com<br>
       Next affiliation:<br>
       University of Georgia<br>
       <br>
