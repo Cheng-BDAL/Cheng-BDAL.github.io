@@ -161,13 +161,21 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
   </tr>
   <tr>
-      <td>
-      <img src="https://cheng-bdal.github.io//images/头像/柳欣怡.jpg" alt="Xiaxue Ouyang"><br>
-      Xinyi Liu<br>
-      BS: Renmin University of China<br>
-      Business School<br>
-      guyu04202025 at gmail dot com
-      <br>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/张宇飞.jpg" alt="Junlie Huang"><br>
+      Yufei Zhang<br>
+      PhD candidate (2025)<br>
+      Co-advisor: Researcher Zhang Jingyi<br>
+      BS: Yanshan University<br>
+      2025010723 at bupt dot cn
+    </td>
+        <td>
+      <img src="https://cheng-bdal.github.io//images/头像/李泽.jpg" alt="Junlie Huang"><br>
+      Ze Li<br>
+      PhD candidate (2025)<br>
+      Co-advisor: Researcher Zhang Jingyi<br>
+      BS: Zhengzhou University<br>
+      li.ze at bupt dot cn
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/王政博.jpg" alt="Xiaxue Ouyang"><br>
@@ -178,6 +186,8 @@ author_profile: true  # 可选，视需要是否显示作者信息
       2025104259 at ruc dot edu dot cn
       <br>
     </td>
+  </tr>
+    <tr>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/吕佳迪.jpg" alt="Xiaxue Ouyang"><br>
       Jiadi Lv<br>
@@ -186,8 +196,6 @@ author_profile: true  # 可选，视需要是否显示作者信息
       School of Statistics and Mathematics<br>
       2025104254 at ruc dot edu dot cn
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/胡婧璇.jpg" alt="Xiaxue Ouyang"><br>
       Jingxuan Hu<br>
@@ -203,6 +211,50 @@ author_profile: true  # 可选，视需要是否显示作者信息
       BS: Renmin University of China<br>
       School of Mathematics<br>
       2021201382 at ruc dot edu dot cn
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/陈佳丰.jpg" alt="Junlie Huang"><br>
+      Jiafeng Chen<br>
+      M.S. (2025)<br>
+      Co-advisor: Researcher Zhang Jingyi<br>
+      BS: Shanxi University of Finance and Economics, Statistics<br>
+      2025111691 at bupt dot cn
+    </td>
+        <td>
+      <img src="https://cheng-bdal.github.io//images/头像/李雨凝.jpg" alt="Junlie Huang"><br>
+      Yuning Li<br>
+      PhD candidate (2026)<br>
+      Co-advisor: Researcher Zhang Jingyi<br>
+      BS: Huazhong Agricultural University, Information and Computing Science<br>
+      13204761705 at 163 dot com
+    </td>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/刘可欣.jpg" alt="Xiaxue Ouyang"><br>
+      Kexin Liu<br>
+      PhD candidate (2026)<br>
+      Co-advisor: Researcher Zhang Jingyi<br>
+      kxliu2025 at bupt dot cn
+      <br>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <img src="https://cheng-bdal.github.io//images/头像/张宇飞.jpg" alt="Junlie Huang"><br>
+      Yufei Zhang<br>
+      PhD candidate (2025)<br>
+      Co-advisor: Researcher Zhang Jingyi<br>
+      BS: Yanshan University<br>
+      2025010723 at bupt dot cn
+    </td>
+        <td>
+      <img src="https://cheng-bdal.github.io//images/头像/李泽.jpg" alt="Junlie Huang"><br>
+      Yufei Zhang<br>
+      PhD candidate (2025)<br>
+      Co-advisor: Researcher Zhang Jingyi<br>
+      BS: Zhengzhou University<br>
+      li.ze at bupt dot cn
     </td>
   </tr>
 </table>
@@ -304,6 +356,18 @@ author_profile: true  # 可选，视需要是否显示作者信息
       <br>
     </td>
   </tr>
+  <tr>
+  <td>
+      <img src="https://cheng-bdal.github.io//images/头像/柳欣怡.jpg" alt="Xiaxue Ouyang"><br>
+      Xinyi Liu<br>
+      BS: Renmin University of China<br>
+      Business School<br>
+      guyu04202025 at gmail dot com
+      Next affiliation:<br>
+      University of Georgia<br>
+      <br>
+    </td>
+    </tr>
 </table>
 
 
