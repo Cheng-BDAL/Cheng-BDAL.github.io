@@ -251,7 +251,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
       <img src="https://cheng-bdal.github.io//images/头像/蒋璇.jpg" alt="Junlie Huang"><br>
       Xuan Jiang<br>
       Co-advisor: Researcher Zhang Jingyi<br>
-      BS: Zhengzhou University<br>
+      BS: Zhengzhou University(2024)<br>
       2024212523 at bupt dot cn
     </td>
   </tr>
@@ -280,7 +280,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     <td>
      <img src="https://cheng-bdal.github.io//images/头像/李涛.jpg" alt="Tao Li"><br>
       Tao Li<a href="https://github.com/sherlockLitao">GitHub</a><br>
-      PhD candidate (2019)<br>
+      PhD (2019)<br>
       Nanjing University<br>
       Department of Mathematics<br>
       lt1306516392 at gmail dot com
@@ -306,7 +306,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/李梦雨.jpg" alt="Mengyu Li"><br>
       Mengyu Li<a href="https://mengyu8042.github.io/">GitHub</a><br>
-      PhD candidate (2020)<br>
+      PhD (2020)<br>
       BS: Beijing Normal University<br>
       School of Mathematics<br>
       mengyuli (at) tsinghua.edu.cn
@@ -358,7 +358,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
   <td>
       <img src="https://cheng-bdal.github.io//images/头像/柳欣怡.jpg" alt="Xiaxue Ouyang"><br>
       Xinyi Liu<br>
-      BS: Renmin University of China<br>
+      BS: Renmin University of China(2021)<br>
       Business School<br>
       guyu04202025 at gmail dot com<br>
       Next affiliation:<br>
