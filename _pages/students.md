@@ -251,7 +251,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
       <img src="https://cheng-bdal.github.io//images/头像/蒋璇.jpg" alt="Junlie Huang"><br>
       Xuan Jiang<br>
       Co-advisor: Researcher Zhang Jingyi<br>
-      BS: Zhengzhou University(2024)<br>
+      BS: Beijing University of Posts and Telecommunications, School of Mathematics<br>
       2024212523 at bupt dot cn
     </td>
   </tr>
@@ -358,7 +358,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
   <td>
       <img src="https://cheng-bdal.github.io//images/头像/柳欣怡.jpg" alt="Xiaxue Ouyang"><br>
       Xinyi Liu<br>
-      BS: Renmin University of China(2021)<br>
+      BS: Renmin University of China<br>
       Business School<br>
       guyu04202025 at gmail dot com<br>
       Next affiliation:<br>
