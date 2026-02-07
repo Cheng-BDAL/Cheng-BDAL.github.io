@@ -28,7 +28,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
   <tr>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/康欣来.jpg" alt="Xinlai Kang"><br>
-      Xinlai Kang<br>
+      <a href="https://kxlkxl1999.github.io/">Xinlai Kang</a><br>
       PhD candidate (2021)<br>
       BS: Renmin University of China<br>
       School of Statistics<br>
