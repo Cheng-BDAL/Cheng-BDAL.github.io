@@ -31,11 +31,11 @@ author_profile: true
   
 ## Co-PI Fundings
 
-- National Natural Science Foundation of China  
+- National Natural Science Foundation of China (Project completed)
   - Grant No. 12271522  
   - Single-cell multi-omics data fusion modeling and heterogeneity analysis.
 
-- Beijing Natural Science Foundation of China
+- Beijing Natural Science Foundation of China (Project completed)
   - Grant No. 1232019  
   - Large-sample subsampling under measurement constraint.
 
