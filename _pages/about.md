@@ -52,7 +52,7 @@ Latest News
 ======
 - (2026-01) Congratulations to Ouyang Xiaxue et al. on their paper "Sparsification Techniques for Large-scale Optimal Transport Problems" being accepted by WIREs Computational Statistics, and for its feature coverage on the renowned statistics public platform "Capital of Statistics"! [Link](https://mp.weixin.qq.com/s/f_F0dMu3QbU_GCBHDJIv4A)
 
-- (2026-01) Congratulations to Junyi Lin, Dunyao Xue, et al. on their paper "An Efficient SE(p)- Invariant Transport Metric Driven by Polar Transport Discrepancy-based Representation" being accepted by ICLR!
+- (2026-01) Congratulations to Junyi Lin, Dunyao Xue, et al. on their paper "An Efficient SE(p)- Invariant Transport Metric Driven by Polar Transport Discrepancy-based Representation" being accepted by ICLR, and for its feature coverage on the renowned public platform "Synced"! [Link](https://mp.weixin.qq.com/s/JMUyM_UScUCKwxmcGBlTAQ)
 
 - (2026-01) Congratulations to Cheng Meng for receiving the "Best Collaborative Team Achievement Award" from the Huawei 2012 Labs Central Research Institute for 2025!
 
