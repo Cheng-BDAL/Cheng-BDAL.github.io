@@ -1,5 +1,5 @@
 ---
-title: "Importance sparsifcation for sinkhorn algorithm"
+title: "Importance sparsification for sinkhorn algorithm"
 collection: publications
 category: manuscripts
 permalink: 'https://www.jmlr.org/papers/v24/22-1311.html'
