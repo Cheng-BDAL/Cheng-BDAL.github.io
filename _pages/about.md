@@ -50,6 +50,8 @@ Contact information
 
 Latest News
 ======
+- (2026-03) Congratulations to Jun Zhu and Cheng Meng on winning the Spark Award in Huawei’s “Challenge Bounty” Issue 131 for the challenge “Online Lithium Plating Detection”!
+
 - (2026-01) Congratulations to Ouyang Xiaxue et al. on their paper "Sparsification Techniques for Large-scale Optimal Transport Problems" being accepted by WIREs Computational Statistics, and for its feature coverage on the renowned statistics public platform "Capital of Statistics"! [Link](https://mp.weixin.qq.com/s/f_F0dMu3QbU_GCBHDJIv4A)
 
 - (2026-01) Congratulations to Junyi Lin, Dunyao Xue, et al. on their paper "An Efficient SE(p)- Invariant Transport Metric Driven by Polar Transport Discrepancy-based Representation" being accepted by ICLR, and for its feature coverage on the renowned AI public platform "Synced"! [Link](https://mp.weixin.qq.com/s/JMUyM_UScUCKwxmcGBlTAQ)
