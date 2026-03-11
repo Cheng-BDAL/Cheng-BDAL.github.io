@@ -6,7 +6,7 @@ permalink: http://isbd.ruc.edu.cn/cslm/d0d29e7f7e83449c96a8c6da0d6de2c0.htm
 ---
 
 ![荣誉奖章](../images/火花奖.jpg){: style="width:400px; height:auto;" }
-
+![荣誉奖章](../images/压缩结项.jpg){: style="width:400px; height:auto;" }
 
 
 

@@ -14,5 +14,6 @@ order: -1
 | Yangtze Campaign Issue 5 | Yangtze Campaign          | Optical Coupling Quick Optimization              | Value Award   | Issue 109       | Mengyu Li, Junlie Huang, Cheng Meng    |
 | Hardware Engineering Challenge Phase 10 | Hardware Engineering        | A Self-Adaptive Fuzzy Detection Adjustment Algorithm | Encouragement Award | Issue 109       | Junlie Huang, Cheng Meng               |
 | EDA Topic | Semiconductor Department | Research on Pattern Feature Extraction and Clustering Algorithms for Large-Scale Chip Layouts | Value Award | Issue 114 | Hao Zheng, Tao Wang, Haoxian Liang, Mengyu Li, Jingyi Zhang, Cheng Meng |
-| Qomolangma Campaign Issue 7 | Forwarding Algorithm Lab | Advanced Technologies for Minimizing the Inter-Die Switching Acceleration Ratio for Chiplet-based Ultra-Wide Switching Chips | Encouragement Award |  | Yuzheng Dong, Junlie Huang, Jinyan Bai, Cheng Meng |
 | Terminal BG Hard Engineering Challenge Phase 6 | Hardware Platform Technology Dept, Watt Lab | Online Lithium Plating Detection | Value Award | Issue 131 | Chun Zhan, Meng Cheng, Longlong Fan, Jun Zhu |
+| Qomolangma Campaign Issue 7 | Forwarding Algorithm Lab | Advanced Technologies for Minimizing the Inter-Die Switching Acceleration Ratio for Chiplet-based Ultra-Wide Switching Chips | Encouragement Award | Issue 135 | Yuzheng Dong, Junlie Huang, Jinyan Bai, Cheng Meng |
+
