@@ -17,3 +17,5 @@ order: -1
 | Terminal BG Hard Engineering Challenge Phase 6 | Hardware Platform Technology Dept, Watt Lab | Online Lithium Plating Detection | Value Award | Issue 131 | Chun Zhan, Meng Cheng, Longlong Fan, Jun Zhu |
 | Qomolangma Campaign Issue 7 | Forwarding Algorithm Lab | Advanced Technologies for Minimizing the Inter-Die Switching Acceleration Ratio for Chiplet-based Ultra-Wide Switching Chips | Encouragement Award | Issue 135 | Yuzheng Dong, Junlie Huang, Jinyan Bai, Cheng Meng |
 
+![荣誉奖章](../images/火花奖.jpg){: style="width:400px; height:auto;" }
+![荣誉奖章](../images/压缩结项.jpg){: style="width:400px; height:auto;" }
