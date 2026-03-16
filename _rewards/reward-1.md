@@ -3,7 +3,7 @@ layout: post  # 使用合适的布局
 title: HUAWEI "Spark Award"  # 奖励名称
 categories: rewards  # 类别，使用 rewards 以便归档
 permalink: https://mp.weixin.qq.com/s/NXFraboslDTdyHaGAFEjFA
-order: -1
+order: 3
 ---
 
 | Challenge Issue       | Department                 | Challenge Name                                   | Award Type   | Spark Award Issue | Core Team Members                      |
