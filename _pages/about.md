@@ -50,6 +50,8 @@ Contact information
 
 Latest News
 ======
+- （2026-03）Congratulations to Dunyao Xue, et al. on their paper "Core-elements Subsampling for Alternating Least Squares" being accepted by JCGS！
+
 - (2026-03) Congratulations to Dunyao Xue on being selected for the 2025-2026 Renmin University of China "Top Innovative Talents Training Funding Program"! [Link](https://grs.ruc.edu.cn/info/1033/3326.htm)
 
 - (2026-03) Congratulations to Jun Zhu and Cheng Meng on winning the Spark Award in Huawei’s “Challenge Bounty” Issue 131 for the challenge “Online Lithium Plating Detection”!
