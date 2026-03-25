@@ -54,7 +54,7 @@ Latest News
 
 - (2026-03) Congratulations to Dunyao Xue on being selected for the 2025-2026 Renmin University of China "Top Innovative Talents Training Funding Program"! [Link](https://grs.ruc.edu.cn/info/1033/3326.htm)
 
-- (2026-03) Congratulations to Jun Zhu and Cheng Meng on winning the Spark Award in Huawei’s “Challenge Bounty” Issue 131 for the challenge “Online Lithium Plating Detection”!
+- (2026-03) Congratulations to Jun Zhu and Cheng Meng on winning the Spark Award in Huawei’s “Challenge Bounty” Issue 131 for the challenge “Online Lithium Plating Detection”! [Link](https://mp.weixin.qq.com/s/aECgm4y8pQs_ImBtHJ-7Pw)
 
 - (2026-01) Congratulations to Ouyang Xiaxue et al. on their paper "Sparsification Techniques for Large-scale Optimal Transport Problems" being accepted by WIREs Computational Statistics, and for its feature coverage on the renowned statistics public platform "Capital of Statistics"! [Link](https://mp.weixin.qq.com/s/f_F0dMu3QbU_GCBHDJIv4A)
 
