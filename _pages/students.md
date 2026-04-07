@@ -45,7 +45,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/朱珺.jpg" alt="Jun Zhu"><br>
-      Jun Zhu<br>
+      Jun Zhu<a href="https://dfsxzj.github.io/homepage/">Github</a><br>
       PhD candidate (2022)<br>
       BS: Southeast University<br>
       School of Mathematics<br>
