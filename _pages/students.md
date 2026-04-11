@@ -36,7 +36,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/黄君烈.jpg" alt="Junlie Huang"><br>
-      Junlie Huang<br>
+      Junlie Huang<a href="https://junlie22.github.io/">Github</a><br>
       PhD candidate (2022)<br>
       Co-advisor: Associate Professor Shaojun Guo<br>
       BS: Tsinghua University<br>
