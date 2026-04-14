@@ -50,7 +50,7 @@ Contact information
 
 Latest News
 ======
-- （2026-03）Congratulations to Dunyao Xue, et al. on their paper "Core-elements Subsampling for Alternating Least Squares" being accepted by JCGS！
+- （2026-03）Congratulations to Dunyao Xue, et al. on their paper "Core-elements Subsampling for Alternating Least Squares" being accepted by JCGS！[Link](https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493684&idx=1&sn=2890bbd35e47576683e9019d532ff71d&chksm=e8c4425f7136d1bed9b4acf814b19ef8179428e79e09fa51e30af3cdfa9842fd2b54290b4c16&mpshare=1&scene=1&srcid=0414OajaNWC2FQBekHecF670&sharer_shareinfo=bcb12df34a4a3d6bd935ea3dc2d09229&sharer_shareinfo_first=bcb12df34a4a3d6bd935ea3dc2d09229#rd)
 
 - (2026-03) Congratulations to Dunyao Xue on being selected for the 2025-2026 Renmin University of China "Top Innovative Talents Training Funding Program"! [Link](https://grs.ruc.edu.cn/info/1033/3326.htm)
 
