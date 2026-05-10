@@ -91,7 +91,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/林俊一.jpg" alt="Junyi Lin"><br>
-      Junyi Lin<br>
+      Junyi Lin<a href="https://junyilin559.github.io/">Github</a><br>
       PhD candidate (2024)<br>
       Co-advisor: Associate Professor Kejun He<br>
       BS: Nankai University<br>
