@@ -127,7 +127,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/梁浩贤.jpg" alt="Dunyao Xue"><br>
-      Haoxian Liang<br>
+      Haoxian Liang<a href="https://haoxian1024.github.io/">Github</a><br>
       M.S. (2024)<br>
       BS: Renmin University of China<br>
       School of Mathematical Sciences<br>
