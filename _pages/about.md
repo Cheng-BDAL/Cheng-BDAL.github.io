@@ -50,6 +50,8 @@ Contact information
 
 Latest News
 ======
+- (2026-05) Congratulations to Xinlai Kang, Dunyao Xue, and Chengshuo Du et al. on the acceptance of their paper "Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE" at ICML 2026, which has been featured and reported by the well-known machine learning public account "Machine Heart" (Ji Qi Zhi Xin)! [Link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034543&idx=2&sn=8c0a91d51644de87618d0cdd9585429d)
+
 - (2026-05) Congratulations to Meng Cheng for participating in the project "Building a New Campus-Wide Academy System to Create a 'Three-Span, Three-Exchange, Three-Learning' Ecosystem for Future Talent Development", which has won the Second Prize of the Beijing Higher Education Teaching Achievement Award! [Link](https://mp.weixin.qq.com/s/tblNY71IJZHax3ybNhkG0A)
 
 - (2026-04) Congratulations to Tao Wang, Chengshuo Du, Xiaoxue Ouyang, and Junyi Lin for winning the Travel Award at the 1st "Mao Shisong Statistical Education Doctoral Forum," hosted by the Young Statisticians Association of the National Association for Industrial Statistics Teaching and Research! [Link](https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493720&idx=1&sn=33806c9917daa341d2b28715e7154461)
