@@ -27,14 +27,6 @@ author_profile: true  # 可选，视需要是否显示作者信息
 <table>
   <tr>
     <td>
-      <img src="https://cheng-bdal.github.io//images/头像/康欣来.jpg" alt="Xinlai Kang"><br>
-      Xinlai Kang<a href="https://kxlkxl1999.github.io/">Github</a><br>
-      PhD candidate (2021)<br>
-      BS: Renmin University of China<br>
-      School of Statistics<br>
-      kangxinlai at ruc dot edu dot cn
-    </td>
-    <td>
       <img src="https://cheng-bdal.github.io//images/头像/黄君烈.jpg" alt="Junlie Huang"><br>
       Junlie Huang<a href="https://junlie22.github.io/">Github</a><br>
       PhD candidate (2022)<br>
@@ -257,7 +249,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
   </tr>
 </table>
 
-## Graduated Students
+## Graduated PhD Students
 <style>
   table, tr, td {
     border: none !important;
@@ -278,35 +270,35 @@ author_profile: true  # 可选，视需要是否显示作者信息
 <table>
   <tr>
     <td>
-     <img src="https://cheng-bdal.github.io//images/头像/李涛.jpg" alt="Tao Li"><br>
-      Tao Li<a href="https://github.com/sherlockLitao">GitHub</a><br>
-      PhD (2019)<br>
-      Nanjing University<br>
-      Department of Mathematics<br>
-      lt1306516392 at gmail dot com
+      <img src="https://cheng-bdal.github.io//images/头像/康欣来.jpg" alt="Xinlai Kang"><br>
+      Xinlai Kang<a href="https://kxlkxl1999.github.io/">Github</a><br>
+      PhD (2026)<br>
+      BS: Renmin University of China<br>
+      School of Statistics<br>
+      kangxinlai at ruc dot edu dot cn
     </td>
     <td>
-    <img src="https://cheng-bdal.github.io//images/李涛毕业礼物.jpg" alt="Tao Li"><br>
-    Graduation Message: The iron pass was daunting, yet now we begin anew with confident steps.<br>
-    <br>
-    <br>
-    <br>
-    <br>
+      <img src="https://cheng-bdal.github.io//images/康欣来毕业照/康欣来毕业照1.jpg" alt="Xinlai Kang"><br>
+      Graduation Message: Take the long view.<br>
+      <br>
+      <br>
+      <br>
+      <br>
     </td>
     <td>
-    <img src="https://cheng-bdal.github.io//images/李涛毕业照.jpg" alt="Tao Li"><br>
-    Graduation Commemoration on May 17, 2024<br>
-    Work destination: China Galaxy Securities<br>
-    <br>
-    <br>
-    <br>
+      <img src="https://cheng-bdal.github.io//images/康欣来毕业照/康欣来毕业照2.jpg" alt="Xinlai Kang"><br>
+      Graduation Commemoration on May 28, 2026<br>
+      Next affiliation: Huawei Central Research Institute<br>
+      Foundation Model Laboratory<br>
+      <br>
+      <br>
     </td>
   </tr>
   <tr>
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/李梦雨.jpg" alt="Mengyu Li"><br>
       Mengyu Li<a href="https://mengyu8042.github.io/">GitHub</a><br>
-      PhD (2020)<br>
+      PhD (2025)<br>
       BS: Beijing Normal University<br>
       School of Mathematics<br>
       mengyuli (at) tsinghua.edu.cn
@@ -330,9 +322,39 @@ author_profile: true  # 可选，视需要是否显示作者信息
   </tr>
   <tr>
     <td>
+     <img src="https://cheng-bdal.github.io//images/头像/李涛.jpg" alt="Tao Li"><br>
+      Tao Li<a href="https://github.com/sherlockLitao">GitHub</a><br>
+      PhD (2024)<br>
+      Nanjing University<br>
+      Department of Mathematics<br>
+      lt1306516392 at gmail dot com
+    </td>
+    <td>
+    <img src="https://cheng-bdal.github.io//images/李涛毕业礼物.jpg" alt="Tao Li"><br>
+    Graduation Message: The iron pass was daunting, yet now we begin anew with confident steps.<br>
+    <br>
+    <br>
+    <br>
+    <br>
+    </td>
+    <td>
+    <img src="https://cheng-bdal.github.io//images/李涛毕业照.jpg" alt="Tao Li"><br>
+    Graduation Commemoration on May 17, 2024<br>
+    Next affiliation: China Galaxy Securities<br>
+    <br>
+    <br>
+    <br>
+    </td>
+  </tr>
+</table>
+
+## Graduated M.S. Students
+<table>
+  <tr>
+    <td>
       <img src="https://cheng-bdal.github.io//images/头像/黄倩楠.jpg" alt="Xiaxue Ouyang"><br>
       Qiannan Huang<br>
-      M.S. (2023)<br> 
+      M.S. (2025)<br> 
       BS: Tianjin University<br>
       School of Mathematics<br>
       joliarbre99 at gmail dot com
@@ -358,7 +380,8 @@ author_profile: true  # 可选，视需要是否显示作者信息
   <td>
       <img src="https://cheng-bdal.github.io//images/头像/柳欣怡.jpg" alt="Xiaxue Ouyang"><br>
       Xinyi Liu<br>
-      BS: Renmin University of China<br>
+      Undergraduate (2025)<br>
+      Renmin University of China<br>
       Business School<br>
       guyu04202025 at gmail dot com<br>
       Next affiliation:<br>
@@ -369,8 +392,8 @@ author_profile: true  # 可选，视需要是否显示作者信息
 </table>
 
 
-- Xitong Wei (MS, 2020-2022, Meituan)
-- Dianjun Lin (MS, 2020-2022, PhD student at  The Pennsylvania State University)
-- Xin Wang (MS, 2020-2022, PhD student at University of Washington)
+- Xitong Wei (M.S., 2022, Meituan)
+- Dianjun Lin (M.S., 2022, PhD student at The Pennsylvania State University)
+- Xin Wang (M.S., 2022, PhD student at University of Washington)
 
 
