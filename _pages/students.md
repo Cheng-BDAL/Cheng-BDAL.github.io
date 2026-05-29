@@ -1,4 +1,4 @@
-﻿---
+---
 layout: archive  # 选择一个适合的布局，如 'page' 或者 'default'
 permalink: /students/
 title: "Students"
@@ -262,7 +262,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
     <td>
       <img src="https://cheng-bdal.github.io//images/康欣来毕业照/康欣来毕业照1.jpg" alt="Xinlai Kang"><br>
-      Graduation Message: Take the long view.<br>
+      Graduation Message: Take a broad and long-term view.<br>
       <br>
       <br>
       <br>
@@ -371,7 +371,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     <td>
       <img src="https://cheng-bdal.github.io//images/头像/郑浩.jpg" alt="Hao Zheng"><br>
       Hao Zheng<br>
-      M.S. (2025)<br>
+      M.S. (2026)<br>
       BS: Shandong University<br>
       School of Mathematics<br>
       2023103362 at ruc dot edu dot cn

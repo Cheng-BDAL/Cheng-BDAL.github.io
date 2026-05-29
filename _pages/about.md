@@ -44,7 +44,7 @@ Highlights
 
 Contact information
 ======
-- **Address:** 710 Chondde Xi Building, Haidian, Beijing, China
+- **Address:** 710 Chongde West Building, Haidian, Beijing, China
 
 - **Email:** chengmeng at ruc dot edu dot cn
 
@@ -52,9 +52,9 @@ Latest News
 ======
 - (2026-05) Congratulations to Xinlai Kang, Dunyao Xue, Zhengbo Wang, and Chengshuo Du et al. on the acceptance of their paper "Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE" at ICML 2026, which has been featured and reported by the well-known machine learning public account "Machine Heart" (Ji Qi Zhi Xin)! [Link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034543&idx=2&sn=8c0a91d51644de87618d0cdd9585429d)
 
-- (2026-05) Congratulations to Meng Cheng for participating in the project "Building a New Campus-Wide Academy System to Create a 'Three-Span, Three-Exchange, Three-Learning' Ecosystem for Future Talent Development", which has won the Second Prize of the Beijing Higher Education Teaching Achievement Award! [Link](https://mp.weixin.qq.com/s/tblNY71IJZHax3ybNhkG0A)
+- (2026-05) Congratulations to Cheng Meng for participating in the project "Building a New Campus-Wide Academy System to Create a 'Three-Span, Three-Exchange, Three-Learning' Ecosystem for Future Talent Development", which has won the Second Prize of the Beijing Higher Education Teaching Achievement Award! [Link](https://mp.weixin.qq.com/s/tblNY71IJZHax3ybNhkG0A)
 
-- (2026-04) Congratulations to Tao Wang, Chengshuo Du, Xiaoxue Ouyang, and Junyi Lin for winning the Travel Award at the 1st "Mao Shisong Statistical Education Doctoral Forum," hosted by the Young Statisticians Association of the National Association for Industrial Statistics Teaching and Research! [Link](https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493720&idx=1&sn=33806c9917daa341d2b28715e7154461)
+- (2026-04) Congratulations to Tao Wang, Chengshuo Du, Xiaxue Ouyang, and Junyi Lin for winning the Travel Award at the 1st "Mao Shisong Statistical Education Doctoral Forum," hosted by the Young Statisticians Association of the National Association for Industrial Statistics Teaching and Research! [Link](https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493720&idx=1&sn=33806c9917daa341d2b28715e7154461)
 
 - （2026-03）Congratulations to Dunyao Xue, et al. on their paper "Core-elements Subsampling for Alternating Least Squares" being accepted by JCGS！[Link](https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493684&idx=1&sn=2890bbd35e47576683e9019d532ff71d&chksm=e8c4425f7136d1bed9b4acf814b19ef8179428e79e09fa51e30af3cdfa9842fd2b54290b4c16&mpshare=1&scene=1&srcid=0414OajaNWC2FQBekHecF670&sharer_shareinfo=bcb12df34a4a3d6bd935ea3dc2d09229&sharer_shareinfo_first=bcb12df34a4a3d6bd935ea3dc2d09229#rd)
 
@@ -64,7 +64,7 @@ Latest News
 
 - (2026-01) Congratulations to Ouyang Xiaxue et al. on their paper "Sparsification Techniques for Large-scale Optimal Transport Problems" being accepted by WIREs Computational Statistics, and for its feature coverage on the renowned statistics public platform "Capital of Statistics"! [Link](https://mp.weixin.qq.com/s/f_F0dMu3QbU_GCBHDJIv4A)
 
-- (2026-01) Congratulations to Junyi Lin, Dunyao Xue, et al. on their paper "An Efficient SE(p)- Invariant Transport Metric Driven by Polar Transport Discrepancy-based Representation" being accepted by ICLR, and for its feature coverage on the renowned AI public platform "Synced"! [Link](https://mp.weixin.qq.com/s/JMUyM_UScUCKwxmcGBlTAQ)
+- (2026-01) Congratulations to Junyi Lin, Dunyao Xue, et al. on their paper "An Efficient SE(p)-Invariant Transport Metric Driven by Polar Transport Discrepancy-Based Representation" being accepted by ICLR, and for its feature coverage on the renowned AI public platform "Synced"! [Link](https://mp.weixin.qq.com/s/JMUyM_UScUCKwxmcGBlTAQ)
 
 - (2026-01) Congratulations to Cheng Meng for receiving the "Best Collaborative Team Achievement Award" from the Huawei 2012 Labs Central Research Institute for 2025!
 
@@ -82,17 +82,17 @@ Latest News
 
 - (2025-11) Congratulations to Zhu Jun for receiving the Doctoral Student Comprehensive Scholarship (only 4 recipients across the entire institute)!
 
-- (2025-10) Congratulations to Junlie Huang, Jun Zhu, Tao Wang, Xiaxue Ouyang, Junyi Lin, Dunyao Xue, and Zhipeng Xiang for receiving the First-Class Graduate Academic Scholarship from the Institure of Statistics and Big Data (awarded to the top 30% of the class)!
+- (2025-10) Congratulations to Junlie Huang, Jun Zhu, Tao Wang, Xiaxue Ouyang, Junyi Lin, Dunyao Xue, and Zhipeng Xiang for receiving the First-Class Graduate Academic Scholarship from the Institute of Statistics and Big Data (awarded to the top 30% of the class)!
 
 - (2025-10) Junlie Huang, on behalf of the Stat2Spark team, participated in the 2025 Mingli College Academic Annual Conference, received the “Outstanding Research Team Award of Mingli College” presented by President Shangli Lin, and gave a presentation at the Mingli Innovation Lab Sub-Forum showcasing the team’s latest research achievements.[Link](https://mp.weixin.qq.com/s/LEnJWeN-nbosP2ZigYn-pQ?scene=1&click_id=1)
 
-- (2025-10) Congratulations to Meng Cheng for participating in the project “Building a New Collegiate System for All Students to Foster an Innovative ‘Three Crosses, Three Integrations, and Three Learnings’ Talent Development Ecosystem for the Future”, which won the Special Prize (Undergraduate Category) of the Renmin University of China Teaching Achievement Awards!
+- (2025-10) Congratulations to Cheng Meng for participating in the project “Building a New Collegiate System for All Students to Foster an Innovative ‘Three Crosses, Three Integrations, and Three Learnings’ Talent Development Ecosystem for the Future”, which won the Special Prize (Undergraduate Category) of the Renmin University of China Teaching Achievement Awards!
 
-- (2025-10) Congratulations to Meng Cheng for participating in the project “Construction and Practice of a ‘Big Data Statistics+’ Innovative and Interdisciplinary International Talent Training System”, which won the First Prize (Postgraduate Category) of the Renmin University of China Teaching Achievement Awards!
+- (2025-10) Congratulations to Cheng Meng for participating in the project “Construction and Practice of a ‘Big Data Statistics+’ Innovative and Interdisciplinary International Talent Training System”, which won the First Prize (Postgraduate Category) of the Renmin University of China Teaching Achievement Awards!
 
 - (2025-09) Congratulations to Xinlai Kang, Xiaxue Ouyang and co-authors on their paper “Hausdorff Correlation for Interval-valued Random Objects” being accepted by Statistics and Computing! This marks the 12th paper from our group published in an RUC A- class journal!
 
-- (2025-09) Our work Gaussian Herding across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS has been accepted at NeurIPS 2025 as a spotlight!
+- (2025-09) Congratulations to Tao Wang, Mengyu Li, Geduo Zeng, and co-authors on their paper "Gaussian Herding Across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS" being accepted by NeurIPS 2025 as a Spotlight, and for its feature coverage on the renowned machine learning public account "Synced"! [Link](https://mp.weixin.qq.com/s/N34W_LK0jYPrmWWtGxVp4w)
 
 - (2025-08) Congratulations to Xiaxue Ouyang for hosting the project "Efficient Feature Selection Driven by Adaptive Subsampling and Bio-inspired Encoding Expansion and Sparse Representation Methods," which has been approved as a 2025 Graduate Scientific Research Fund Project by the Institute of Statistics and Big Data.
 
@@ -126,7 +126,7 @@ Congratulations to Haoxian Liang on Being Interviewed by Mingli College！
 - (2024-12)<span style="color: rgb(0, 71, 171);"> Congratulations! Mengyu Li has been selected for the 2024 China Association for Science and Technology (CAST) Young Talent Support Program for Doctoral Students, supported by the Chinese Association for Applied Statistics (CAAS)! This is the inaugural year of the program, with approximately 3,000 students selected.
 [Link](https://mp.weixin.qq.com/s/rRtjWDszTF0U0GonVTHsRA)
 
-- (2024-11) Congratulations! Qiannan Huang has been awwared the JD Scholarship Nomination.
+- (2024-11) Congratulations! Qiannan Huang has been awarded the JD Scholarship Nomination.
 [Link](https://mp.weixin.qq.com/s/yr_M4j9BJM41Ku5_H25O0Q)
 
 - (2024-11) Congratulations! Qiannan Huang has been awarded the National Scholarship for Master's Students in the 2024 Student Award Review! This is BDAL Lab's third National Scholarship, following the 2023 Doctoral National Scholarship awarded to Mengyu Li and the 2021 Master's National Scholarship awarded to Dianjun Lin.[Link](https://cheng-bdal.github.io//images/黄倩楠国奖.jpg)
