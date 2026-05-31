@@ -50,6 +50,8 @@ Contact information
 
 Latest News
 ======
+- (2026-05) Congratulations to Junyi Lin et al. on their paper "Sparsification Subsampling for Partial Least Squares Regression" being accepted by Journal of Computational and Graphical Statistics!
+
 - (2026-05) Congratulations to Xinlai Kang, Dunyao Xue, Zhengbo Wang, and Chengshuo Du et al. on the acceptance of their paper "Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE" at ICML 2026, which has been featured and reported by the well-known machine learning public account "Machine Heart" (Ji Qi Zhi Xin)! [Link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034543&idx=2&sn=8c0a91d51644de87618d0cdd9585429d)
 
 - (2026-05) Congratulations to Cheng Meng for participating in the project "Building a New Campus-Wide Academy System to Create a 'Three-Span, Three-Exchange, Three-Learning' Ecosystem for Future Talent Development", which has won the Second Prize of the Beijing Higher Education Teaching Achievement Award! [Link](https://mp.weixin.qq.com/s/tblNY71IJZHax3ybNhkG0A)
@@ -58,7 +60,7 @@ Latest News
 
 - （2026-03）Congratulations to Dunyao Xue, et al. on their paper "Core-elements Subsampling for Alternating Least Squares" being accepted by JCGS！[Link](https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493684&idx=1&sn=2890bbd35e47576683e9019d532ff71d&chksm=e8c4425f7136d1bed9b4acf814b19ef8179428e79e09fa51e30af3cdfa9842fd2b54290b4c16&mpshare=1&scene=1&srcid=0414OajaNWC2FQBekHecF670&sharer_shareinfo=bcb12df34a4a3d6bd935ea3dc2d09229&sharer_shareinfo_first=bcb12df34a4a3d6bd935ea3dc2d09229#rd)
 
-- (2026-03) Congratulations to Dunyao Xue on being selected for the 2025-2026 Renmin University of China "Top Innovative Talents Training Funding Program"! [Link](https://grs.ruc.edu.cn/info/1033/3326.htm)
+- (2026-03) Congratulations to Dunyao Xue on being selected for the 2025-2026 Renmin University of China "Top Innovative Talents Training Funding Program"!
 
 - (2026-03) Congratulations to Jun Zhu and Cheng Meng on winning the Spark Award in Huawei’s “Challenge Bounty” Issue 131 for the challenge “Online Lithium Plating Detection”! [Link](https://mp.weixin.qq.com/s/aECgm4y8pQs_ImBtHJ-7Pw)
 

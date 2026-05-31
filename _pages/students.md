@@ -64,7 +64,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
         </td>
     <td>
           <img src="https://cheng-bdal.github.io//images/头像/欧阳夏雪.jpg" alt="Xiaxue Ouyang"><br>
-          Xiaxue Ouyang<br>
+          Xiaxue Ouyang<a href="https://xiaxueouyang2001.github.io/">Github</a><br>
           PhD candidate (2023)<br>
           Co-advisor: Associate Professor Kejun He<br>
           BS: Wuhan University<br>
