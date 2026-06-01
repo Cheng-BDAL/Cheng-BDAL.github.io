@@ -31,14 +31,14 @@ author_profile: true  # 可选，视需要是否显示作者信息
     <td><img src="https://cheng-bdal.github.io//images/头像/杜承朔.jpg" alt="Chengshuo Du"><br>Chengshuo Du<br>PhD candidate (2023)<br>Co-advisor: Associate Professor Shaojun Guo<br>BS: Beijing University of Aeronautics and Astronautics<br>School of Mathematics<br>duchengshuo at ruc dot edu dot cn</td>
   </tr>
   <tr>
-    <td><img src="https://cheng-bdal.github.io//images/头像/王涛.jpg" alt="Tao Wang"><br>Tao Wang<a href="https://taowang0105.github.io/">Github</a><br>PhD candidate (2023)<br>BS: Tianjin University<br>School of Mathematics<br>wang_tao at ruc dot edu dot cn</td>
     <td><img src="https://cheng-bdal.github.io//images/头像/欧阳夏雪.jpg" alt="Xiaxue Ouyang"><br>Xiaxue Ouyang<a href="https://xiaxueouyang2001.github.io/">Github</a><br>PhD candidate (2023)<br>Co-advisor: Associate Professor Kejun He<br>BS: Wuhan University<br>School of Mathematics<br>ouyangxiaxue at ruc dot edu dot cn</td>
-    <td><img src="https://cheng-bdal.github.io//images/头像/林俊一.jpg" alt="Junyi Lin"><br>Junyi Lin<a href="https://junyilin559.github.io/">Github</a><br>PhD candidate (2024)<br>Co-advisor: Associate Professor Kejun He<br>BS: Nankai University<br>School of Statistics and Data Science<br>junyilin at ruc dot edu dot cn</td>
+    <td><img src="https://cheng-bdal.github.io//images/头像/王涛.jpg" alt="Tao Wang"><br>Tao Wang<a href="https://taowang0105.github.io/">Github</a><br>PhD candidate (2023)<br>BS: Tianjin University<br>School of Mathematics<br>wang_tao at ruc dot edu dot cn</td>
+    <td><img src="https://cheng-bdal.github.io//images/头像/金贝宁.jpg" alt="Beining Jin"><br>Beining Jin<br>PhD candidate (2024)<br>BS: Beijing University of Technology<br>School of Science<br>Jinbeining at foxmail dot com</td>
   </tr>
   <tr>
-    <td><img src="https://cheng-bdal.github.io//images/头像/薛敦耀.jpg" alt="Dunyao Xue"><br>Dunyao Xue<a href="https://sapphirexdy.github.io/">Github</a><br>PhD candidate (2024)<br>Co-advisor: Associate Professor Wenlin Dai<br>BS: Lanzhou University<br>Cuiying Honors College<br>xuedunyao1202 at ruc dot edu dot cn</td>
+    <td><img src="https://cheng-bdal.github.io//images/头像/林俊一.jpg" alt="Junyi Lin"><br>Junyi Lin<a href="https://junyilin559.github.io/">Github</a><br>PhD candidate (2024)<br>Co-advisor: Associate Professor Kejun He<br>BS: Nankai University<br>School of Statistics and Data Science<br>junyilin at ruc dot edu dot cn</td>
     <td><img src="https://cheng-bdal.github.io//images/头像/王沛泽.jpg" alt="Peize Wang"><br>Peize Wang<br>PhD candidate (2024)<br>BS: Xiamen University<br>School of Mathematical Sciences<br>wpz2024 at ruc dot edu dot cn</td>
-    <td><img src="https://cheng-bdal.github.io//images/头像/金贝宁.jpg" alt="Beining Jin"><br>Beining Jin<br>PhD candidate (2024)<br>BS: Beijing University of Technology<br>School of Science<br>Jinbeining at foxmail dot com</td>
+    <td><img src="https://cheng-bdal.github.io//images/头像/薛敦耀.jpg" alt="Dunyao Xue"><br>Dunyao Xue<a href="https://sapphirexdy.github.io/">Github</a><br>PhD candidate (2024)<br>Co-advisor: Associate Professor Wenlin Dai<br>BS: Lanzhou University<br>Cuiying Honors College<br>xuedunyao1202 at ruc dot edu dot cn</td>
   </tr>
   <tr>
     <td><img src="https://cheng-bdal.github.io//images/头像/梁浩贤.jpg" alt="Haoxian Liang"><br>Haoxian Liang<a href="https://haoxian1024.github.io/">Github</a><br>M.S. (2024)<br>BS: Renmin University of China<br>School of Mathematical Sciences<br>haoxian_liang at mail dot bnu dot edu dot cn</td>
@@ -46,28 +46,28 @@ author_profile: true  # 可选，视需要是否显示作者信息
     <td><img src="https://cheng-bdal.github.io//images/头像/向智鹏.jpg" alt="Zhipeng Xiang"><br>Zhipeng Xiang<br>PhD candidate (2025)<br>BS: Nankai University<br>School of Statistics and Data Science<br>ycx_lives at 163 dot com</td>
   </tr>
   <tr>
-    <td><img src="https://cheng-bdal.github.io//images/头像/张宇飞.jpg" alt="Yufei Zhang"><br>Yufei Zhang<br>PhD candidate (2025)<br>Co-advisor: Researcher Zhang Jingyi<br>BS: Yanshan University<br>2025010723 at bupt dot cn</td>
     <td><img src="https://cheng-bdal.github.io//images/头像/李泽.jpg" alt="Ze Li"><br>Ze Li<br>PhD candidate (2025)<br>Co-advisor: Researcher Zhang Jingyi<br>BS: Zhengzhou University<br>li.ze at bupt dot cn</td>
+    <td><img src="https://cheng-bdal.github.io//images/头像/张宇飞.jpg" alt="Yufei Zhang"><br>Yufei Zhang<br>PhD candidate (2025)<br>Co-advisor: Researcher Zhang Jingyi<br>BS: Yanshan University<br>2025010723 at bupt dot cn</td>
+    <td><img src="https://cheng-bdal.github.io//images/头像/胡婧璇.jpg" alt="Jingxuan Hu"><br>Jingxuan Hu<br>M.S. (2025)<br>BS: Beijing Jiaotong University<br>School of Economics and Management<br>2025104242 at ruc dot edu dot cn</td>
+  </tr>
+  <tr>
+    <td><img src="https://cheng-bdal.github.io//images/头像/蒋文浩.jpg" alt="Wenhao Jiang"><br>Wenhao Jiang<br>M.S. (2025)<br>BS: Renmin University of China<br>School of Mathematics<br>2021201382 at ruc dot edu dot cn</td>
+    <td><img src="https://cheng-bdal.github.io//images/头像/吕佳迪.jpg" alt="Jiadi Lv"><br>Jiadi Lv<br>M.S. (2025)<br>BS: Zhongnan University of Economics and Law<br>School of Statistics and Mathematics<br>2025104254 at ruc dot edu dot cn</td>
     <td><img src="https://cheng-bdal.github.io//images/头像/王政博.jpg" alt="Zhengbo Wang"><br>Zhengbo Wang<br>M.S. (2025)<br>BS: Dongbei University of Finance and Economics<br>School of Accounting<br>2025104259 at ruc dot edu dot cn</td>
   </tr>
   <tr>
-    <td><img src="https://cheng-bdal.github.io//images/头像/吕佳迪.jpg" alt="Jiadi Lv"><br>Jiadi Lv<br>M.S. (2025)<br>BS: Zhongnan University of Economics and Law<br>School of Statistics and Mathematics<br>2025104254 at ruc dot edu dot cn</td>
-    <td><img src="https://cheng-bdal.github.io//images/头像/胡婧璇.jpg" alt="Jingxuan Hu"><br>Jingxuan Hu<br>M.S. (2025)<br>BS: Beijing Jiaotong University<br>School of Economics and Management<br>2025104242 at ruc dot edu dot cn</td>
-    <td><img src="https://cheng-bdal.github.io//images/头像/蒋文浩.jpg" alt="Wenhao Jiang"><br>Wenhao Jiang<br>M.S. (2025)<br>BS: Renmin University of China<br>School of Mathematics<br>2021201382 at ruc dot edu dot cn</td>
-  </tr>
-  <tr>
     <td><img src="https://cheng-bdal.github.io//images/头像/陈佳丰.jpg" alt="Jiafeng Chen"><br>Jiafeng Chen<br>M.S. (2025)<br>Co-advisor: Researcher Zhang Jingyi<br>BS: Shanxi University of Finance and Economics, Statistics<br>2025111691 at bupt dot cn</td>
+    <td><img src="https://cheng-bdal.github.io//images/头像/白静言.jpg" alt="Jingyan Bai"><br>Jingyan Bai<br>PhD candidate (2026)<br>BS: Tsinghua University<br>Department of Mathematical Sciences<br>1577217284 at qq dot com</td>
     <td><img src="https://cheng-bdal.github.io//images/头像/李雨凝.jpg" alt="Yuning Li"><br>Yuning Li<br>PhD candidate (2026)<br>Co-advisor: Researcher Zhang Jingyi<br>BS: Huazhong Agricultural University, Information and Computing Science<br>13204761705 at 163 dot com</td>
-    <td><img src="https://cheng-bdal.github.io//images/头像/刘可欣.jpg" alt="Kexin Liu"><br>Kexin Liu<br>PhD candidate (2026)<br>Co-advisor: Researcher Zhang Jingyi<br>kxliu2025 at bupt dot cn</td>
   </tr>
   <tr>
-    <td><img src="https://cheng-bdal.github.io//images/头像/白静言.jpg" alt="Jingyan Bai"><br>Jingyan Bai<br>PhD candidate (2026)<br>BS: Tsinghua University<br>Department of Mathematical Sciences<br>1577217284 at qq dot com</td>
-    <td><img src="https://cheng-bdal.github.io//images/头像/罗茜.jpg" alt="Qian Luo"><br>Qian Luo<br>M.S. (2026)<br>Co-advisor: Researcher Zhang Jingyi<br>2867202110 at qq dot com</td>
+    <td><img src="https://cheng-bdal.github.io//images/头像/刘可欣.jpg" alt="Kexin Liu"><br>Kexin Liu<br>PhD candidate (2026)<br>Co-advisor: Researcher Zhang Jingyi<br>kxliu2025 at bupt dot cn</td>
     <td><img src="https://cheng-bdal.github.io//images/头像/郝卓轩.jpg" alt="Zhuoxuan Hao"><br>Zhuoxuan Hao<br>M.S. (2026)<br>Co-advisor: Researcher Zhang Jingyi<br>BS: Hunan Normal University<br>Mathematics and Applied Mathematics<br>m17835179527 at 163 dot com</td>
+    <td><img src="https://cheng-bdal.github.io//images/头像/罗茜.jpg" alt="Qian Luo"><br>Qian Luo<br>M.S. (2026)<br>Co-advisor: Researcher Zhang Jingyi<br>2867202110 at qq dot com</td>
   </tr>
   <tr>
     <td><img src="https://cheng-bdal.github.io//images/头像/蒋璇.jpg" alt="Xuan Jiang"><br>Xuan Jiang<br>Undergraduate (2024)<br>Co-advisor: Researcher Zhang Jingyi<br>BS: Beijing University of Posts and Telecommunications, School of Mathematics<br>2024212523 at bupt dot cn</td>
-    <td></td>
+    <td><img src="https://cheng-bdal.github.io//images/头像/朱同臣.jpg" alt="Tongchen Zhu"><br>Tongchen Zhu<br>Undergraduate (2024)<br>Co-advisor: Researcher Zhang Jingyi<br>Beijing University of Posts and Telecommunications, Digital Media Technology<br>2024213885 at bupt dot cn</td>
     <td></td>
   </tr>
 </table>
