@@ -50,6 +50,8 @@ Contact information
 
 Latest News
 ======
+- (2026-06) Congratulations to Tao Wang, Junlie Huang, Dunyao Xue, and Chengshuo Du on their projects being approved as 2026 Graduate Student Scientific Research Fund Projects of the Institute of Statistics and Big Data (8 awardees institute-wide)!
+
 - (2026-05) Congratulations to Junyi Lin et al. on their paper "Sparsification Subsampling for Partial Least Squares Regression" being accepted by Journal of Computational and Graphical Statistics!
 
 - (2026-05) Congratulations to Xinlai Kang, Dunyao Xue, Zhengbo Wang, and Chengshuo Du et al. on the acceptance of their paper "Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE" at ICML 2026, which has been featured and reported by the well-known machine learning public account "Machine Heart" (Ji Qi Zhi Xin)! [Link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034543&idx=2&sn=8c0a91d51644de87618d0cdd9585429d)
