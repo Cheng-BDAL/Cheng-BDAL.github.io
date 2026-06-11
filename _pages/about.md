@@ -50,6 +50,8 @@ Contact information
 
 Latest News
 ======
+- (2026-06) Congratulations to Junlie Huang on the approval of the "Qiushi Graduate Education Research" project he led and submitted! [Link](https://mp.weixin.qq.com/s/RctY4tEAfXxE1zw6Io4I-g)
+
 - (2026-06) Congratulations to Tao Wang, Junlie Huang, Dunyao Xue, and Chengshuo Du on their projects being approved as 2026 Graduate Student Scientific Research Fund Projects of the Institute of Statistics and Big Data (8 awardees institute-wide)!
 
 - (2026-05) Congratulations to Junyi Lin et al. on their paper "Sparsification Subsampling for Partial Least Squares Regression" being accepted by Journal of Computational and Graphical Statistics!
