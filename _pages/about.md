@@ -50,6 +50,8 @@ Contact information
 
 Latest News
 ======
+- (2026-06) Congratulations to Jun Zhu et al. on their paper "SSP-Ensemble: A Sufficient Subspace Projection Ensemble for Multiclass Classification" and Peize Wang et al. on their paper "KPOTD: Kernel Principal Optimal Transport Directions for Nonlinear Sufficient Dimension Reduction" being accepted by the first top statistics conference STAI-X!
+
 - (2026-06) Congratulations to Junlie Huang on the approval of his project "Research on High-Precision Fault Early-Warning Algorithms Based on Statistics" as a Renmin University of China Mingli College "Qiushi Graduate Education Research" project! [Link](https://mp.weixin.qq.com/s/RctY4tEAfXxE1zw6Io4I-g)
 
 - (2026-06) Congratulations to Tao Wang, Junlie Huang, Dunyao Xue, and Chengshuo Du on their projects being approved as 2026 Graduate Student Scientific Research Fund Projects of the Institute of Statistics and Big Data (8 awardees institute-wide)!

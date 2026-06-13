@@ -37,7 +37,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
   </tr>
   <tr>
     <td><img src="https://cheng-bdal.github.io//images/头像/林俊一.jpg" alt="Junyi Lin"><br>Junyi Lin<a href="https://junyilin559.github.io/">Github</a><br>PhD candidate (2024)<br>Co-advisor: Associate Professor Kejun He<br>BS: Nankai University<br>School of Statistics and Data Science<br>junyilin at ruc dot edu dot cn</td>
-    <td><img src="https://cheng-bdal.github.io//images/头像/王沛泽.jpg" alt="Peize Wang"><br>Peize Wang<br>PhD candidate (2024)<br>BS: Xiamen University<br>School of Mathematical Sciences<br>wpz2024 at ruc dot edu dot cn</td>
+    <td><img src="https://cheng-bdal.github.io//images/头像/王培泽.jpg" alt="Peize Wang"><br>Peize Wang<br>PhD candidate (2024)<br>BS: Xiamen University<br>School of Mathematical Sciences<br>wpz2024 at ruc dot edu dot cn</td>
     <td><img src="https://cheng-bdal.github.io//images/头像/薛敦耀.jpg" alt="Dunyao Xue"><br>Dunyao Xue<a href="https://sapphirexdy.github.io/">Github</a><br>PhD candidate (2024)<br>Co-advisor: Associate Professor Wenlin Dai<br>BS: Lanzhou University<br>Cuiying Honors College<br>xuedunyao1202 at ruc dot edu dot cn</td>
   </tr>
   <tr>
