@@ -7,4 +7,4 @@ permalink: https://mp.weixin.qq.com/s/rRtjWDszTF0U0GonVTHsRA
 
 ---
 
-- <img src="https://cheng-bdal.github.io//images/李梦雨青托.png" alt="Image" width="600">
+- <img loading="lazy" src="https://cheng-bdal.github.io//images/李梦雨青托.png" alt="Image" width="600">
