@@ -5,8 +5,6 @@ title: "Students"
 author_profile: true  # 可选，视需要是否显示作者信息
 ---
 
-
-## Team members
 <style>
   table {
     width: 100%;
