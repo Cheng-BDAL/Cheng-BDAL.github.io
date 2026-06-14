@@ -78,7 +78,7 @@ Academic Positions
     <div class="cv-date">2020 - present</div>
     <div>
       <h3>Assistant Professor (Tenure Track)</h3>
-      <p>Renmin University of China<br>Institute of Statistics and Big Data</p>
+      <p>Renmin University of China, Institute of Statistics and Big Data</p>
       <p>Beijing, China</p>
     </div>
   </div>
@@ -91,16 +91,14 @@ Education
     <div class="cv-date">2015 - 2020</div>
     <div>
       <h3>Ph.D. in Statistics</h3>
-      <p>University of Georgia</p>
-      <p><a href="https://bdalpingio.github.io/">Big Data Analytics Lab</a></p>
+      <p>University of Georgia, Department of Statistics</p>
     </div>
   </div>
   <div class="cv-entry">
     <div class="cv-date">2011 - 2015</div>
     <div>
       <h3>Bachelor of Mathematics</h3>
-      <p>Tsinghua University</p>
-      <p>Department of Mathematics and Applied Mathematics</p>
+      <p>Tsinghua University, Department of Mathematics and Applied Mathematics</p>
     </div>
   </div>
 </div>
@@ -130,7 +128,7 @@ Service
   </div>
   <div class="cv-service-item">
     <h3>Admissions and Outreach</h3>
-    <p>Member of the Renmin University of China Shanghai Admissions Committee (2023-2025).</p>
+    <p>Member of the Renmin University of China Shanghai Admissions Committee (2023-2026).</p>
     <img loading="lazy" class="cv-image-wide" src="https://cheng-bdal.github.io//images/上海招生.jpg" alt="RUC Shanghai admissions">
     <p>Representative of the Renmin University of China Jiangsu Admissions Committee in 2025; delivered a science outreach talk at Tianyi High School, Jiangsu Province. <a href="https://mp.weixin.qq.com/s/Rhzmvg_Trd_3_13nDxzjRg">Link</a></p>
     <img loading="lazy" class="cv-image-wide" src="https://cheng-bdal.github.io//images/江苏省招生.jpg" alt="RUC Jiangsu admissions">

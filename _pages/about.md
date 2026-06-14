@@ -234,8 +234,8 @@ Featured Reports
 
 <div class="highlight-grid">
   <a href="https://mp.weixin.qq.com/s/jtmVn6od7OL0Z7EPplROpQ">
-    <img loading="lazy" src="https://cheng-bdal.github.io//images/赛道.jpg" alt="Huawei reports on BDAL-RUC's third Spark Award">
-    <span>Huawei reports on BDAL-RUC's third Spark Award →</span>
+    <img loading="lazy" src="https://cheng-bdal.github.io//images/赛道.jpg" alt="Huawei reports on Cheng Meng's third Spark Award">
+    <span>Huawei reports on Cheng Meng's third Spark Award →</span>
   </a>
   <a href="https://mp.weixin.qq.com/s/bSx9Vl2pe-LEdYZdeyDGRQ">
     <img loading="lazy" src="https://cheng-bdal.github.io//images/新生讲话.jpg" alt="RUC reports on the faculty speech at the opening ceremony">
@@ -269,7 +269,7 @@ Latest News
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-05</span><span class="news-tag news-tag--papers">Papers</span></div>
-    <p><strong>BDAL-RUC work on MoE was accepted by ICML 2026.</strong> Congratulations to Xinlai Kang, Dunyao Xue, Zhengbo Wang, Chengshuo Du et al. on "Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE," also featured by the well-known machine learning public account "Machine Heart" (Ji Qi Zhi Xin). <a href="https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034543&idx=2&sn=8c0a91d51644de87618d0cdd9585429d">Read more →</a></p>
+    <p><strong>An improved MoE method was accepted by ICML 2026.</strong> Congratulations to Xinlai Kang, Dunyao Xue, Zhengbo Wang, Chengshuo Du et al. on "Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE," also featured by the well-known machine learning public account "Machine Heart" (Ji Qi Zhi Xin). <a href="https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034543&idx=2&sn=8c0a91d51644de87618d0cdd9585429d">Read more →</a></p>
   </article>
 </div>
 
@@ -291,7 +291,7 @@ Latest News
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-03</span><span class="news-tag news-tag--awards">Awards</span></div>
-    <p><strong>Dunyao Xue was selected for RUC's talent training program.</strong> Congratulations on being selected for the 2025-2026 Renmin University of China "Top Innovative Talents Training Funding Program."</p>
+    <p><strong>Dunyao Xue was selected for RUC's talent training program.</strong> Congratulations on being selected for the 2025-2026 Renmin University of China "Top Innovative Talents Training Funding Program" (2 awardees institute-wide), marking the team's second such honor after Mengyu Li.</p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-03</span><span class="news-tag news-tag--projects">Projects</span></div>
@@ -303,7 +303,7 @@ Latest News
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-01</span><span class="news-tag news-tag--papers">Papers</span></div>
-    <p><strong>An SE(p)-invariant transport metric paper was accepted by ICLR.</strong> Congratulations to Junyi Lin, Dunyao Xue, et al. on their paper "An Efficient SE(p)-Invariant Transport Metric Driven by Polar Transport Discrepancy-Based Representation" being accepted by ICLR, and for its feature coverage on the renowned AI public platform "Synced"! <a href="https://mp.weixin.qq.com/s/JMUyM_UScUCKwxmcGBlTAQ">Read more →</a></p>
+    <p><strong>A rigid-motion-invariant metric paper was accepted by ICLR.</strong> Congratulations to Junyi Lin, Dunyao Xue, et al. on their paper "An Efficient SE(p)-Invariant Transport Metric Driven by Polar Transport Discrepancy-Based Representation" being accepted by ICLR, and for its feature coverage on the renowned AI public platform "Synced"! <a href="https://mp.weixin.qq.com/s/JMUyM_UScUCKwxmcGBlTAQ">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-01</span><span class="news-tag news-tag--projects">Projects</span></div>
@@ -331,7 +331,7 @@ Latest News
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-11</span><span class="news-tag news-tag--awards">Awards</span></div>
-    <p><strong>BDAL students stood out at the CSIAM Student Forum.</strong> Congratulations to Junlie Huang, Chengshuo Du, Tao Wang and Dunyao Xue for the Outstanding Poster Award at the 9th Student Forum of the China Society for Industrial and Applied Mathematics(CSIAM), <strong>with the number of awards ranking first among all participating units</strong>! <a href="https://mp.weixin.qq.com/s/krRC5HjTbBXFPWO6ZEP19Q">Read more →</a> Honored to be featured on the official news website of Renmin University! <a href="https://news.ruc.edu.cn/1984663406100312065.html">Read more →</a></p>
+    <p><strong>BDAL students stood out at the CSIAM Student Forum.</strong> Congratulations to Junlie Huang, Chengshuo Du, Tao Wang and Dunyao Xue for the Outstanding Poster Award at the 9th Student Forum of the China Society for Industrial and Applied Mathematics (CSIAM), <strong>with the number of awards ranking first among all participating units</strong>, with additional coverage by RUC News. <a href="https://mp.weixin.qq.com/s/krRC5HjTbBXFPWO6ZEP19Q">WeChat report →</a> <a href="https://news.ruc.edu.cn/1984663406100312065.html">RUC News →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-11</span><span class="news-tag news-tag--awards">Awards</span></div>
@@ -343,7 +343,7 @@ Latest News
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-10</span><span class="news-tag news-tag--awards">Awards</span></div>
-    <p><strong>Stat2Spark presented at the Mingli College academic annual conference.</strong> Junlie Huang, on behalf of the Stat2Spark team, participated in the 2025 Mingli College Academic Annual Conference, received the “Outstanding Research Team Award of Mingli College” presented by President Shangli Lin, and gave a presentation at the Mingli Innovation Lab Sub-Forum showcasing the team’s latest research achievements.<a href="https://mp.weixin.qq.com/s/LEnJWeN-nbosP2ZigYn-pQ?scene=1&click_id=1">Read more →</a></p>
+    <p><strong>Stat2Spark presented at the Mingli College academic annual conference.</strong> Junlie Huang, on behalf of the Stat2Spark team, participated in the 2025 Mingli College Academic Annual Conference, received the “Outstanding Research Team Award of Mingli College” presented by President Shangli Lin, and gave a presentation at the Mingli Innovation Lab Sub-Forum showcasing the team’s latest research achievements. <a href="https://mp.weixin.qq.com/s/LEnJWeN-nbosP2ZigYn-pQ?scene=1&click_id=1">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-10</span><span class="news-tag news-tag--projects">Projects</span></div>
@@ -375,7 +375,7 @@ Latest News
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-06</span><span class="news-tag news-tag--media">Media</span></div>
-    <p><strong>Statistics outreach appeared across multiple platforms.</strong> Cheng Meng was invited to multiple platforms to introduce the statistics major and share stories from his personal growth journey.<a href="https://www.bilibili.com/video/BV1gZM1zSEKs/?spm_id_from=333.337.search-card.all.click&vd_source=e6527d198967f47b463a38a48f92d812">Read more →</a></p>
+    <p><strong>Statistics outreach appeared across multiple platforms.</strong> Cheng Meng was invited to multiple platforms to introduce the statistics major and share stories from his personal growth journey. <a href="https://www.bilibili.com/video/BV1gZM1zSEKs/?spm_id_from=333.337.search-card.all.click&vd_source=e6527d198967f47b463a38a48f92d812">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-06</span><span class="news-tag news-tag--awards">Awards</span></div>
@@ -397,17 +397,15 @@ Latest News
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-05</span><span class="news-tag news-tag--media">Media</span></div>
-    <p><span style="color:purple"><strong>Cheng Meng spoke as a Tsinghua alumnus ten years after graduation.</strong> Cheng Meng, representing alumni ten years after graduation, was invited to attend and speak at a themed symposium hosted by Yong Qiu, the Party Secretary of Tsinghua University. <a href="https://mp.weixin.qq.com/s/d8KrSRIqVNIQVdvBO0yjFw">Read more →</a> This event was also reported by the Department of Statistics and Data Science at Tsinghua University. <a href="https://mp.weixin.qq.com/s/utOxnb63ZurO7jPo6NpkAg">Read more →</a></span></p>
+    <p><span style="color:purple"><strong>Cheng Meng spoke as a Tsinghua alumnus ten years after graduation.</strong> Cheng Meng, representing alumni ten years after graduation, was invited to attend and speak at a themed symposium hosted by Yong Qiu, the Party Secretary of Tsinghua University; the event was also reported by the Department of Statistics and Data Science at Tsinghua University. <a href="https://mp.weixin.qq.com/s/d8KrSRIqVNIQVdvBO0yjFw">Event report →</a> <a href="https://mp.weixin.qq.com/s/utOxnb63ZurO7jPo6NpkAg">Department report →</a></span></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-04</span><span class="news-tag news-tag--awards">Awards</span></div>
-    <p><strong>Three students received Travel Awards at the doctoral forum.</strong> Congratulations to Junyi Lin, Junlie Huang and Dunyao Xue for receiving the Travel Award and being selected for the Doctoral Forum at the 2025 Annual Conference of the Youth Statisticians Association of the National Industrial Statistics Teaching and Research Association and the 3rd International Symposium on Statistical Theory and its Applications.<a href="https://mp.weixin.qq.com/s/ko2HoiA6hpjWPdyo8Q8E-g">Read more →</a> The award was  reported by a well-known academic platform "Gouxiong Hui".<a href="https://mp.weixin.qq.com/s/secOUhCJQb0NYumfMlM5qQ">Read more →</a></p>
+    <p><strong>Three students received Travel Awards at the doctoral forum.</strong> Congratulations to Junyi Lin, Junlie Huang and Dunyao Xue for receiving the Travel Award and being selected for the Doctoral Forum at the 2025 Annual Conference of the Youth Statisticians Association of the National Industrial Statistics Teaching and Research Association and the 3rd International Symposium on Statistical Theory and its Applications, with additional coverage by the academic platform "Gouxiong Hui". <a href="https://mp.weixin.qq.com/s/ko2HoiA6hpjWPdyo8Q8E-g">Forum report →</a> <a href="https://mp.weixin.qq.com/s/secOUhCJQb0NYumfMlM5qQ">Platform report →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-3</span><span class="news-tag news-tag--projects">Projects</span></div>
-    <p><strong>The team won Huawei's Spark Award for the third time.</strong> Congratulations to Cheng Meng for leading students Hao Zheng, Tao Wang, Haoxian Liang, and Mengyu Li to win the Huawei "Challenge Solving" 114th Spark Award. This is the team's third time receiving this honor！<a href="https://mp.weixin.qq.com/s/NXFraboslDTdyHaGAFEjFA">Read more →</a>
-Congratulations to Haoxian Liang on Being Interviewed by Mingli College！
-<a href="https://mp.weixin.qq.com/s/0SyJYpWQNhOvDi2sjYaxOg">My Spark Moments</a></p>
+    <p><strong>The team won Huawei's Spark Award for the third time.</strong> Congratulations to Cheng Meng for leading students Hao Zheng, Tao Wang, Haoxian Liang, and Mengyu Li to win the Huawei "Challenge Solving" 114th Spark Award. This is the team's third time receiving this honor; Haoxian Liang was also interviewed by Mingli College. <a href="https://mp.weixin.qq.com/s/NXFraboslDTdyHaGAFEjFA">Huawei report →</a> <a href="https://mp.weixin.qq.com/s/0SyJYpWQNhOvDi2sjYaxOg">My Spark Moments →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-3</span><span class="news-tag news-tag--papers">Papers</span></div>
@@ -426,11 +424,11 @@ Congratulations to Haoxian Liang on Being Interviewed by Mingli College！
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2024-11</span><span class="news-tag news-tag--awards">Awards</span></div>
-    <p><strong>Qiannan Huang received a National Scholarship.</strong> Congratulations! Qiannan Huang has been awarded the National Scholarship for Master's Students in the 2024 Student Award Review! This is BDAL Lab's third National Scholarship, following the 2023 Doctoral National Scholarship awarded to Mengyu Li and the 2021 Master's National Scholarship awarded to Dianjun Lin.<a href="https://cheng-bdal.github.io//images/黄倩楠国奖.jpg">Read more →</a></p>
+    <p><strong>Qiannan Huang received a National Scholarship.</strong> Congratulations! Qiannan Huang has been awarded the National Scholarship for Master's Students in the 2024 Student Award Review! This is BDAL Lab's third National Scholarship, following the 2023 Doctoral National Scholarship awarded to Mengyu Li and the 2021 Master's National Scholarship awarded to Dianjun Lin. <a href="https://cheng-bdal.github.io//images/黄倩楠国奖.jpg">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2024-10</span><span class="news-tag news-tag--awards">Awards</span></div>
-    <p><strong>Mengyu Li received a CSIAM Outstanding Poster Award.</strong> Congratulations! Mengyu Li was awarded the Outstanding Poster Award at the 22nd Annual Conference of the China Society for Industrial and Applied Mathematics.<a href="https://mp.weixin.qq.com/s/ffKNLItqx5vv-P0r3Yd2QQ">Read more →</a></p>
+    <p><strong>Mengyu Li received a CSIAM Outstanding Poster Award.</strong> Congratulations! Mengyu Li was awarded the Outstanding Poster Award at the 22nd Annual Conference of the China Society for Industrial and Applied Mathematics. <a href="https://mp.weixin.qq.com/s/ffKNLItqx5vv-P0r3Yd2QQ">Read more →</a></p>
   </article>
 </div>
 </details>
