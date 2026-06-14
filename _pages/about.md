@@ -166,7 +166,7 @@ Our work starts from statistical theory and stays closely connected to real-worl
   .news-more {
     margin-top: 0.8rem;
   }
-  .news-more summary {
+  .news-more-toggle {
     display: inline-block;
     padding: 0.38rem 0.72rem;
     border: 1px solid #d8c8bf;
@@ -174,10 +174,11 @@ Our work starts from statistical theory and stays closely connected to real-worl
     background: #fbfaf8;
     cursor: pointer;
     color: #8b1e2d;
+    font: inherit;
     font-weight: 600;
   }
-  .news-more summary::marker {
-    content: "";
+  .news-more-toggle:hover {
+    background: #f7e6e6;
   }
   .news-year-heading {
     margin: 0.85rem 0 0.45rem;
@@ -287,8 +288,9 @@ Our work starts from statistical theory and stays closely connected to real-worl
   </article>
 </div>
 
-<details class="news-more">
-  <summary>Show More News</summary>
+<div class="news-more">
+  <button type="button" class="news-more-toggle" onclick="var target=document.getElementById('more-news-list'); target.hidden=!target.hidden; this.textContent=target.hidden?'Show More News':'Show Less News';">Show More News</button>
+  <div id="more-news-list" hidden>
 
 <h3 class="news-year-heading">2026</h3>
 
@@ -455,6 +457,7 @@ Our work starts from statistical theory and stays closely connected to real-worl
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2024-10</span><span class="news-tag news-tag--awards">Awards</span></div>
     <p><strong>Mengyu Li received a CSIAM Outstanding Poster Award.</strong> Congratulations! Mengyu Li was awarded the Outstanding Poster Award at the 22nd Annual Conference of the China Society for Industrial and Applied Mathematics. <a href="https://mp.weixin.qq.com/s/ffKNLItqx5vv-P0r3Yd2QQ">Read more →</a></p>
-  </article>
+</article>
 </div>
-</details>
+</div>
+</div>
