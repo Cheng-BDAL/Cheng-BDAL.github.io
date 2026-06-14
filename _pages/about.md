@@ -88,7 +88,7 @@ Highlights
 
 Contact information
 ======
-- **Address:** 710 Chongde West Building, Haidian, Beijing, China
+- **Address:** Room 710, Chongde West Building, Zhongguancun Campus, Renmin University of China, Beijing, China
 
 - **Email:** chengmeng at ruc dot edu dot cn
 
