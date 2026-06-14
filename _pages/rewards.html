@@ -290,6 +290,9 @@ author_profile: true
           {% endif %}
         </div>
         {% if title_down contains "spark award" %}
+          <div class="award-feature">
+            {{ post.content | split: '<p><img' | first }}
+          </div>
           <img loading="lazy" class="featured-award-image" src="{{ base_path }}/images/火花奖.jpg" alt="Huawei Spark Award plaques">
         {% elsif title_down contains "wu yuzhang" %}
           <img loading="lazy" class="featured-award-image" src="https://cheng-bdal.github.io//images/李梦雨-吴玉章.jpg" alt="Mengyu Li Wu Yuzhang Scholarship">
