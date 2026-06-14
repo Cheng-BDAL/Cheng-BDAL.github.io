@@ -6,9 +6,10 @@ permalink: 'https://www.tandfonline.com/doi/abs/10.1080/10618600.2025.2505732'
 excerpt: '<u>Mengyu Li</u>, Bencong Zhu, <u>Cheng Meng<sup>*</sup></u>, Xiaodan Fan<sup>*</sup>'
 date: 2025-01-01
 venue: 'Bioinformatics'
+research_line: "alignment"
+research_tags: ["Unpaired Alignment", "Gene Networks"]
 paperurl: 'https://cheng-bdal.github.io/files/Double Optimal Transport.pdf'
 #slidesurl: 'https://cheng-bdal.github.io/files/Sampling-Based Methods.pdf'
 
 
 ---
-
