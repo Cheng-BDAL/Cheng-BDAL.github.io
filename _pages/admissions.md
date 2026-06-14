@@ -140,7 +140,30 @@ The group will comprehensively consider research fit, collaboration style, commu
 
 ---
 
-## 4. Support Provided by the Group
+## 4. Why Join Us
+
+<div class="admission-grid">
+  <div class="admission-panel">
+    <h3>Strong Career Outcomes</h3>
+    <p>All graduated Ph.D. students from the group have received million-RMB-level offers, and most master's students have moved on to strong Ph.D. programs or leading internet and technology companies. The group values long-term planning and encourages students to think early about academic or industry paths after graduation.</p>
+  </div>
+  <div class="admission-panel">
+    <h3>Student-Led Research Output</h3>
+    <p>The group encourages students to serve as first authors or core contributors and to build representative work around clear research problems. In recent years, many papers have been led by group students and published in important venues in statistics, machine learning, and interdisciplinary applications.</p>
+  </div>
+  <div class="admission-panel">
+    <h3>High-Quality Publication Platforms</h3>
+    <p>The group has published work in venues including NeurIPS, ICML, ICLR, JCGS, JMLR, Biometrika, Bioinformatics, Pattern Recognition, and STAI-X, offering students strong research training and visibility.</p>
+  </div>
+  <div class="admission-panel">
+    <h3>Real Problems and Industry Collaboration</h3>
+    <p>The team maintains deep collaborations with Huawei and other partners, and has won Huawei Challenge Unveiling Spark Awards multiple times. We aim to train students in modeling, computation, and methodological innovation through real complex problems.</p>
+  </div>
+</div>
+
+---
+
+## 5. Support Provided by the Group
 
 <div class="admission-grid">
   <div class="admission-panel">
