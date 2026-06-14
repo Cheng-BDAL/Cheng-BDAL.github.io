@@ -48,8 +48,6 @@ Contact information
 
 - **Email:** chengmeng at ruc dot edu dot cn
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Cheng-BDAL&label=Visitors&style=flat-square&color=8b1e2d)
-
 Latest News
 ======
 - (2026-06) Congratulations to Jun Zhu et al. on their paper "SSP-Ensemble: A Sufficient Subspace Projection Ensemble for Multiclass Classification" and Peize Wang et al. on their paper "KPOTD: Kernel Principal Optimal Transport Directions for Nonlinear Sufficient Dimension Reduction" being accepted by the first top statistics conference STAI-X!
