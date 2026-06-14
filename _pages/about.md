@@ -148,13 +148,6 @@ Featured Reports
   .news-more summary::marker {
     content: "";
   }
-  .homepage-maintenance {
-    margin-top: 1rem;
-    padding-top: 0.7rem;
-    border-top: 1px solid #e7e0da;
-    color: #666;
-    font-size: 0.88rem;
-  }
   @media (max-width: 720px) {
     .highlight-grid {
       grid-template-columns: 1fr;
@@ -364,5 +357,3 @@ Congratulations to Haoxian Liang on Being Interviewed by Mingli College！
   </article>
 </div>
 </details>
-
-<p class="homepage-maintenance"><strong>Homepage launch and maintenance.</strong> The BDAL-RUC homepage is officially launched! Website maintenance: Cheng Meng, Chengshuo Du, Zhipeng Xiang.</p>
