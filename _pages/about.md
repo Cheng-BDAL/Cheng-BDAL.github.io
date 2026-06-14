@@ -24,8 +24,7 @@ I received my B.S. in Mathematics from Tsinghua University and my Ph.D. in Stati
 Our work starts from statistical theory and stays closely connected to real-world applications. In recent years, the group has worked on scalable algorithms for large-scale data analysis, fast methods for optimal transport, industrial data modeling, and AI-related statistical methods, with active collaborations including projects with Huawei. I received the 2023 Junior Researcher Award from the Pan-Asian Committee for Statistical Research, and our team has won the Huawei Spark Award three times for solving major industrial challenges. Our goal is to develop statistical and machine learning methods that are reliable, efficient, and genuinely useful in industrial and interdisciplinary scientific problems.
 </p>
 
-Featured Reports
-======
+## Featured Reports
 
 <style>
   .page__content > p:first-of-type img {
@@ -34,7 +33,8 @@ Featured Reports
     border-radius: 6px;
   }
 
-  .page__content > h1 {
+  .page__content > h1,
+  .page__content > h2 {
     margin: 1.55rem 0 0.75rem;
     padding-bottom: 0.35rem;
     border-bottom: 1px solid #eadfd8;
@@ -179,13 +179,20 @@ Featured Reports
   .news-more summary::marker {
     content: "";
   }
+  .news-year {
+    margin-top: 0.7rem;
+  }
+  .news-year summary {
+    font-size: 0.9rem;
+  }
   @media (max-width: 720px) {
     .page__content > p:first-of-type img {
       max-height: 46vh;
       object-fit: cover;
       object-position: center;
     }
-    .page__content > h1 {
+    .page__content > h1,
+    .page__content > h2 {
       margin: 1.2rem 0 0.55rem;
       font-size: 1.18rem;
     }
@@ -256,8 +263,7 @@ Featured Reports
   </a>
 </div>
 
-Latest News
-======
+## Latest News
 
 <div class="news-list">
   <article class="news-card">
@@ -284,6 +290,9 @@ Latest News
 
 <details class="news-more" markdown="1">
   <summary>Show More News</summary>
+
+<details class="news-year" open markdown="1">
+  <summary>2026</summary>
 
 <div class="news-list">
   <article class="news-card">
@@ -321,7 +330,14 @@ Latest News
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-01</span><span class="news-tag news-tag--team">Team</span></div>
     <p><strong>Five students were featured in the RUC Statistics growth chronicle.</strong> Congratulations to Mengyu Li, Junlie Huang, Chengshuo Du, Tao Wang, and Dunyao Xue, five students featured in the 2025 RUC Statistics Student Growth Chronicle! <a href="https://mp.weixin.qq.com/s/ZAW9in5xx4kh3uWEm1sinA">Read more →</a></p>
-  </article>
+</article>
+</div>
+</details>
+
+<details class="news-year" markdown="1">
+  <summary>2025</summary>
+
+<div class="news-list">
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-11</span><span class="news-tag news-tag--awards">Awards</span></div>
     <p><strong>Postdoctoral research received new support.</strong> Congratulations to Mengyu Li on receiving the China Postdoctoral Science Foundation！ <a href="https://mp.weixin.qq.com/s/Ziaz-dZziQIdrkS6bBu6uQ">Read more →</a></p>
@@ -420,7 +436,15 @@ Latest News
     <div class="news-meta"><span class="news-date">2025-3</span><span class="news-tag news-tag--papers">Papers</span></div>
     <p><strong>A hyperbolic Wasserstein distance paper was accepted by IEEE TNNLS.</strong> Congratulations! The paper "Efficient Variants of Wasserstein Distance in Hyperbolic Space via Space-filling Curve Projection" by Tao Li, Jun Zhu, and others has been accepted by IEEE TNNLS (IF: 10.2)! This is the third 1A-class journal publication from our group at the research institute!
 <a href="https://mp.weixin.qq.com/s/1LUVaZowmOd9oIREQAScgA">Read more →</a></p>
-  </article>
+</article>
+</div>
+</details>
+</details>
+
+<details class="news-year" markdown="1">
+  <summary>2024</summary>
+
+<div class="news-list">
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2024-12</span><span class="news-tag news-tag--awards">Awards</span></div>
     <p><span style="color: rgb(0, 71, 171);"><strong>Mengyu Li was selected for the CAST Young Talent Support Program.</strong> Congratulations! Mengyu Li has been selected for the 2024 China Association for Science and Technology (CAST) Young Talent Support Program for Doctoral Students, supported by the Chinese Association for Applied Statistics (CAAS)! This is the inaugural year of the program, with approximately 3,000 students selected.

@@ -48,6 +48,28 @@ author_profile: true  # 可选，视需要是否显示作者信息
     color: #777;
     font-size: 0.78rem;
   }
+  .student-jump {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+    margin: 0.25rem 0 1.1rem;
+  }
+  .student-jump a {
+    display: inline-block;
+    margin-left: 0;
+    padding: 0.28rem 0.6rem;
+    border: 1px solid #d8c8bf;
+    border-radius: 6px;
+    background: #fbfaf8;
+    color: #8b1e2d;
+    font-size: 0.82rem;
+    font-weight: 700;
+    text-decoration: none;
+  }
+  .student-jump a:hover {
+    background: #f7e6e6;
+    text-decoration: none;
+  }
   @media (max-width: 1024px) and (min-width: 721px) {
     table,
     tbody {
@@ -111,7 +133,15 @@ author_profile: true  # 可选，视需要是否显示作者信息
 </style>
 
 
-### Current Ph.D. Students
+<nav class="student-jump" aria-label="Team section navigation">
+  <a href="#current-phd">Current Ph.D.</a>
+  <a href="#current-ms-undergraduate">Current M.S. / Undergraduate</a>
+  <a href="#graduated-phd">Graduated Ph.D.</a>
+  <a href="#graduated-ms">Graduated M.S.</a>
+</nav>
+
+## Current Ph.D. Students
+{: #current-phd }
 
 <table>
   <tr>
@@ -142,7 +172,8 @@ author_profile: true  # 可选，视需要是否显示作者信息
   </tr>
 </table>
 
-### Current M.S. and Undergraduate Students
+## Current M.S. and Undergraduate Students
+{: #current-ms-undergraduate }
 
 <table>
   <tr>
@@ -168,6 +199,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
 </table>
 
 ## Graduated PhD Students
+{: #graduated-phd }
 <style>
   img {
     width: min(100%, 220px);
@@ -260,6 +292,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
 </table>
 
 ## Graduated M.S. Students
+{: #graduated-ms }
 <table>
   <tr>
     <td>
