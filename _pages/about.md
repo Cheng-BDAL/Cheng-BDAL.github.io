@@ -41,6 +41,11 @@ Featured Reports
     color: inherit;
     text-decoration: none;
   }
+  .highlight-grid a:hover span {
+    color: #8b1e2d;
+    text-decoration: underline;
+    text-underline-offset: 0.18rem;
+  }
   .highlight-grid img {
     width: 100%;
     aspect-ratio: 4 / 3;
@@ -141,15 +146,15 @@ Featured Reports
 <div class="highlight-grid">
   <a href="https://mp.weixin.qq.com/s/jtmVn6od7OL0Z7EPplROpQ">
     <img src="https://cheng-bdal.github.io//images/赛道.jpg" alt="Huawei reports on BDAL-RUC's third Spark Award">
-    <span>Huawei reports on BDAL-RUC's third Spark Award</span>
+    <span>Huawei reports on BDAL-RUC's third Spark Award →</span>
   </a>
   <a href="https://mp.weixin.qq.com/s/bSx9Vl2pe-LEdYZdeyDGRQ">
     <img src="https://cheng-bdal.github.io//images/新生讲话.jpg" alt="RUC reports on the faculty speech at the opening ceremony">
-    <span>RUC reports on the faculty speech at the opening ceremony</span>
+    <span>RUC reports on the faculty speech at the opening ceremony →</span>
   </a>
   <a href="https://mp.weixin.qq.com/s/OQwr1EvCYTcqG4Tm2Yl84Q">
     <img src="https://cheng-bdal.github.io//images/清华校友.jpg" alt="Tsinghua Alumni Association features an alumni story">
-    <span>Tsinghua Alumni Association features an alumni story</span>
+    <span>Tsinghua Alumni Association features an alumni story →</span>
   </a>
 </div>
 
