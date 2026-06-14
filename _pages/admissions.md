@@ -71,8 +71,6 @@ author_profile: true
 }
 </style>
 
-We welcome students with sustained interest in our research directions and a willingness to engage in long-term research training. Please read the following notes before contacting us.
-
 <div class="admission-notice" markdown="1">
 **Important note:** The Institute uses a committee-based unified admissions process. Master's or Ph.D. positions cannot be confirmed by email before the formal application process. Please first complete the Institute's application requirements and obtain the relevant admission qualification, or enter the formal application process. Group matching will then be considered based on research interests, prior communication, and topic fit. If your email is too general or does not show basic familiarity with our research directions, we may not be able to reply individually.
 </div>
@@ -87,8 +85,7 @@ We welcome students with sustained interest in our research directions and a wil
     <ul>
       <li>Research interests aligned with the group's directions.</li>
       <li>Willingness to commit to long-term research training.</li>
-      <li>Proactive learning and timely communication.</li>
-      <li>Ability to keep staged tasks moving forward.</li>
+      <li>Active communication and steady progress on staged tasks.</li>
     </ul>
   </div>
   <div class="admission-panel">
@@ -96,7 +93,6 @@ We welcome students with sustained interest in our research directions and a wil
     <ul>
       <li>Contacting the group without first learning about our research directions.</li>
       <li>Seeking only short-term nominal participation without sustained commitment.</li>
-      <li>Being unable to maintain basic communication, staged feedback, and task progress.</li>
       <li>Being unable to engage deeply with the group before enrollment.</li>
     </ul>
   </div>
@@ -117,17 +113,15 @@ Please include the following information when writing:
   <li>Your CV, transcript, representative course projects, papers, code links, or other relevant materials.</li>
 </ul>
 
-The email does not need to be long, but it should show that you have learned about the group and can explain your interest, background, and possible next steps around one clear direction.
+The email does not need to be long, but it should state a clear direction, your background, and possible next steps.
 
 ---
 
 ## 3. Matching Process
 
 <div class="admission-process" markdown="1">
-**Matching period:** Students who intend to formally join the group are generally expected to complete no less than 3 months of in-depth research communication and topic exploration before formal enrollment. This is especially important for master's students, who usually need to determine an advisor soon after enrollment. If a master's student has not engaged deeply with the group during the pre-enrollment summer through group meetings, project discussions, or short-term research participation, the group will generally not consider formal joining.
+**Matching period:** Students who intend to formally join the group are generally expected to complete no less than 3 months of in-depth research communication and topic exploration before formal enrollment. This is especially important for master's students, who usually need to determine an advisor soon after enrollment. If a master's student has not engaged deeply with the group during the pre-enrollment summer through group meetings, project discussions, or short-term research participation, the group will generally not consider formal joining. The group will consider research fit, communication, staged commitment, and completion of work.
 </div>
-
-The matching period should involve substantive staged work around a clear direction. The group will consider research fit, communication, staged commitment, and completion of work before making a final decision on formal joining.
 
 ---
 
@@ -136,11 +130,11 @@ The matching period should involve substantive staged work around a clear direct
 <div class="admission-grid">
   <div class="admission-panel">
     <h3>Student-Led Research</h3>
-    <p>The group encourages students to serve as first authors or core contributors and to build representative work around clear problems. Most group papers are led by students.</p>
+    <p>The group encourages students to serve as first authors or core contributors; most group papers are led by students.</p>
   </div>
   <div class="admission-panel">
     <h3>Publication and Collaboration Platforms</h3>
-    <p>The group has published work in NeurIPS, ICML, ICLR, JCGS, JMLR, Biometrika, Bioinformatics, Pattern Recognition, and STAI-X, and maintains deep collaborations with Huawei and other partners.</p>
+    <p>The group has published in NeurIPS, ICML, ICLR, JCGS, JMLR, Biometrika, Bioinformatics, Pattern Recognition, and STAI-X, with deep collaborations with Huawei and other partners.</p>
   </div>
   <div class="admission-panel">
     <h3>Career Outcomes</h3>
@@ -148,6 +142,6 @@ The matching period should involve substantive staged work around a clear direct
   </div>
   <div class="admission-panel">
     <h3>Research Support</h3>
-    <p>The group provides staged feedback, computing and data resources, project experience sharing, conference and collaboration support, and research assistant support under university and Institute regulations.</p>
+    <p>The group provides staged feedback, computing resources, project and conference support, and research assistant support under relevant regulations.</p>
   </div>
 </div>
