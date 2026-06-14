@@ -74,7 +74,7 @@ author_profile: true
 We welcome students with sustained interest in our research directions and a willingness to engage in long-term research training. Please read the following notes before contacting us.
 
 <div class="admission-notice" markdown="1">
-**Important note:** The Institute uses a committee-based unified admissions process. Applicants should first complete the formal application according to Institute requirements and obtain the corresponding admission qualification, or enter the relevant application process. If your email is too general or does not show basic familiarity with our research directions, we may not be able to reply individually. Thank you for your understanding.
+**Important note:** The Institute uses a committee-based unified admissions process. Master's or Ph.D. positions cannot be confirmed by email before the formal application process. Please first complete the Institute's application requirements and obtain the relevant admission qualification, or enter the formal application process. Group matching will then be considered based on research interests, prior communication, and topic fit. If your email is too general or does not show basic familiarity with our research directions, we may not be able to reply individually.
 </div>
 
 ---
