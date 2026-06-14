@@ -13,7 +13,7 @@ redirect_from:
 About BDAL-RUC
 ======
 <p style="text-align: justify;">
-Hi! I’m Cheng Meng, currently a tenure-track Assistant Professor and Ph.D. advisor at the School of Statistics and Data Science, Renmin University of China (RUC). My research interests include Big Data Statistics, Optimal Transport, Artificial Intelligence, and Industrial Statistics, among others. I received my B.S. in Mathematics from Tsinghua University in 2015 and my Ph.D. in Statistics from the University of Georgia (UGA) in 2020. I was fortunate to be advised by a wonderful academic couple, Prof. [Ping Ma](https://bdalpingio.github.io/) and Prof. [Wenxuan Zhong](https://zhonglabuga.github.io/), who co-direct the Big Data Analytics Lab (BDAL) at UGA.
+Hi! I’m Cheng Meng, currently a tenure-track Assistant Professor and Ph.D. advisor at the School of Statistics and Data Science, Renmin University of China (RUC). My research interests include Big Data Statistics, Optimal Transport, Artificial Intelligence, and Industrial Statistics, among others. I received my B.S. in Mathematics from Tsinghua University in 2015 and my Ph.D. in Statistics from the University of Georgia (UGA) in 2020. I was fortunate to be advised by a wonderful academic couple, Prof. <a href="https://bdalpingio.github.io/">Ping Ma</a> and Prof. <a href="https://zhonglabuga.github.io/">Wenxuan Zhong</a>, who co-direct the Big Data Analytics Lab (BDAL) at UGA.
 </p>
 
 <p style="text-align: justify;">
