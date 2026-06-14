@@ -71,6 +71,19 @@ redirect_from:
   }
 </style>
 
+Academic Positions
+======
+<div class="cv-timeline">
+  <div class="cv-entry">
+    <div class="cv-date">2020 - present</div>
+    <div>
+      <h3>Assistant Professor (Tenure Track)</h3>
+      <p>Institute of Statistics and Big Data, Renmin University of China</p>
+      <p>Beijing, China</p>
+    </div>
+  </div>
+</div>
+
 Education
 ======
 <div class="cv-timeline">
@@ -88,19 +101,6 @@ Education
       <h3>Bachelor of Mathematics</h3>
       <p>Tsinghua University</p>
       <p>Department of Mathematics and Applied Mathematics</p>
-    </div>
-  </div>
-</div>
-
-Academic Positions
-======
-<div class="cv-timeline">
-  <div class="cv-entry">
-    <div class="cv-date">2020 - present</div>
-    <div>
-      <h3>Assistant Professor (Tenure Track)</h3>
-      <p>Institute of Statistics and Big Data, Renmin University of China</p>
-      <p>Beijing, China</p>
     </div>
   </div>
 </div>
