@@ -60,7 +60,7 @@ Featured Reports
   }
   .highlight-grid img {
     width: 100%;
-    aspect-ratio: 4 / 3;
+    aspect-ratio: 16 / 9;
     object-fit: cover;
     border-radius: 6px;
   }
@@ -172,6 +172,30 @@ Featured Reports
   @media (max-width: 720px) {
     .highlight-grid {
       grid-template-columns: 1fr;
+      gap: 0.55rem;
+    }
+    .highlight-grid a {
+      display: grid;
+      grid-template-columns: 5.6rem minmax(0, 1fr);
+      gap: 0.65rem;
+      align-items: center;
+    }
+    .highlight-grid img {
+      aspect-ratio: 4 / 3;
+      border-radius: 5px;
+    }
+    .highlight-grid span {
+      margin-top: 0;
+      padding: 0;
+      border: 0;
+      border-radius: 0;
+      background: transparent;
+      font-size: 0.82rem;
+      line-height: 1.45;
+    }
+    .highlight-grid a:hover span {
+      background: transparent;
+      border-color: transparent;
     }
   }
 </style>
