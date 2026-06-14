@@ -112,6 +112,7 @@ To make communication more productive, please include the following information 
   <li>The group research direction, recent work, or representative paper that interests you.</li>
   <li>Your background in mathematics, statistics, computing, coding, or relevant projects.</li>
   <li>The specific problem or research interest you hope to explore further.</li>
+  <li>Your medium- to long-term plan, especially your tentative direction after completing a master's or Ph.D. degree.</li>
   <li>Your CV, transcript, representative course projects, papers, code links, or other relevant materials.</li>
 </ul>
 
