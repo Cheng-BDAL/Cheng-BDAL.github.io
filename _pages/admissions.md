@@ -72,7 +72,7 @@ author_profile: true
 </style>
 
 <div class="admission-notice" markdown="1">
-**Important note:** The Institute uses a committee-based unified admissions process. Master's or Ph.D. positions cannot be confirmed by email before the formal application process. Please first complete the Institute's application requirements and obtain the relevant admission qualification, or enter the formal application process. Group matching will then be considered based on research interests, prior communication, and topic fit. If your email is too general or does not show basic familiarity with our research directions, we may not be able to reply individually.
+**Important note:** The Institute uses a committee-based unified admissions process. Master's or Ph.D. positions cannot be confirmed by email before formal application. Please first complete the Institute application and obtain the relevant admission qualification, or enter the formal application process; group matching will then be considered based on research interests, prior communication, and topic fit. Emails that are too general or do not show basic familiarity with our research directions will generally not receive a reply.
 </div>
 
 ---
