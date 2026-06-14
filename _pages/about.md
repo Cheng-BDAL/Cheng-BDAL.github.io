@@ -288,10 +288,10 @@ Our work starts from statistical theory and stays closely connected to real-worl
   </article>
 </div>
 
-<details class="news-more" markdown="1">
+<details class="news-more">
   <summary>Show More News</summary>
 
-<details class="news-year" open markdown="1">
+<details class="news-year" open>
   <summary>2026</summary>
 
 <div class="news-list">
@@ -334,7 +334,7 @@ Our work starts from statistical theory and stays closely connected to real-worl
 </div>
 </details>
 
-<details class="news-year" markdown="1">
+<details class="news-year">
   <summary>2025</summary>
 
 <div class="news-list">
@@ -441,7 +441,7 @@ Our work starts from statistical theory and stays closely connected to real-worl
 </details>
 </details>
 
-<details class="news-year" markdown="1">
+<details class="news-year">
   <summary>2024</summary>
 
 <div class="news-list">
