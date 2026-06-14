@@ -84,18 +84,14 @@ author_profile: true
   .research-line-card--random_objects { border-left-color: #a15c38; }
   .research-line-card--alignment { border-left-color: #2f6b3f; }
   .research-line-card--applications_ai { border-left-color: #a07a18; }
-  .featured-work {
-    margin: 0.9rem 0 1.6rem;
-    padding: 0.85rem 0.95rem;
-    border: 1px solid #e5e0da;
-    border-radius: 8px;
-    background: #fff;
+  .research-highlights {
+    margin-top: 0.7rem;
   }
-  .featured-work strong {
-    display: block;
-    margin-bottom: 0.5rem;
+  .research-highlights strong {
+    display: inline-block;
+    margin: 0 0.45rem 0.35rem 0;
   }
-  .featured-work span {
+  .research-highlights span {
     display: inline-block;
     margin: 0 0.35rem 0.35rem 0;
     padding: 0.16rem 0.48rem;
@@ -213,6 +209,15 @@ author_profile: true
 <section class="research-hero">
   <h1>BDAL-RUC Research</h1>
   <p>Our work connects scalable statistical computation, optimal transport geometry, space-filling curves, random objects, cross-domain alignment, and statistical methods for industrial and AI systems. We aim to build reusable methodology that is both theoretically interpretable and computationally effective.</p>
+  <div class="research-highlights">
+    <strong>Representative Work</strong>
+    <span>SparSink</span>
+    <span>HCPD / Hyperbolic SFC</span>
+    <span>POTD / KPOTD / SSP-Ensemble</span>
+    <span>Core-Elements</span>
+    <span>SEINT</span>
+    <span>MP-MoE</span>
+  </div>
 </section>
 
 <p class="publication-note">Underlined authors are members of BDAL-RUC, and * marks corresponding authors.</p>
@@ -254,17 +259,7 @@ author_profile: true
   </a>
 </div>
 
-<div class="featured-work">
-  <strong>Representative Work</strong>
-  <span>SparSink</span>
-  <span>HCPD / Hyperbolic SFC</span>
-  <span>POTD / KPOTD / SSP-Ensemble</span>
-  <span>Core-Elements</span>
-  <span>SEINT</span>
-  <span>MP-MoE</span>
-</div>
-
-{% assign research_lines = "subsampling|hilbert|optimal_transport|random_objects|alignment|applications_ai" | split: "|" %}
+{% assign research_lines = "subsampling|hilbert|optimal_transport|random_objects|alignment|applications_ai|review|related" | split: "|" %}
 
 {% for line in research_lines %}
   {% assign line_publications = publications | where: "research_line", line %}
@@ -288,6 +283,12 @@ author_profile: true
       {% when "applications_ai" %}
         {% assign line_title = "Statistics for Industrial and AI Systems" %}
         {% assign line_intro = "This line translates statistical computation, geometric modeling, and functional-unit selection into deployable algorithms for real applications." %}
+      {% when "review" %}
+        {% assign line_title = "Background Reviews" %}
+        {% assign line_intro = "These papers serve as background entry points for large-scale subsampling, projection-based optimal transport, and optimal transport sparsification." %}
+      {% when "related" %}
+        {% assign line_title = "Related Papers and Applied Collaborations" %}
+        {% assign line_intro = "These works are related to team research, applied collaborations, or statistical learning settings, but are not forced into the core research lines." %}
     {% endcase %}
 
     <h2 id="line-{{ line }}" class="publication-line">{{ line_title }}</h2>
