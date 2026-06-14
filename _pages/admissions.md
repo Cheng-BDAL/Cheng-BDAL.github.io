@@ -77,7 +77,30 @@ author_profile: true
 
 ---
 
-## 1. What We Value
+## 1. What You Can Build Here
+
+<div class="admission-grid">
+  <div class="admission-panel">
+    <h3>Student-Led High-Level Research</h3>
+    <p>Students are encouraged to start from real problems and engage deeply in problem formulation, method design, and paper writing; most group papers are led by students as first authors or core contributors.</p>
+  </div>
+  <div class="admission-panel">
+    <h3>Publication and Industry Platforms</h3>
+    <p>The group has published in NeurIPS, ICML, ICLR, JMLR, and Biometrika, and maintains long-term collaborations with Huawei and other partners, offering strong referrals for internships and full-time positions.</p>
+  </div>
+  <div class="admission-panel">
+    <h3>Research Support and Group Culture</h3>
+    <p>Ph.D. students can receive nearly RMB 100,000 per year through stipends, scholarships, and research assistant support. The group also values informal exchange beyond research and a supportive team atmosphere.</p>
+  </div>
+  <div class="admission-panel">
+    <h3>Clear Career Outcomes</h3>
+    <p>All graduated Ph.D. students from the group have received million-RMB-level offers, and most master's students have moved on to strong Ph.D. programs or leading internet and technology companies.</p>
+  </div>
+</div>
+
+---
+
+## 2. What We Value
 
 <div class="admission-grid">
   <div class="admission-panel">
@@ -100,7 +123,15 @@ author_profile: true
 
 ---
 
-## 2. What to Prepare Before Contacting Us
+## 3. Matching Process
+
+<div class="admission-process" markdown="1">
+**Matching period:** Students who intend to formally join the group are generally expected to complete at least 3 months of in-depth research communication and topic exploration before enrollment. Master's students usually need to determine an advisor soon after enrollment; if they have not engaged deeply with the group during the pre-enrollment summer through group meetings, project discussions, or short-term research participation, the group will generally not consider formal joining. The group will evaluate research fit, communication, staged commitment, and completion of work.
+</div>
+
+---
+
+## 4. What to Prepare Before Contacting Us
 
 Please briefly include:
 
@@ -113,34 +144,3 @@ Please briefly include:
 </ul>
 
 The email does not need to be long, but it should have a clear direction and substantive content.
-
----
-
-## 3. Matching Process
-
-<div class="admission-process" markdown="1">
-**Matching period:** Students who intend to formally join the group are generally expected to complete at least 3 months of in-depth research communication and topic exploration before enrollment. Master's students usually need to determine an advisor soon after enrollment; if they have not engaged deeply with the group during the pre-enrollment summer through group meetings, project discussions, or short-term research participation, the group will generally not consider formal joining. The group will evaluate research fit, communication, staged commitment, and completion of work.
-</div>
-
----
-
-## 4. What You Can Build Here
-
-<div class="admission-grid">
-  <div class="admission-panel">
-    <h3>Student-Led High-Level Research</h3>
-    <p>Students are encouraged to start from real problems and engage deeply in problem formulation, method design, and paper writing; most group papers are led by students as first authors or core contributors.</p>
-  </div>
-  <div class="admission-panel">
-    <h3>Publication and Industry Platforms</h3>
-    <p>The group has published in NeurIPS, ICML, ICLR, JMLR, and Biometrika, and maintains long-term collaborations with Huawei and other partners, offering strong referrals for internships and full-time positions.</p>
-  </div>
-  <div class="admission-panel">
-    <h3>Research Support and Group Culture</h3>
-    <p>Ph.D. students can receive nearly RMB 100,000 per year through stipends, scholarships, and research assistant support. The group also values informal exchange beyond research and a supportive team atmosphere.</p>
-  </div>
-  <div class="admission-panel">
-    <h3>Clear Career Outcomes</h3>
-    <p>All graduated Ph.D. students from the group have received million-RMB-level offers, and most master's students have moved on to strong Ph.D. programs or leading internet and technology companies.</p>
-  </div>
-</div>
