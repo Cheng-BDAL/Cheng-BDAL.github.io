@@ -13,17 +13,15 @@ redirect_from:
 About BDAL-RUC
 ======
 <p style="text-align: justify;">
-Hi! I’m Cheng Meng, currently a tenure-track Assistant Professor and Ph.D. advisor at the School of Statistics and Data Science, Renmin University of China (RUC). My research interests include Big Data Statistics, Optimal Transport, Artificial Intelligence, and Industrial Statistics, among others. I received my B.S. in Mathematics from Tsinghua University in 2015 and my Ph.D. in Statistics from the University of Georgia (UGA) in 2020. I was fortunate to be advised by a wonderful academic couple, Prof. <a href="https://bdalpingio.github.io/">Ping Ma</a> and Prof. <a href="https://zhonglabuga.github.io/">Wenxuan Zhong</a>, who co-direct the Big Data Analytics Lab (BDAL) at UGA.
+Hi! I’m Cheng Meng, a tenure-track Assistant Professor and Ph.D. advisor at the School of Statistics and Data Science, Renmin University of China (RUC). My research centers on big data statistics, optimal transport, artificial intelligence, and industrial statistics, with a particular interest in developing statistically principled methods for complex computational and modeling problems arising in real applications.
 </p>
 
 <p style="text-align: justify;">
-Since joining RUC, I have been privileged to work with a group of exceptional students to establish the BDAL-RUC Lab. Our students have achieved numerous honors, including: One Wu Yuzhang Honorary Scholarship – the highest student honor at RUC, awarded to only four Ph.D. students annually. Two JSM Student Paper Awards – a prestigious international award at the world’s largest statistics conference, marking the first time in nearly 30 years that a Ph.D. student trained entirely in China has received this honor, And three National Graduate Scholarships.
+I received my B.S. in Mathematics from Tsinghua University and my Ph.D. in Statistics from the University of Georgia. During my doctoral study, I was fortunate to be advised by Prof. <a href="https://bdalpingio.github.io/">Ping Ma</a> and Prof. <a href="https://zhonglabuga.github.io/">Wenxuan Zhong</a>, who co-direct the Big Data Analytics Lab (BDAL) at UGA. After joining RUC, I have had the pleasure of building BDAL-RUC with a group of talented, sincere, and highly motivated students. Group members have received major honors including the Wu Yuzhang Scholarship, JSM Student Paper Awards, and National Graduate Scholarships.
 </p>
 
 <p style="text-align: justify;">
-I was honored to receive the 2023 Junior Researcher Award from the Pan-Asian Committee for Statistical Research (one of only five recipients worldwide). Under my leadership, our team has also won the Huawei Spark Award three times for solving major industrial challenges, recognized by both RUC and Huawei official media. Additionally, I serve as Associate Editor for the Data Science Volume of the 3rd Edition of the Encyclopedia of China (Statistics), playing an active role in its compilation. I have led several national and industrial research projects, including funding from the National Natural Science Foundation of China (NSFC) and Huawei.
-
-Our lab is currently focused on developing theory-backed, scalable algorithms for big data, with a mission to enable the practical deployment of statistical methods across diverse industrial applications.
+Our work starts from statistical theory and stays closely connected to real-world applications. In recent years, the group has worked on scalable algorithms for large-scale data analysis, fast methods for optimal transport, industrial data modeling, and AI-related statistical methods, with active collaborations including projects with Huawei. I received the 2023 Junior Researcher Award from the Pan-Asian Committee for Statistical Research, and our team has won the Huawei Spark Award three times for solving major industrial challenges. Our goal is to develop statistical and machine learning methods that are reliable, efficient, and genuinely useful in industrial and interdisciplinary scientific problems.
 </p>
 
 Featured Reports
