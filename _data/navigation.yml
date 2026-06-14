@@ -17,12 +17,20 @@ main:
   - title: "Awards"
     url: /rewards/
         
+  - title: "Projects"
+    url: /fundings/
+
   - title: "Students"
     url: /students/
     
+  - title: "CV"
+    url: /cv/
+
   - title: "Admissions"
     url: /admissions/
 
+  - title: "Photos"
+    url: /photos/
+
   - title: "中文"
     url: https://cheng-bdal.github.io/Cheng-BDAL-CN.github.io/
-
