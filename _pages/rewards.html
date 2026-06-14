@@ -147,8 +147,8 @@ author_profile: true
 <div class="featured-awards-grid">
   {% for post in sorted_rewards %}
     {% assign title_down = post.title | downcase %}
-    {% if title_down contains "spark" or title_down contains "wu yuzhang" %}
-      {% if title_down contains "spark" %}
+    {% if title_down contains "spark award" or title_down contains "wu yuzhang" %}
+      {% if title_down contains "spark award" %}
         {% assign award_tag = "Industry" %}
         {% assign award_tag_class = "award-tag--projects" %}
         {% assign award_year = "Multiple" %}
@@ -163,7 +163,7 @@ author_profile: true
           <span class="award-year">{{ award_year }}</span>
         </div>
         <h2>{{ post.title }}</h2>
-        {% if title_down contains "spark" %}
+        {% if title_down contains "spark award" %}
           <img class="featured-award-image" src="{{ base_path }}/images/火花奖.jpg" alt="Huawei Spark Award plaques">
         {% elsif title_down contains "wu yuzhang" %}
           <img class="featured-award-image" src="https://cheng-bdal.github.io//images/李梦雨-吴玉章.jpg" alt="Mengyu Li Wu Yuzhang Scholarship">
@@ -182,7 +182,7 @@ author_profile: true
 <div class="awards-grid">
   {% for post in sorted_rewards %}
     {% assign title_down = post.title | downcase %}
-    {% if title_down contains "spark" %}
+    {% if title_down contains "spark award" %}
       {% assign award_tag = "Industry" %}
       {% assign award_tag_class = "award-tag--projects" %}
       {% assign award_year = "Multiple" %}
@@ -213,12 +213,12 @@ author_profile: true
         <span class="award-year">{{ award_year }}</span>
       </div>
       <h2>{{ post.title }}</h2>
-      {% if title_down contains "spark" %}
+      {% if title_down contains "spark award" %}
         <div class="award-feature">
           {{ post.content | split: '<p><img' | first }}
         </div>
       {% endif %}
-      {% unless title_down contains "spark" %}
+      {% unless title_down contains "spark award" %}
         {% if post.permalink %}
           <a class="award-link" href="{{ post.permalink }}" target="_blank">View report</a>
         {% else %}
