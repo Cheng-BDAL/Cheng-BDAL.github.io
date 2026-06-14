@@ -69,20 +69,14 @@ author_profile: true
     line-height: 1.35;
   }
   .research-line-card p {
-    margin: 0 0 0.45rem;
+    margin: 0;
     color: #4b5563;
     font-size: 0.86rem;
     line-height: 1.5;
   }
-  .research-line-count {
-    color: #8b1e2d;
-    font-size: 0.78rem;
-    font-weight: 700;
-  }
   .research-line-card--hilbert { border-left-color: #2f6f73; }
   .research-line-card--optimal_transport { border-left-color: #6d5a9c; }
   .research-line-card--random_objects { border-left-color: #a15c38; }
-  .research-line-card--alignment { border-left-color: #2f6b3f; }
   .research-line-card--applications_ai { border-left-color: #a07a18; }
   .research-highlights {
     margin-top: 0.7rem;
@@ -225,21 +219,14 @@ author_profile: true
 {% include base_path %}
 
 {% assign publications = site.publications | sort: "date" | reverse %}
-{% assign subsampling_count = publications | where: "research_line", "subsampling" %}
-{% assign hilbert_count = publications | where: "research_line", "hilbert" %}
-{% assign optimal_count = publications | where: "research_line", "optimal_transport" %}
-{% assign random_count = publications | where: "research_line", "random_objects" %}
-{% assign alignment_count = publications | where: "research_line", "alignment" %}
-{% assign application_count = publications | where: "research_line", "applications_ai" %}
-
 <section class="research-hero">
   <h1>BDAL-RUC Research</h1>
-  <p>Our work connects scalable statistical computation, optimal transport geometry, space-filling curves, random objects, cross-domain alignment, and statistical methods for industrial and AI systems. We aim to build reusable methodology that is both theoretically interpretable and computationally effective.</p>
+  <p>Our work connects scalable statistical computation, space-filling curves, optimal transport geometry, random objects and distributional regression, and statistical methods for industrial and AI systems. We aim to build reusable methodology that is both theoretically interpretable and computationally effective.</p>
   <div class="research-snapshot">
     <div class="research-stat"><strong>32</strong><span>Publications listed</span></div>
     <div class="research-stat"><strong>1 / 3 / 15</strong><span>RUC A+ / A / A- journals</span></div>
     <div class="research-stat"><strong>5</strong><span>NeurIPS / ICML / ICLR</span></div>
-    <div class="research-stat"><strong>6</strong><span>Core research lines</span></div>
+    <div class="research-stat"><strong>5</strong><span>Core research lines</span></div>
   </div>
   <div class="research-highlights">
     <strong>Representative Work</strong>
@@ -261,36 +248,26 @@ author_profile: true
   <a class="research-line-card research-line-card--subsampling" href="#line-subsampling">
     <h2>Subsampling and Sparsification</h2>
     <p>From sample-level subsampling to element-, operator-, and interaction-level sparsification.</p>
-    <span class="research-line-count">{{ subsampling_count.size }} papers</span>
   </a>
   <a class="research-line-card research-line-card--hilbert" href="#line-hilbert">
     <h2>Space-Filling Curves and Hilbert Methods</h2>
     <p>Using low-dimensional order, mass coordinates, and original-space costs to preserve geometry efficiently.</p>
-    <span class="research-line-count">{{ hilbert_count.size }} papers</span>
   </a>
   <a class="research-line-card research-line-card--optimal_transport" href="#line-optimal_transport">
-    <h2>Optimal Transport Geometry and Algorithms</h2>
-    <p>Using OT as a structural proxy for directions, projections, invariant metrics, and high-dimensional learning.</p>
-    <span class="research-line-count">{{ optimal_count.size }} papers</span>
+    <h2>Optimal Transport Geometry, Dimension Reduction, and Soft Alignment</h2>
+    <p>Using OT as a unified tool for geometric proxies, discriminative directions, and cross-domain soft correspondences.</p>
   </a>
   <a class="research-line-card research-line-card--random_objects" href="#line-random_objects">
-    <h2>Random Objects and Distributional Regression</h2>
-    <p>Modeling intervals, distributions, and Wasserstein objects beyond standard Euclidean data.</p>
-    <span class="research-line-count">{{ random_count.size }} papers</span>
-  </a>
-  <a class="research-line-card research-line-card--alignment" href="#line-alignment">
-    <h2>Cross-Domain and Unpaired Alignment</h2>
-    <p>Using transport plans to build soft correspondences for downstream structural inference.</p>
-    <span class="research-line-count">{{ alignment_count.size }} papers</span>
+    <h2>Random Objects, Distributional Regression, and Geometric Statistics</h2>
+    <p>Modeling, dependence, and prediction for intervals, distributions, and Wasserstein objects.</p>
   </a>
   <a class="research-line-card research-line-card--applications_ai" href="#line-applications_ai">
     <h2>Statistics for Industrial and AI Systems</h2>
     <p>Turning statistical structure into practical algorithms for imaging, agriculture, deep learning, and MoE systems.</p>
-    <span class="research-line-count">{{ application_count.size }} papers</span>
   </a>
 </div>
 
-{% assign research_lines = "subsampling|hilbert|optimal_transport|random_objects|alignment|applications_ai|review|related" | split: "|" %}
+{% assign research_lines = "subsampling|hilbert|optimal_transport|random_objects|applications_ai|review|related" | split: "|" %}
 
 {% for line in research_lines %}
   {% assign line_publications = publications | where: "research_line", line %}
@@ -303,14 +280,11 @@ author_profile: true
         {% assign line_title = "Space-Filling Curves and Hilbert Methods" %}
         {% assign line_intro = "This line uses space-filling orders and locality to build efficient tools for distribution comparison, basis selection, and high-dimensional geometric computation." %}
       {% when "optimal_transport" %}
-        {% assign line_title = "Optimal Transport Geometry and Algorithms" %}
-        {% assign line_intro = "This line treats optimal transport as a geometric proxy for direction recovery, projection pursuit, invariant metrics, and structural learning." %}
+        {% assign line_title = "Optimal Transport Geometry, Dimension Reduction, and Soft Alignment" %}
+        {% assign line_intro = "This line treats optimal transport as a geometric proxy for direction recovery, projection pursuit, invariant metrics, cross-domain soft correspondences, and structural learning." %}
       {% when "random_objects" %}
-        {% assign line_title = "Random Objects and Distributional Regression" %}
+        {% assign line_title = "Random Objects, Distributional Regression, and Geometric Statistics" %}
         {% assign line_intro = "This line studies statistical modeling, dependence, and prediction for interval-valued, distribution-valued, and other non-Euclidean objects." %}
-      {% when "alignment" %}
-        {% assign line_title = "Cross-Domain and Unpaired Alignment" %}
-        {% assign line_intro = "This line uses optimal transport to construct soft correspondences when paired observations are unavailable, then feeds them into downstream inference." %}
       {% when "applications_ai" %}
         {% assign line_title = "Statistics for Industrial and AI Systems" %}
         {% assign line_intro = "This line translates statistical computation, geometric modeling, and functional-unit selection into deployable algorithms for real applications." %}
