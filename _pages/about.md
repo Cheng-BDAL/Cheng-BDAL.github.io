@@ -171,7 +171,7 @@ Latest News
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-05</span><span class="news-tag news-tag--papers">Papers</span></div>
-    <p><strong>Another JCGS paper joins the group's publication list.</strong> Congratulations to Junyi Lin et al. on "Sparsification Subsampling for Partial Least Squares Regression" being accepted by Journal of Computational and Graphical Statistics. <a href="https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493940&idx=1&sn=3f41517b696d31773e31a21693ad8c35&chksm=e8f6112b10b60af59a6e06b2b853b016819e8df11bd3e59f74027f2f0f3b6a7008093539b5aa&mpshare=1&scene=1&srcid=0612HIgIPk4SNGTgunx3oLYC&sharer_shareinfo=9485eab15d920ade4b142f3ec70593ac&sharer_shareinfo_first=9485eab15d920ade4b142f3ec70593ac#rd">Link</a></p>
+    <p><strong>Another JCGS paper joins the group's publication list.</strong> Congratulations to Junyi Lin et al. on "Sparsification Subsampling for Partial Least Squares Regression" being accepted by JCGS. <a href="https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493940&idx=1&sn=3f41517b696d31773e31a21693ad8c35&chksm=e8f6112b10b60af59a6e06b2b853b016819e8df11bd3e59f74027f2f0f3b6a7008093539b5aa&mpshare=1&scene=1&srcid=0612HIgIPk4SNGTgunx3oLYC&sharer_shareinfo=9485eab15d920ade4b142f3ec70593ac&sharer_shareinfo_first=9485eab15d920ade4b142f3ec70593ac#rd">Link</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-05</span><span class="news-tag news-tag--papers">Papers</span></div>
