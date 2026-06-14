@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Lab Group Photo
-======
 ![Photo](../files/实验室合照.jpg)
 
 
@@ -69,6 +67,7 @@ Featured Reports
   }
   .news-card p {
     margin: 0.35rem 0 0;
+    line-height: 1.65;
   }
   .news-meta {
     display: flex;
@@ -113,9 +112,17 @@ Featured Reports
     margin-top: 0.75rem;
   }
   .news-more summary {
+    display: inline-block;
+    padding: 0.38rem 0.72rem;
+    border: 1px solid #d8c8bf;
+    border-radius: 6px;
+    background: #fbfaf8;
     cursor: pointer;
     color: #8b1e2d;
     font-weight: 600;
+  }
+  .news-more summary::marker {
+    content: "";
   }
   .homepage-maintenance {
     margin-top: 1rem;
@@ -133,16 +140,16 @@ Featured Reports
 
 <div class="highlight-grid">
   <a href="https://mp.weixin.qq.com/s/jtmVn6od7OL0Z7EPplROpQ">
-    <img src="https://cheng-bdal.github.io//images/赛道.jpg" alt="Huawei report on the team's Spark Award">
-    <span>Huawei report on the team's Spark Award</span>
+    <img src="https://cheng-bdal.github.io//images/赛道.jpg" alt="Huawei reports on BDAL-RUC's third Spark Award">
+    <span>Huawei reports on BDAL-RUC's third Spark Award</span>
   </a>
   <a href="https://mp.weixin.qq.com/s/bSx9Vl2pe-LEdYZdeyDGRQ">
-    <img src="https://cheng-bdal.github.io//images/新生讲话.jpg" alt="RUC report on the freshman speech">
-    <span>RUC report on the freshman speech</span>
+    <img src="https://cheng-bdal.github.io//images/新生讲话.jpg" alt="RUC reports on the faculty speech at the opening ceremony">
+    <span>RUC reports on the faculty speech at the opening ceremony</span>
   </a>
   <a href="https://mp.weixin.qq.com/s/OQwr1EvCYTcqG4Tm2Yl84Q">
-    <img src="https://cheng-bdal.github.io//images/清华校友.jpg" alt="Tsinghua alumni story">
-    <span>Tsinghua alumni story</span>
+    <img src="https://cheng-bdal.github.io//images/清华校友.jpg" alt="Tsinghua Alumni Association features an alumni story">
+    <span>Tsinghua Alumni Association features an alumni story</span>
   </a>
 </div>
 
