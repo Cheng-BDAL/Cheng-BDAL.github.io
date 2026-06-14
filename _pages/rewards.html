@@ -47,10 +47,28 @@ author_profile: true
   }
   .award-tag {
     border-radius: 999px;
-    background: #f5eeee;
-    color: #8b1e2d;
     padding: 0.18rem 0.5rem;
     font-weight: 700;
+  }
+  .award-tag--papers {
+    background: #f7e6e6;
+    color: #9b1c24;
+  }
+  .award-tag--awards {
+    background: #f6edcf;
+    color: #7a5400;
+  }
+  .award-tag--projects {
+    background: #e4f1e8;
+    color: #1f6b3a;
+  }
+  .award-tag--team {
+    background: #e4edf7;
+    color: #24527a;
+  }
+  .award-tag--media {
+    background: #e8ecef;
+    color: #4a5964;
   }
   .award-link {
     display: inline-block;
@@ -84,18 +102,23 @@ author_profile: true
     {% assign title_down = post.title | downcase %}
     {% if title_down contains "huawei" or title_down contains "spark" %}
       {% assign award_tag = "Industry Award" %}
+      {% assign award_tag_class = "award-tag--projects" %}
     {% elsif title_down contains "research team" %}
       {% assign award_tag = "Team Award" %}
+      {% assign award_tag_class = "award-tag--team" %}
     {% elsif title_down contains "scholarship" or title_down contains "talent" or title_down contains "funding" %}
       {% assign award_tag = "Scholarship" %}
+      {% assign award_tag_class = "award-tag--awards" %}
     {% elsif title_down contains "poster" or title_down contains "paper award" or title_down contains "travel award" or title_down contains "presentation" %}
       {% assign award_tag = "Academic Award" %}
+      {% assign award_tag_class = "award-tag--papers" %}
     {% else %}
       {% assign award_tag = "Individual Honor" %}
+      {% assign award_tag_class = "award-tag--media" %}
     {% endif %}
     <article class="award-card">
       <div class="award-meta">
-        <span class="award-tag">{{ award_tag }}</span>
+        <span class="award-tag {{ award_tag_class }}">{{ award_tag }}</span>
       </div>
       <h2>
         {% if post.permalink %}
