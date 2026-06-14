@@ -72,7 +72,7 @@ author_profile: true
 </style>
 
 <div class="admission-notice" markdown="1">
-**Important note:** The Institute uses a committee-based unified admissions process. Master's or Ph.D. positions cannot be confirmed by email before formal application. Please first complete the Institute application and obtain the relevant admission qualification, or enter the formal application process; group matching will then be considered based on research interests, prior communication, and topic fit. Emails that are too general or do not show basic familiarity with our research directions will generally not receive a reply.
+**Important note:** Admissions are handled through the Institute's unified committee process. Master's or Ph.D. positions cannot be confirmed by email before formal application. Please first obtain the relevant admission qualification or enter the formal application process; group matching will then depend on research interests, prior communication, and topic fit. Generic emails or emails without basic familiarity with our work will generally not receive a reply.
 </div>
 
 ---
@@ -82,19 +82,19 @@ author_profile: true
 <div class="admission-grid">
   <div class="admission-panel">
     <h3>Student-Led High-Level Research</h3>
-    <p>Students are encouraged to start from real problems and engage deeply in problem formulation, method design, and paper writing; most group papers are led by students as first authors or core contributors.</p>
+    <p>Students work from real problems to formulation, method design, and paper writing; most group papers are led by students as first authors or core contributors.</p>
   </div>
   <div class="admission-panel">
     <h3>Publication and Industry Platforms</h3>
-    <p>The group has published in NeurIPS, ICML, ICLR, JMLR, and Biometrika, and maintains long-term collaborations with Huawei and other partners, offering strong referrals for internships and full-time positions.</p>
+    <p>The group has published in NeurIPS, ICML, ICLR, JMLR, and Biometrika, with long-term Huawei collaborations and strong referrals for internships and full-time positions.</p>
   </div>
   <div class="admission-panel">
     <h3>Research Support and Group Culture</h3>
-    <p>Ph.D. students can receive nearly RMB 100,000 per year through stipends, scholarships, and research assistant support. The group also values informal exchange beyond research and a supportive team atmosphere.</p>
+    <p>Ph.D. students can receive nearly RMB 100,000 per year through stipends, scholarships, and research assistant support, alongside a supportive team atmosphere.</p>
   </div>
   <div class="admission-panel">
     <h3>Clear Career Outcomes</h3>
-    <p>All graduated Ph.D. students from the group have received million-RMB-level offers, and most master's students have moved on to strong Ph.D. programs or leading internet and technology companies.</p>
+    <p>All graduated Ph.D. students have received million-RMB-level offers; most master's students have moved on to strong Ph.D. programs or leading technology companies.</p>
   </div>
 </div>
 
@@ -126,7 +126,7 @@ author_profile: true
 ## 3. Matching Process
 
 <div class="admission-process" markdown="1">
-**Matching period:** Students who intend to formally join the group are generally expected to complete at least 3 months of in-depth research communication and topic exploration before enrollment. Master's students usually need to determine an advisor soon after enrollment; if they have not engaged deeply with the group during the pre-enrollment summer through group meetings, project discussions, or short-term research participation, the group will generally not consider formal joining. The group will evaluate research fit, communication, staged commitment, and completion of work.
+**Matching period:** Students who intend to formally join the group are generally expected to complete at least 3 months of in-depth research communication and topic exploration before enrollment. Master's students usually need to determine an advisor soon after enrollment; without deep pre-enrollment engagement through group meetings, project discussions, or short-term research participation, formal joining will generally not be considered. The group will evaluate research fit, communication, staged commitment, and work completion.
 </div>
 
 ---

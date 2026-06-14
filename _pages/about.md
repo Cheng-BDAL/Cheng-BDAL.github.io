@@ -402,8 +402,7 @@ Our work starts from statistical theory and stays closely connected to real-worl
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-06</span><span class="news-tag news-tag--awards">Awards</span></div>
-    <p><span style="color: rgb(165, 16, 33);"><strong>Mengyu Li received RUC's highest student honor.</strong> Congratulations to Mengyu Li on receiving the "Wu Yuzhang Scholarship"! The "Wu Yuzhang Scholarship" is the highest honor awarded to students at our university. It is presented to graduating students who demonstrate all-around excellence in moral character, intellect, physical fitness, aesthetics, and labor, and who best embody the university's educational goals. Each year, only four doctoral students are selected for this prestigious award!
-<a href="https://mp.weixin.qq.com/s/zID17NSsC8q4sK_bimLOJQ">Read more →</a></span></p>
+    <p><span class="news-emphasis--red"><strong>Mengyu Li received RUC's highest student honor.</strong> Congratulations to Mengyu Li on receiving the "Wu Yuzhang Scholarship," RUC's highest student honor, awarded each year to only four doctoral students. <a href="https://mp.weixin.qq.com/s/zID17NSsC8q4sK_bimLOJQ">Read more →</a></span></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-06</span><span class="news-tag news-tag--papers">Papers</span></div>
@@ -411,7 +410,7 @@ Our work starts from statistical theory and stays closely connected to real-worl
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-05</span><span class="news-tag news-tag--team">Team</span></div>
-    <p><strong>Mengyu Li and Qiannan Huang successfully passed their thesis defenses.</strong> Congratulations to Dr. Mengyu Li (Ph.D.) and Qiannan Huang (Master’s) on successfully passing their thesis defenses! "Nothing in the world is difficult for one who is determined." May your confidence and perseverance empower you like wings of a tiger. May your idealism never fade, as you continue to pursue research that is both visionary and grounded. And may you face the greater challenges ahead with strength — fearless and untroubled.</p>
+    <p><strong>Mengyu Li and Qiannan Huang successfully passed their thesis defenses.</strong> Congratulations to Dr. Mengyu Li and Qiannan Huang. May they carry confidence, perseverance, and idealism into the next stage.</p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-05</span><span class="news-tag news-tag--papers">Papers</span></div>
@@ -420,7 +419,7 @@ Our work starts from statistical theory and stays closely connected to real-worl
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-05</span><span class="news-tag news-tag--media">Media</span></div>
-    <p><span style="color:purple"><strong>Cheng Meng spoke as a Tsinghua alumnus ten years after graduation.</strong> Cheng Meng, representing alumni ten years after graduation, was invited to attend and speak at a themed symposium hosted by Yong Qiu, the Party Secretary of Tsinghua University; the event was also reported by the Department of Statistics and Data Science at Tsinghua University. <a href="https://mp.weixin.qq.com/s/d8KrSRIqVNIQVdvBO0yjFw">Event report →</a> <a href="https://mp.weixin.qq.com/s/utOxnb63ZurO7jPo6NpkAg">Department report →</a></span></p>
+    <p><span class="news-emphasis--muted"><strong>Cheng Meng spoke as a Tsinghua alumnus ten years after graduation.</strong> Cheng Meng was invited to speak at a Tsinghua alumni symposium, with additional coverage by the Department of Statistics and Data Science. <a href="https://mp.weixin.qq.com/s/d8KrSRIqVNIQVdvBO0yjFw">Event report →</a> <a href="https://mp.weixin.qq.com/s/utOxnb63ZurO7jPo6NpkAg">Department report →</a></span></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-04</span><span class="news-tag news-tag--awards">Awards</span></div>
@@ -442,8 +441,7 @@ Our work starts from statistical theory and stays closely connected to real-worl
 <div class="news-list">
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2024-12</span><span class="news-tag news-tag--awards">Awards</span></div>
-    <p><span style="color: rgb(0, 71, 171);"><strong>Mengyu Li was selected for the CAST Young Talent Support Program.</strong> Congratulations! Mengyu Li has been selected for the 2024 China Association for Science and Technology (CAST) Young Talent Support Program for Doctoral Students, supported by the Chinese Association for Applied Statistics (CAAS)! This is the inaugural year of the program, with approximately 3,000 students selected.
-<a href="https://mp.weixin.qq.com/s/rRtjWDszTF0U0GonVTHsRA">Read more →</a></span></p>
+    <p><span class="news-emphasis--blue"><strong>Mengyu Li was selected for the CAST Young Talent Support Program.</strong> Congratulations to Mengyu Li on being selected for the 2024 CAST Young Talent Support Program for Doctoral Students, supported by CAAS. <a href="https://mp.weixin.qq.com/s/rRtjWDszTF0U0GonVTHsRA">Read more →</a></span></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2024-11</span><span class="news-tag news-tag--awards">Awards</span></div>
