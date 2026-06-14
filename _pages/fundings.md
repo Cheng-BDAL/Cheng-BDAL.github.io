@@ -39,13 +39,17 @@ author_profile: true
     font-weight: 700;
     letter-spacing: 0;
   }
+  .funding-status--ongoing {
+    background: #e7f3ea;
+    color: #237245;
+  }
 </style>
 
 ## Principal Investigator (PI) Projects
 
 <div class="funding-list">
   <article class="funding-card">
-    <span class="funding-status">Ongoing</span>
+    <span class="funding-status funding-status--ongoing">Ongoing</span>
     <h3>Collaborative Project on Time-Series Feature Correlation Analysis and Dimensionality Reduction Technology Based on Mutual Information (Ongoing)</h3>
     <ul>
       <li>Huawei Technologies Co., Ltd., 2012 Laboratories</li>
@@ -102,7 +106,7 @@ author_profile: true
 
 <div class="funding-list">
   <article class="funding-card">
-    <span class="funding-status">Ongoing</span>
+    <span class="funding-status funding-status--ongoing">Ongoing</span>
     <h3>Collaborative Project on Feature Extraction and Clustering Algorithms for Large-Scale Chip Layout Patterns (Ongoing)</h3>
     <ul>
       <li>Huawei Technologies Co., Ltd., Semiconductor Department</li>
@@ -110,7 +114,7 @@ author_profile: true
   </article>
 
   <article class="funding-card">
-    <span class="funding-status">Ongoing</span>
+    <span class="funding-status funding-status--ongoing">Ongoing</span>
     <h3>Collaborative Project on Online Lithium Plating Detection for Silicon Anodes (Ongoing)</h3>
     <ul>
       <li>Huawei Technologies Co., Ltd., Device Department</li>
