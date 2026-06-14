@@ -56,6 +56,42 @@ Highlights
     font-size: 0.9rem;
   }
 
+  .news-list {
+    display: grid;
+    gap: 0.75rem;
+    margin: 0.2rem 0 1rem;
+  }
+  .news-card {
+    padding: 0.75rem 0.85rem;
+    border: 1px solid #e7e0da;
+    border-left: 3px solid #8b1e2d;
+    border-radius: 6px;
+    background: #fbfaf8;
+  }
+  .news-card p {
+    margin: 0.35rem 0 0;
+  }
+  .news-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    align-items: center;
+    font-size: 0.75rem;
+    letter-spacing: 0;
+    text-transform: uppercase;
+  }
+  .news-date {
+    color: #555;
+    font-weight: 700;
+  }
+  .news-tag {
+    padding: 0.08rem 0.38rem;
+    border-radius: 999px;
+    background: #f0e8e1;
+    color: #8b1e2d;
+    font-weight: 700;
+  }
+
   .news-more {
     margin-top: 0.75rem;
   }
@@ -89,25 +125,48 @@ Highlights
 Latest News
 ======
 
-- (2026-06) Congratulations to Jun Zhu et al. on their paper "SSP-Ensemble: A Sufficient Subspace Projection Ensemble for Multiclass Classification" and Peize Wang et al. on their paper "KPOTD: Kernel Principal Optimal Transport Directions for Nonlinear Sufficient Dimension Reduction" being accepted by the first top statistics conference STAI-X!
-
-- (2026-06) Congratulations to Junlie Huang on the approval of his project "Research on High-Precision Fault Early-Warning Algorithms Based on Statistics" as a Renmin University of China Mingli College "Qiushi Graduate Education Research" project! [Link](https://mp.weixin.qq.com/s/RctY4tEAfXxE1zw6Io4I-g)
-
-- (2026-06) Congratulations to Tao Wang, Junlie Huang, Dunyao Xue, and Chengshuo Du on their projects being approved as 2026 Graduate Student Scientific Research Fund Projects of the Institute of Statistics and Big Data (8 awardees institute-wide)!
-
-- (2026-05) Congratulations to Junyi Lin et al. on their paper "Sparsification Subsampling for Partial Least Squares Regression" being accepted by Journal of Computational and Graphical Statistics! [Link](https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493940&idx=1&sn=3f41517b696d31773e31a21693ad8c35&chksm=e8f6112b10b60af59a6e06b2b853b016819e8df11bd3e59f74027f2f0f3b6a7008093539b5aa&mpshare=1&scene=1&srcid=0612HIgIPk4SNGTgunx3oLYC&sharer_shareinfo=9485eab15d920ade4b142f3ec70593ac&sharer_shareinfo_first=9485eab15d920ade4b142f3ec70593ac#rd)
-
-- (2026-05) Congratulations to Xinlai Kang, Dunyao Xue, Zhengbo Wang, and Chengshuo Du et al. on the acceptance of their paper "Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE" at ICML 2026, which has been featured and reported by the well-known machine learning public account "Machine Heart" (Ji Qi Zhi Xin)! [Link](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034543&idx=2&sn=8c0a91d51644de87618d0cdd9585429d)
-
-- (2026-05) Congratulations to Cheng Meng for participating in the project "Building a New Campus-Wide Academy System to Create a 'Three-Span, Three-Exchange, Three-Learning' Ecosystem for Future Talent Development", which has won the Second Prize of the Beijing Higher Education Teaching Achievement Award! [Link](https://mp.weixin.qq.com/s/tblNY71IJZHax3ybNhkG0A)
-
-- (2026-04) Congratulations to Tao Wang, Chengshuo Du, Xiaxue Ouyang, and Junyi Lin for winning the Travel Award at the 1st "Mao Shisong Statistical Education Doctoral Forum," hosted by the Young Statisticians Association of the National Association for Industrial Statistics Teaching and Research! [Link](https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493720&idx=1&sn=33806c9917daa341d2b28715e7154461)
-
-- （2026-03）Congratulations to Dunyao Xue, et al. on their paper "Core-elements Subsampling for Alternating Least Squares" being accepted by JCGS！[Link](https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493684&idx=1&sn=2890bbd35e47576683e9019d532ff71d&chksm=e8c4425f7136d1bed9b4acf814b19ef8179428e79e09fa51e30af3cdfa9842fd2b54290b4c16&mpshare=1&scene=1&srcid=0414OajaNWC2FQBekHecF670&sharer_shareinfo=bcb12df34a4a3d6bd935ea3dc2d09229&sharer_shareinfo_first=bcb12df34a4a3d6bd935ea3dc2d09229#rd)
-
-- (2026-03) Congratulations to Dunyao Xue on being selected for the 2025-2026 Renmin University of China "Top Innovative Talents Training Funding Program"!
-
-- (2026-03) Congratulations to Jun Zhu and Cheng Meng on winning the Spark Award in Huawei’s “Challenge Bounty” Issue 131 for the challenge “Online Lithium Plating Detection”! [Link](https://mp.weixin.qq.com/s/aECgm4y8pQs_ImBtHJ-7Pw)
+<div class="news-list">
+  <article class="news-card">
+    <div class="news-meta"><span class="news-date">2026-06</span><span class="news-tag">Conference</span></div>
+    <p><strong>Two BDAL-RUC papers are heading to STAI-X.</strong> Congratulations to Jun Zhu et al. for "SSP-Ensemble: A Sufficient Subspace Projection Ensemble for Multiclass Classification" and Peize Wang et al. for "KPOTD: Kernel Principal Optimal Transport Directions for Nonlinear Sufficient Dimension Reduction," both accepted by the inaugural STAI-X conference.</p>
+  </article>
+  <article class="news-card">
+    <div class="news-meta"><span class="news-date">2026-06</span><span class="news-tag">Project</span></div>
+    <p><strong>A new Mingli College project begins.</strong> Junlie Huang's project "Research on High-Precision Fault Early-Warning Algorithms Based on Statistics" has been approved as a Renmin University of China Mingli College "Qiushi Graduate Education Research" project. <a href="https://mp.weixin.qq.com/s/RctY4tEAfXxE1zw6Io4I-g">Link</a></p>
+  </article>
+  <article class="news-card">
+    <div class="news-meta"><span class="news-date">2026-06</span><span class="news-tag">Research Fund</span></div>
+    <p><strong>Four student projects won institute-level support.</strong> Projects by Tao Wang, Junlie Huang, Dunyao Xue, and Chengshuo Du were approved as 2026 Graduate Student Scientific Research Fund Projects of the Institute of Statistics and Big Data, among 8 awardees institute-wide.</p>
+  </article>
+  <article class="news-card">
+    <div class="news-meta"><span class="news-date">2026-05</span><span class="news-tag">Journal</span></div>
+    <p><strong>Another JCGS paper joins the group's publication list.</strong> Congratulations to Junyi Lin et al. on "Sparsification Subsampling for Partial Least Squares Regression" being accepted by Journal of Computational and Graphical Statistics. <a href="https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493940&idx=1&sn=3f41517b696d31773e31a21693ad8c35&chksm=e8f6112b10b60af59a6e06b2b853b016819e8df11bd3e59f74027f2f0f3b6a7008093539b5aa&mpshare=1&scene=1&srcid=0612HIgIPk4SNGTgunx3oLYC&sharer_shareinfo=9485eab15d920ade4b142f3ec70593ac&sharer_shareinfo_first=9485eab15d920ade4b142f3ec70593ac#rd">Link</a></p>
+  </article>
+  <article class="news-card">
+    <div class="news-meta"><span class="news-date">2026-05</span><span class="news-tag">Conference</span></div>
+    <p><strong>BDAL-RUC work on MoE was accepted by ICML 2026.</strong> Congratulations to Xinlai Kang, Dunyao Xue, Zhengbo Wang, Chengshuo Du et al. on "Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE," also featured by the well-known machine learning public account "Machine Heart" (Ji Qi Zhi Xin). <a href="https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034543&idx=2&sn=8c0a91d51644de87618d0cdd9585429d">Link</a></p>
+  </article>
+  <article class="news-card">
+    <div class="news-meta"><span class="news-date">2026-05</span><span class="news-tag">Teaching Award</span></div>
+    <p><strong>A teaching innovation project received city-level recognition.</strong> Cheng Meng participated in "Building a New Campus-Wide Academy System to Create a 'Three-Span, Three-Exchange, Three-Learning' Ecosystem for Future Talent Development," which won the Second Prize of the Beijing Higher Education Teaching Achievement Award. <a href="https://mp.weixin.qq.com/s/tblNY71IJZHax3ybNhkG0A">Link</a></p>
+  </article>
+  <article class="news-card">
+    <div class="news-meta"><span class="news-date">2026-04</span><span class="news-tag">Award</span></div>
+    <p><strong>Four students brought home Travel Awards.</strong> Congratulations to Tao Wang, Chengshuo Du, Xiaxue Ouyang, and Junyi Lin for winning the Travel Award at the 1st "Mao Shisong Statistical Education Doctoral Forum." <a href="https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493720&idx=1&sn=33806c9917daa341d2b28715e7154461">Link</a></p>
+  </article>
+  <article class="news-card">
+    <div class="news-meta"><span class="news-date">2026-03</span><span class="news-tag">Journal</span></div>
+    <p><strong>A core-elements subsampling paper was accepted by JCGS.</strong> Congratulations to Dunyao Xue et al. on "Core-elements Subsampling for Alternating Least Squares" being accepted by JCGS. <a href="https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493684&idx=1&sn=2890bbd35e47576683e9019d532ff71d&chksm=e8c4425f7136d1bed9b4acf814b19ef8179428e79e09fa51e30af3cdfa9842fd2b54290b4c16&mpshare=1&scene=1&srcid=0414OajaNWC2FQBekHecF670&sharer_shareinfo=bcb12df34a4a3d6bd935ea3dc2d09229&sharer_shareinfo_first=bcb12df34a4a3d6bd935ea3dc2d09229#rd">Link</a></p>
+  </article>
+  <article class="news-card">
+    <div class="news-meta"><span class="news-date">2026-03</span><span class="news-tag">Talent Program</span></div>
+    <p><strong>Dunyao Xue was selected for RUC's talent training program.</strong> Congratulations on being selected for the 2025-2026 Renmin University of China "Top Innovative Talents Training Funding Program."</p>
+  </article>
+  <article class="news-card">
+    <div class="news-meta"><span class="news-date">2026-03</span><span class="news-tag">Industry Award</span></div>
+    <p><strong>The team won another Huawei Spark Award.</strong> Congratulations to Jun Zhu and Cheng Meng on winning the Spark Award in Huawei's "Challenge Bounty" Issue 131 for the challenge "Online Lithium Plating Detection." <a href="https://mp.weixin.qq.com/s/aECgm4y8pQs_ImBtHJ-7Pw">Link</a></p>
+  </article>
+</div>
 
 <details class="news-more" markdown="1">
   <summary>More News</summary>
