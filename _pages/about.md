@@ -170,7 +170,7 @@ Our work starts from statistical theory and stays closely connected to real-worl
     display: inline-block;
     padding: 0.38rem 0.72rem;
     border: 1px solid #d8c8bf;
-    border-radius: 6px;
+    border-radius: 999px;
     background: #fbfaf8;
     cursor: pointer;
     color: #8b1e2d;
