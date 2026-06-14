@@ -68,24 +68,24 @@ author_profile: true
 }
 </style>
 
-We welcome students with sustained interest in our research directions and a willingness to engage in long-term research training. This page is meant to help applicants quickly assess fit and prepare more useful materials before contacting us.
+We welcome students with sustained interest in our research directions and a willingness to engage in long-term research training. Please read the following notes before contacting us.
 
 <div class="admission-notice" markdown="1">
-**Important note:** The Institute uses a committee-based unified admissions process. Applicants should first complete the formal application according to Institute requirements and obtain the corresponding admission qualification, or enter the relevant application process. After that, you are welcome to contact us for further discussion about joining the group. If your email is too general or does not show basic familiarity with our research directions, we may not be able to reply individually. Thank you for your understanding.
+**Important note:** The Institute uses a committee-based unified admissions process. Applicants should first complete the formal application according to Institute requirements and obtain the corresponding admission qualification, or enter the relevant application process. If your email is too general or does not show basic familiarity with our research directions, we may not be able to reply individually. Thank you for your understanding.
 </div>
 
 ---
 
-## 1. Who May Be a Good Fit
+## 1. What We Value
 
 <div class="admission-grid">
   <div class="admission-panel">
-    <h3>Good Fits for the Group</h3>
+    <h3>Basic Expectations</h3>
     <ul>
-      <li>Students with sustained interest in big data statistics, optimal transport, AI, industrial statistics, or related directions.</li>
-      <li>Students willing to commit to long-term research training and steady staged progress.</li>
-      <li>Students who learn proactively, communicate in a timely way, and value teamwork.</li>
-      <li>Students who hope to gradually build independent research ability through collaboration.</li>
+      <li>Research interests aligned with the group's directions.</li>
+      <li>Willingness to commit to long-term research training.</li>
+      <li>Proactive learning and timely communication.</li>
+      <li>Ability to keep staged tasks moving forward.</li>
     </ul>
   </div>
   <div class="admission-panel">
@@ -94,18 +94,16 @@ We welcome students with sustained interest in our research directions and a wil
       <li>Contacting the group without first learning about our research directions.</li>
       <li>Seeking only short-term nominal participation without sustained commitment.</li>
       <li>Being unable to maintain basic communication, staged feedback, and task progress.</li>
-      <li>Having research interests far from the group's main directions.</li>
+      <li>Being unable to engage deeply with the group before enrollment.</li>
     </ul>
   </div>
 </div>
-
-Research requires long-term commitment. We hope students can maintain good physical and mental health, stay positive, and take a proactive approach to difficulties and setbacks. The group values openness, mutual support, and high-quality collaboration, while encouraging students to gradually develop independent thinking and the ability to move research problems forward.
 
 ---
 
 ## 2. What to Prepare Before Contacting Us
 
-To make communication more productive, please include the following information when writing:
+Please include the following information when writing:
 
 <ul class="admission-checklist">
   <li>Your current application status: admitted, applying, or planning to apply for the relevant Institute qualification.</li>
@@ -116,70 +114,37 @@ To make communication more productive, please include the following information 
   <li>Your CV, transcript, representative course projects, papers, code links, or other relevant materials.</li>
 </ul>
 
-The email does not need to be long. It is more helpful if it shows that you have learned about the group and can explain your interest, background, and possible next steps around one clear direction.
+The email does not need to be long, but it should show that you have learned about the group and can explain your interest, background, and possible next steps around one clear direction.
 
 ---
 
-## 3. Matching Process Before Joining
-
-### 1. Formal Application and Initial Communication
-
-Applicants should first follow the Institute's formal application requirements. After obtaining the relevant qualification or entering the relevant application process, applicants may communicate further with the advisor and group members to assess research interests, working styles, and long-term fit.
-
-### 2. Group Meetings, Project Discussions, or Short-Term Research Participation
-
-Applicants are usually expected to get to know the group through group meeting presentations, project discussions, short-term research participation, or similar forms of interaction. Based on research interests and project needs, the group will match suitable senior members for day-to-day research discussions and project progress. Formal academic supervision remains the shared responsibility of the advisor and the research group.
-
-### 3. Mutual Confirmation
+## 3. Matching Process
 
 <div class="admission-process" markdown="1">
-**Matching period:** Students who have obtained admission qualification and intend to formally join the group are generally expected to complete no less than 3 months of in-depth research communication and topic exploration before formal enrollment. This is especially important for master's students, who usually need to determine an advisor soon after enrollment. If a master's student has not engaged deeply with the group during the pre-enrollment summer through group meetings, project discussions, or short-term research participation, the group will generally not consider formal joining. The starting time can be discussed in advance, but the matching period should involve substantive staged work around a clear research direction, with necessary guidance and feedback from the advisor and group members.
+**Matching period:** Students who intend to formally join the group are generally expected to complete no less than 3 months of in-depth research communication and topic exploration before formal enrollment. This is especially important for master's students, who usually need to determine an advisor soon after enrollment. If a master's student has not engaged deeply with the group during the pre-enrollment summer through group meetings, project discussions, or short-term research participation, the group will generally not consider formal joining.
 </div>
 
-The group will comprehensively consider research fit, collaboration style, communication, staged commitment, and completion of work before making a final decision on formal joining. We also encourage applicants, after fully understanding the group, to carefully judge whether they are suited to the group's research pace and training style.
+The matching period should involve substantive staged work around a clear direction. The group will consider research fit, communication, staged commitment, and completion of work before making a final decision on formal joining.
 
 ---
 
-## 4. Why Join Us
+## 4. What the Group Offers
 
 <div class="admission-grid">
   <div class="admission-panel">
-    <h3>Strong Career Outcomes</h3>
-    <p>All graduated Ph.D. students from the group have received million-RMB-level offers, and most master's students have moved on to strong Ph.D. programs or leading internet and technology companies. The group values long-term planning and encourages students to think early about academic or industry paths after graduation.</p>
+    <h3>Student-Led Research</h3>
+    <p>The group encourages students to serve as first authors or core contributors and to build representative work around clear problems. Most group papers are led by students.</p>
   </div>
   <div class="admission-panel">
-    <h3>Student-Led Research Output</h3>
-    <p>The group encourages students to serve as first authors or core contributors and to build representative work around clear research problems. In recent years, many papers have been led by group students and published in important venues in statistics, machine learning, and interdisciplinary applications.</p>
+    <h3>Publication and Collaboration Platforms</h3>
+    <p>The group has published work in NeurIPS, ICML, ICLR, JCGS, JMLR, Biometrika, Bioinformatics, Pattern Recognition, and STAI-X, and maintains deep collaborations with Huawei and other partners.</p>
   </div>
   <div class="admission-panel">
-    <h3>High-Quality Publication Platforms</h3>
-    <p>The group has published work in venues including NeurIPS, ICML, ICLR, JCGS, JMLR, Biometrika, Bioinformatics, Pattern Recognition, and STAI-X, offering students strong research training and visibility.</p>
+    <h3>Career Outcomes</h3>
+    <p>All graduated Ph.D. students from the group have received million-RMB-level offers, and most master's students have moved on to strong Ph.D. programs or leading internet and technology companies.</p>
   </div>
   <div class="admission-panel">
-    <h3>Real Problems and Industry Collaboration</h3>
-    <p>The team maintains deep collaborations with Huawei and other partners, and has won Huawei Challenge Unveiling Spark Awards multiple times. We aim to train students in modeling, computation, and methodological innovation through real complex problems.</p>
-  </div>
-</div>
-
----
-
-## 5. Support Provided by the Group
-
-<div class="admission-grid">
-  <div class="admission-panel">
-    <h3>Research Guidance and Feedback</h3>
-    <p>The group holds regular meetings and encourages open discussion and timely feedback. The advisor and group members help students clarify staged goals, organize research ideas, and address difficulties during research progress.</p>
-  </div>
-  <div class="admission-panel">
-    <h3>Resources, Conferences, and Projects</h3>
-    <p>The group provides computing resources, data resources, experimental support, code and project experience sharing according to research needs. Students with staged progress will receive support for conferences, collaborations, and project applications.</p>
-  </div>
-  <div class="admission-panel">
-    <h3>Long-Term Development</h3>
-    <p>We help students plan research paths, accumulate representative achievements, and provide advice for further study, employment, internships, collaboration, and academic exchange based on their interests, abilities, and future goals.</p>
-  </div>
-  <div class="admission-panel">
-    <h3>Research Assistant Support and Group Culture</h3>
-    <p>On the basis of university and Institute regulations, the group provides corresponding research assistant support according to research participation and project progress, while fostering an open, mutually supportive, and positive group atmosphere.</p>
+    <h3>Research Support</h3>
+    <p>The group provides staged feedback, computing and data resources, project experience sharing, conference and collaboration support, and research assistant support under university and Institute regulations.</p>
   </div>
 </div>
