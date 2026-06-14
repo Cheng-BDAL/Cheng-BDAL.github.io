@@ -179,11 +179,10 @@ Our work starts from statistical theory and stays closely connected to real-worl
   .news-more summary::marker {
     content: "";
   }
-  .news-year {
-    margin-top: 0.7rem;
-  }
-  .news-year summary {
-    font-size: 0.9rem;
+  .news-year-heading {
+    margin: 0.85rem 0 0.45rem;
+    color: #555;
+    font-size: 0.98rem;
   }
   @media (max-width: 720px) {
     .page__content > p:first-of-type img {
@@ -291,8 +290,7 @@ Our work starts from statistical theory and stays closely connected to real-worl
 <details class="news-more">
   <summary>Show More News</summary>
 
-<details class="news-year" open>
-  <summary>2026</summary>
+<h3 class="news-year-heading">2026</h3>
 
 <div class="news-list">
   <article class="news-card">
@@ -332,10 +330,8 @@ Our work starts from statistical theory and stays closely connected to real-worl
     <p><strong>Five students were featured in the RUC Statistics growth chronicle.</strong> Congratulations to Mengyu Li, Junlie Huang, Chengshuo Du, Tao Wang, and Dunyao Xue, five students featured in the 2025 RUC Statistics Student Growth Chronicle! <a href="https://mp.weixin.qq.com/s/ZAW9in5xx4kh3uWEm1sinA">Read more →</a></p>
 </article>
 </div>
-</details>
 
-<details class="news-year">
-  <summary>2025</summary>
+<h3 class="news-year-heading">2025</h3>
 
 <div class="news-list">
   <article class="news-card">
@@ -438,11 +434,8 @@ Our work starts from statistical theory and stays closely connected to real-worl
 <a href="https://mp.weixin.qq.com/s/1LUVaZowmOd9oIREQAScgA">Read more →</a></p>
 </article>
 </div>
-</details>
-</details>
 
-<details class="news-year">
-  <summary>2024</summary>
+<h3 class="news-year-heading">2024</h3>
 
 <div class="news-list">
   <article class="news-card">
