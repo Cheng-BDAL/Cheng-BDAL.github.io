@@ -43,6 +43,10 @@ author_profile: true
     background: #e7f3ea;
     color: #237245;
   }
+  .funding-status--excellent {
+    background: #fff3cf;
+    color: #9a6a00;
+  }
 </style>
 
 ## Principal Investigator (PI) Projects
@@ -50,15 +54,15 @@ author_profile: true
 <div class="funding-list">
   <article class="funding-card">
     <span class="funding-status funding-status--ongoing">Ongoing</span>
-    <h3>Collaborative Project on Time-Series Feature Correlation Analysis and Dimensionality Reduction Technology Based on Mutual Information (Ongoing)</h3>
+    <h3>Collaborative Project on Time-Series Feature Correlation Analysis and Dimensionality Reduction Technology Based on Mutual Information</h3>
     <ul>
       <li>Huawei Technologies Co., Ltd., 2012 Laboratories</li>
     </ul>
   </article>
 
   <article class="funding-card">
-    <span class="funding-status">Completed with Excellence</span>
-    <h3>Collaborative Project on Multi-Dimensional Fast Optimization Technology (Completed with Excellence)</h3>
+    <span class="funding-status funding-status--excellent">Completed with Excellence</span>
+    <h3>Collaborative Project on Multi-Dimensional Fast Optimization Technology</h3>
     <ul>
       <li>Huawei Technologies Co., Ltd., Optical Product Line</li>
       <li>Entered into Huawei's Outstanding Talent System: Junlie Huang, Zhengbo Wang, Jiadi Lv</li>
@@ -66,8 +70,8 @@ author_profile: true
   </article>
 
   <article class="funding-card">
-    <span class="funding-status">Completed with Excellence</span>
-    <h3>Collaborative Project on High-Dimensional Feature Space Compression Technology Based on Multivariate Statistical Relationships (Completed with Excellence)</h3>
+    <span class="funding-status funding-status--excellent">Completed with Excellence</span>
+    <h3>Collaborative Project on High-Dimensional Feature Space Compression Technology Based on Multivariate Statistical Relationships</h3>
     <ul>
       <li>Huawei Technologies Co., Ltd., 2012 Laboratories</li>
       <li>Entered into Huawei's Outstanding Talent System: Tao Wang, Peize Wang</li>
@@ -75,8 +79,8 @@ author_profile: true
   </article>
 
   <article class="funding-card">
-    <span class="funding-status">Completed with Excellence</span>
-    <h3>Collaborative Project on Spatial Characteristics of Image Noise (Completed with Excellence)</h3>
+    <span class="funding-status funding-status--excellent">Completed with Excellence</span>
+    <h3>Collaborative Project on Spatial Characteristics of Image Noise</h3>
     <ul>
       <li>Huawei Technologies Co., Ltd., Optical Product Line</li>
       <li>Entered into Huawei's Outstanding Talent System: Xinlai Kang, Qiannan Huang, Tao Wang</li>
@@ -85,7 +89,7 @@ author_profile: true
 
   <article class="funding-card">
     <span class="funding-status">Completed</span>
-    <h3>National Natural Science Foundation of China (NSFC) Young Scientists Fund (Completed)</h3>
+    <h3>National Natural Science Foundation of China (NSFC) Young Scientists Fund</h3>
     <ul>
       <li>Project No.: 12101606</li>
       <li>Title: "Efficient Model-Free Subsampling Methods"</li>
@@ -94,7 +98,7 @@ author_profile: true
 
   <article class="funding-card">
     <span class="funding-status">Completed</span>
-    <h3>Young Scientists Fund (Completed)</h3>
+    <h3>Young Scientists Fund</h3>
     <ul>
       <li>Renmin University of China</li>
       <li>Title: "Optimal Transport Problems in Big Data"</li>
@@ -107,7 +111,7 @@ author_profile: true
 <div class="funding-list">
   <article class="funding-card">
     <span class="funding-status funding-status--ongoing">Ongoing</span>
-    <h3>Collaborative Project on Feature Extraction and Clustering Algorithms for Large-Scale Chip Layout Patterns (Ongoing)</h3>
+    <h3>Collaborative Project on Feature Extraction and Clustering Algorithms for Large-Scale Chip Layout Patterns</h3>
     <ul>
       <li>Huawei Technologies Co., Ltd., Semiconductor Department</li>
     </ul>
@@ -115,7 +119,7 @@ author_profile: true
 
   <article class="funding-card">
     <span class="funding-status funding-status--ongoing">Ongoing</span>
-    <h3>Collaborative Project on Online Lithium Plating Detection for Silicon Anodes (Ongoing)</h3>
+    <h3>Collaborative Project on Online Lithium Plating Detection for Silicon Anodes</h3>
     <ul>
       <li>Huawei Technologies Co., Ltd., Device Department</li>
     </ul>
@@ -123,7 +127,7 @@ author_profile: true
 
   <article class="funding-card">
     <span class="funding-status">Completed</span>
-    <h3>National Natural Science Foundation of China (NSFC) General Program (Completed)</h3>
+    <h3>National Natural Science Foundation of China (NSFC) General Program</h3>
     <ul>
       <li>Project No.: 12271522</li>
       <li>Title: "Fusion Modeling and Heterogeneity Analysis of Single-Cell Multi-Omics Data"</li>
@@ -132,7 +136,7 @@ author_profile: true
 
   <article class="funding-card">
     <span class="funding-status">Completed</span>
-    <h3>Beijing Natural Science Foundation General Program (Completed)</h3>
+    <h3>Beijing Natural Science Foundation General Program</h3>
     <ul>
       <li>Project No.: 1232019</li>
       <li>Title: "Study on Large-Sample Subsampling under Measurement Constraints"</li>
