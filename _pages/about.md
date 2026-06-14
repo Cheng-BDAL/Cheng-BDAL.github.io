@@ -28,11 +28,18 @@ I was honored to receive the 2023 Junior Researcher Award from the Pan-Asian Com
 Our lab is currently focused on developing theory-backed, scalable algorithms for big data, with a mission to enable the practical deployment of statistical methods across diverse industrial applications.
 </p>
 
+<p class="about-keywords">Keywords: Big Data Statistics · Optimal Transport · Artificial Intelligence · Industrial Statistics · Huawei Collaboration · Student Mentorship</p>
 
-Highlights
+Featured Reports
 ======
 
 <style>
+  .about-keywords {
+    margin: 0.8rem 0 1.4rem;
+    color: #555;
+    font-size: 0.92rem;
+    font-weight: 600;
+  }
   .highlight-grid {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -118,6 +125,13 @@ Highlights
     color: #8b1e2d;
     font-weight: 600;
   }
+  .homepage-maintenance {
+    margin-top: 1rem;
+    padding-top: 0.7rem;
+    border-top: 1px solid #e7e0da;
+    color: #666;
+    font-size: 0.88rem;
+  }
   @media (max-width: 720px) {
     .highlight-grid {
       grid-template-columns: 1fr;
@@ -127,16 +141,16 @@ Highlights
 
 <div class="highlight-grid">
   <a href="https://mp.weixin.qq.com/s/jtmVn6od7OL0Z7EPplROpQ">
-    <img src="https://cheng-bdal.github.io//images/赛道.jpg" alt="Huawei report">
-    <span>Huawei Report</span>
+    <img src="https://cheng-bdal.github.io//images/赛道.jpg" alt="Huawei report on the team's Spark Award">
+    <span>Huawei report on the team's Spark Award</span>
   </a>
   <a href="https://mp.weixin.qq.com/s/bSx9Vl2pe-LEdYZdeyDGRQ">
-    <img src="https://cheng-bdal.github.io//images/新生讲话.jpg" alt="RUC report">
-    <span>RUC Report</span>
+    <img src="https://cheng-bdal.github.io//images/新生讲话.jpg" alt="RUC report on the freshman speech">
+    <span>RUC report on the freshman speech</span>
   </a>
   <a href="https://mp.weixin.qq.com/s/OQwr1EvCYTcqG4Tm2Yl84Q">
-    <img src="https://cheng-bdal.github.io//images/清华校友.jpg" alt="Tsinghua alumni report">
-    <span>Tsinghua Alumni Report</span>
+    <img src="https://cheng-bdal.github.io//images/清华校友.jpg" alt="Tsinghua alumni story">
+    <span>Tsinghua alumni story</span>
   </a>
 </div>
 
@@ -176,6 +190,12 @@ Latest News
     <div class="news-meta"><span class="news-date">2026-03</span><span class="news-tag news-tag--papers">Papers</span></div>
     <p><strong>A core-elements subsampling paper was accepted by JCGS.</strong> Congratulations to Dunyao Xue et al. on "Core-elements Subsampling for Alternating Least Squares" being accepted by JCGS. <a href="https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493684&idx=1&sn=2890bbd35e47576683e9019d532ff71d&chksm=e8c4425f7136d1bed9b4acf814b19ef8179428e79e09fa51e30af3cdfa9842fd2b54290b4c16&mpshare=1&scene=1&srcid=0414OajaNWC2FQBekHecF670&sharer_shareinfo=bcb12df34a4a3d6bd935ea3dc2d09229&sharer_shareinfo_first=bcb12df34a4a3d6bd935ea3dc2d09229#rd">Link</a></p>
   </article>
+</div>
+
+<details class="news-more" markdown="1">
+  <summary>Show More News</summary>
+
+<div class="news-list">
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-03</span><span class="news-tag news-tag--awards">Awards</span></div>
     <p><strong>Dunyao Xue was selected for RUC's talent training program.</strong> Congratulations on being selected for the 2025-2026 Renmin University of China "Top Innovative Talents Training Funding Program."</p>
@@ -184,12 +204,6 @@ Latest News
     <div class="news-meta"><span class="news-date">2026-03</span><span class="news-tag news-tag--projects">Projects</span></div>
     <p><strong>The team won another Huawei Spark Award.</strong> Congratulations to Jun Zhu and Cheng Meng on winning the Spark Award in Huawei's "Challenge Bounty" Issue 131 for the challenge "Online Lithium Plating Detection." <a href="https://mp.weixin.qq.com/s/aECgm4y8pQs_ImBtHJ-7Pw">Link</a></p>
   </article>
-</div>
-
-<details class="news-more" markdown="1">
-  <summary>More News</summary>
-
-<div class="news-list">
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-01</span><span class="news-tag news-tag--papers">Papers</span></div>
     <p><strong>An optimal transport sparsification paper was accepted.</strong> Congratulations to Ouyang Xiaxue et al. on their paper "Sparsification Techniques for Large-scale Optimal Transport Problems" being accepted by WIREs Computational Statistics, and for its feature coverage on the renowned statistics public platform "Capital of Statistics"! <a href="https://mp.weixin.qq.com/s/f_F0dMu3QbU_GCBHDJIv4A">Link</a></p>
@@ -325,9 +339,7 @@ Congratulations to Haoxian Liang on Being Interviewed by Mingli College！
     <div class="news-meta"><span class="news-date">2024-10</span><span class="news-tag news-tag--awards">Awards</span></div>
     <p><strong>Mengyu Li received a CSIAM Outstanding Poster Award.</strong> Congratulations! Mengyu Li was awarded the Outstanding Poster Award at the 22nd Annual Conference of the China Society for Industrial and Applied Mathematics.<a href="https://mp.weixin.qq.com/s/ffKNLItqx5vv-P0r3Yd2QQ">Link</a></p>
   </article>
-  <article class="news-card">
-    <div class="news-meta"><span class="news-date">2024-9</span><span class="news-tag news-tag--team">Team</span></div>
-    <p><strong>The BDAL-RUC homepage is officially launched.</strong> The BDAL-RUC homepage is officially launched! Website maintenance: Cheng Meng, Chengshuo Du, Zhipeng Xiang.</p>
-  </article>
 </div>
 </details>
+
+<p class="homepage-maintenance"><strong>Homepage launch and maintenance.</strong> The BDAL-RUC homepage is officially launched! Website maintenance: Cheng Meng, Chengshuo Du, Zhipeng Xiang.</p>
