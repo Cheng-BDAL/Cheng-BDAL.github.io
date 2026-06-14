@@ -102,18 +102,17 @@ author_profile: true
 
 ## 2. What to Prepare Before Contacting Us
 
-Please include the following information when writing:
+Please briefly include:
 
 <ul class="admission-checklist">
   <li>Your current application status: admitted, applying, or planning to apply for the relevant Institute qualification.</li>
-  <li>The group research direction, recent work, or representative paper that interests you.</li>
-  <li>Your background in mathematics, statistics, computing, coding, or relevant projects.</li>
-  <li>The specific problem or research interest you hope to explore further.</li>
-  <li>Your medium- to long-term plan, especially your tentative direction after completing a master's or Ph.D. degree.</li>
-  <li>Your CV, transcript, representative course projects, papers, code links, or other relevant materials.</li>
+  <li>The group direction, recent work, or representative paper that interests you.</li>
+  <li>Background in mathematics, statistics, computing, coding, or projects.</li>
+  <li>The specific problem you hope to explore, and your tentative plan after a master's or Ph.D. degree.</li>
+  <li>CV, transcript, representative projects, papers, or code links.</li>
 </ul>
 
-The email does not need to be long, but it should state a clear direction, your background, and possible next steps.
+The email does not need to be long, but it should have a clear direction and substantive content.
 
 ---
 
