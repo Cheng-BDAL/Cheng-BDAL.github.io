@@ -113,16 +113,16 @@ Service
     <h3>Editorial Service</h3>
     <p>Associate Editor of <em>The Chinese Encyclopedia</em> (Third Edition), Statistics Volume - Data Science Subvolume.</p>
     <div class="cv-image-grid">
-      <img src="https://cheng-bdal.github.io//images/百科全书P1.png" alt="Chinese Encyclopedia page 1">
-      <img src="https://cheng-bdal.github.io//images/百科全书P2.png" alt="Chinese Encyclopedia page 2">
-      <img src="https://cheng-bdal.github.io//images/百科全书P3.png" alt="Chinese Encyclopedia page 3">
-      <img src="https://cheng-bdal.github.io//images/百科全书P4.png" alt="Chinese Encyclopedia page 4">
+      <img loading="lazy" src="https://cheng-bdal.github.io//images/百科全书P1.png" alt="Chinese Encyclopedia page 1">
+      <img loading="lazy" src="https://cheng-bdal.github.io//images/百科全书P2.png" alt="Chinese Encyclopedia page 2">
+      <img loading="lazy" src="https://cheng-bdal.github.io//images/百科全书P3.png" alt="Chinese Encyclopedia page 3">
+      <img loading="lazy" src="https://cheng-bdal.github.io//images/百科全书P4.png" alt="Chinese Encyclopedia page 4">
     </div>
   </div>
   <div class="cv-service-item">
     <h3>Laboratory Mentoring</h3>
     <p>Supervisor of the Stat2Spark Mingli Innovation Laboratory. <a href="https://mp.weixin.qq.com/s/ci3yEQE8B6Om9nn7HDRXJA">Link</a></p>
-    <img class="cv-image-wide" src="https://cheng-bdal.github.io//images/明理创新实验室.png" alt="Stat2Spark Mingli Innovation Laboratory">
+    <img loading="lazy" class="cv-image-wide" src="https://cheng-bdal.github.io//images/明理创新实验室.png" alt="Stat2Spark Mingli Innovation Laboratory">
   </div>
   <div class="cv-service-item">
     <h3>Peer Review</h3>
@@ -131,8 +131,8 @@ Service
   <div class="cv-service-item">
     <h3>Admissions and Outreach</h3>
     <p>Member of the Renmin University of China Shanghai Admissions Committee (2023-2025).</p>
-    <img class="cv-image-wide" src="https://cheng-bdal.github.io//images/上海招生.jpg" alt="RUC Shanghai admissions">
+    <img loading="lazy" class="cv-image-wide" src="https://cheng-bdal.github.io//images/上海招生.jpg" alt="RUC Shanghai admissions">
     <p>Representative of the Renmin University of China Jiangsu Admissions Committee in 2025; delivered a science outreach talk at Tianyi High School, Jiangsu Province. <a href="https://mp.weixin.qq.com/s/Rhzmvg_Trd_3_13nDxzjRg">Link</a></p>
-    <img class="cv-image-wide" src="https://cheng-bdal.github.io//images/江苏省招生.jpg" alt="RUC Jiangsu admissions">
+    <img loading="lazy" class="cv-image-wide" src="https://cheng-bdal.github.io//images/江苏省招生.jpg" alt="RUC Jiangsu admissions">
   </div>
 </div>

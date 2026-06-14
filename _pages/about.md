@@ -64,7 +64,7 @@ Featured Reports
   }
   .highlight-grid img {
     width: 100%;
-    aspect-ratio: 16 / 9;
+    aspect-ratio: 4 / 3;
     object-fit: cover;
     border-radius: 6px;
   }
@@ -234,15 +234,15 @@ Featured Reports
 
 <div class="highlight-grid">
   <a href="https://mp.weixin.qq.com/s/jtmVn6od7OL0Z7EPplROpQ">
-    <img src="https://cheng-bdal.github.io//images/赛道.jpg" alt="Huawei reports on BDAL-RUC's third Spark Award">
+    <img loading="lazy" src="https://cheng-bdal.github.io//images/赛道.jpg" alt="Huawei reports on BDAL-RUC's third Spark Award">
     <span>Huawei reports on BDAL-RUC's third Spark Award →</span>
   </a>
   <a href="https://mp.weixin.qq.com/s/bSx9Vl2pe-LEdYZdeyDGRQ">
-    <img src="https://cheng-bdal.github.io//images/新生讲话.jpg" alt="RUC reports on the faculty speech at the opening ceremony">
+    <img loading="lazy" src="https://cheng-bdal.github.io//images/新生讲话.jpg" alt="RUC reports on the faculty speech at the opening ceremony">
     <span>RUC reports on the faculty speech at the opening ceremony →</span>
   </a>
   <a href="https://mp.weixin.qq.com/s/OQwr1EvCYTcqG4Tm2Yl84Q">
-    <img src="https://cheng-bdal.github.io//images/清华校友.jpg" alt="Tsinghua Alumni Association features an alumni story">
+    <img loading="lazy" src="https://cheng-bdal.github.io//images/清华校友.jpg" alt="Tsinghua Alumni Association features an alumni story">
     <span>Tsinghua Alumni Association features an alumni story →</span>
   </a>
 </div>
@@ -271,6 +271,12 @@ Latest News
     <div class="news-meta"><span class="news-date">2026-05</span><span class="news-tag news-tag--papers">Papers</span></div>
     <p><strong>BDAL-RUC work on MoE was accepted by ICML 2026.</strong> Congratulations to Xinlai Kang, Dunyao Xue, Zhengbo Wang, Chengshuo Du et al. on "Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE," also featured by the well-known machine learning public account "Machine Heart" (Ji Qi Zhi Xin). <a href="https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034543&idx=2&sn=8c0a91d51644de87618d0cdd9585429d">Read more →</a></p>
   </article>
+</div>
+
+<details class="news-more" markdown="1">
+  <summary>Show More News</summary>
+
+<div class="news-list">
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-05</span><span class="news-tag news-tag--projects">Projects</span></div>
     <p><strong>A teaching innovation project received city-level recognition.</strong> Cheng Meng participated in "Building a New Campus-Wide Academy System to Create a 'Three-Span, Three-Exchange, Three-Learning' Ecosystem for Future Talent Development," which won the Second Prize of the Beijing Higher Education Teaching Achievement Award. <a href="https://mp.weixin.qq.com/s/tblNY71IJZHax3ybNhkG0A">Read more →</a></p>
@@ -283,12 +289,6 @@ Latest News
     <div class="news-meta"><span class="news-date">2026-03</span><span class="news-tag news-tag--papers">Papers</span></div>
     <p><strong>A core-elements subsampling paper was accepted by JCGS.</strong> Congratulations to Dunyao Xue et al. on "Core-elements Subsampling for Alternating Least Squares" being accepted by JCGS. <a href="https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493684&idx=1&sn=2890bbd35e47576683e9019d532ff71d&chksm=e8c4425f7136d1bed9b4acf814b19ef8179428e79e09fa51e30af3cdfa9842fd2b54290b4c16&mpshare=1&scene=1&srcid=0414OajaNWC2FQBekHecF670&sharer_shareinfo=bcb12df34a4a3d6bd935ea3dc2d09229&sharer_shareinfo_first=bcb12df34a4a3d6bd935ea3dc2d09229#rd">Read more →</a></p>
   </article>
-</div>
-
-<details class="news-more" markdown="1">
-  <summary>Show More News</summary>
-
-<div class="news-list">
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-03</span><span class="news-tag news-tag--awards">Awards</span></div>
     <p><strong>Dunyao Xue was selected for RUC's talent training program.</strong> Congratulations on being selected for the 2025-2026 Renmin University of China "Top Innovative Talents Training Funding Program."</p>
