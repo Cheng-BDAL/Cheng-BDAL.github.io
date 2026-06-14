@@ -28,18 +28,10 @@ I was honored to receive the 2023 Junior Researcher Award from the Pan-Asian Com
 Our lab is currently focused on developing theory-backed, scalable algorithms for big data, with a mission to enable the practical deployment of statistical methods across diverse industrial applications.
 </p>
 
-<p class="about-keywords">Keywords: Big Data Statistics · Optimal Transport · Artificial Intelligence · Industrial Statistics · Huawei Collaboration · Student Mentorship</p>
-
 Featured Reports
 ======
 
 <style>
-  .about-keywords {
-    margin: 0.8rem 0 1.4rem;
-    color: #555;
-    font-size: 0.92rem;
-    font-weight: 600;
-  }
   .highlight-grid {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
