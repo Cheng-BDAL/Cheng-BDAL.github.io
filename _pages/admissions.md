@@ -124,23 +124,23 @@ The email does not need to be long, but it should have a clear direction and sub
 
 ---
 
-## 4. What the Group Offers
+## 4. What You Can Build Here
 
 <div class="admission-grid">
   <div class="admission-panel">
-    <h3>Student-Led Research</h3>
-    <p>The group encourages students to serve as first authors or core contributors; most group papers are led by students.</p>
+    <h3>Student-Led High-Level Research</h3>
+    <p>Students are encouraged to engage deeply from problem formulation and method design to paper writing; most group papers are led by students as first authors or core contributors.</p>
+  </div>
+  <div class="admission-panel">
+    <h3>Training on Frontier Problems</h3>
+    <p>Research directions span statistics, optimal transport, artificial intelligence, and industrial data problems, with an emphasis on turning real problems into publishable and impactful research topics.</p>
   </div>
   <div class="admission-panel">
     <h3>Publication and Collaboration Platforms</h3>
-    <p>The group has published in NeurIPS, ICML, ICLR, JCGS, JMLR, Biometrika, Bioinformatics, Pattern Recognition, and STAI-X, with deep collaborations with Huawei and other partners.</p>
+    <p>The group has published in NeurIPS, ICML, ICLR, JMLR, and Biometrika, with deep collaborations with Huawei and other partners.</p>
   </div>
   <div class="admission-panel">
-    <h3>Career Outcomes</h3>
+    <h3>Clear Career Outcomes</h3>
     <p>All graduated Ph.D. students from the group have received million-RMB-level offers, and most master's students have moved on to strong Ph.D. programs or leading internet and technology companies.</p>
-  </div>
-  <div class="admission-panel">
-    <h3>Research Support</h3>
-    <p>The group provides staged feedback, computing resources, project and conference support, and research assistant support under relevant regulations.</p>
   </div>
 </div>
