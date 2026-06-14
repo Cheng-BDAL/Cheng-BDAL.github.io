@@ -133,7 +133,7 @@ Applicants are usually expected to get to know the group through group meeting p
 ### 3. Mutual Confirmation
 
 <div class="admission-process" markdown="1">
-**Matching period:** For students who have obtained admission qualification and intend to formally join the group, the group generally expects no less than 3 months of research communication and topic exploration within the group (the start time can be discussed). During this period, staged work will be carried out around a clear research direction, with necessary guidance and feedback from the advisor and group members.
+**Matching period:** Students who have obtained admission qualification and intend to formally join the group are generally expected to complete no less than 3 months of in-depth research communication and topic exploration before formal enrollment. This is especially important for master's students, who usually need to determine an advisor soon after enrollment. If a master's student has not engaged deeply with the group during the pre-enrollment summer through group meetings, project discussions, or short-term research participation, the group will generally not consider formal joining. The starting time can be discussed in advance, but the matching period should involve substantive staged work around a clear research direction, with necessary guidance and feedback from the advisor and group members.
 </div>
 
 The group will comprehensively consider research fit, collaboration style, communication, staged commitment, and completion of work before making a final decision on formal joining. We also encourage applicants, after fully understanding the group, to carefully judge whether they are suited to the group's research pace and training style.
