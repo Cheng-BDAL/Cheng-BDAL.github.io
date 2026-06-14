@@ -119,7 +119,7 @@ The email does not need to be long, but it should have a clear direction and sub
 ## 3. Matching Process
 
 <div class="admission-process" markdown="1">
-**Matching period:** Students who intend to formally join the group are generally expected to complete no less than 3 months of in-depth research communication and topic exploration before formal enrollment. This is especially important for master's students, who usually need to determine an advisor soon after enrollment. If a master's student has not engaged deeply with the group during the pre-enrollment summer through group meetings, project discussions, or short-term research participation, the group will generally not consider formal joining. The group will consider research fit, communication, staged commitment, and completion of work.
+**Matching period:** Students who intend to formally join the group are generally expected to complete at least 3 months of in-depth research communication and topic exploration before enrollment. Master's students usually need to determine an advisor soon after enrollment; if they have not engaged deeply with the group during the pre-enrollment summer through group meetings, project discussions, or short-term research participation, the group will generally not consider formal joining. The group will evaluate research fit, communication, staged commitment, and completion of work.
 </div>
 
 ---
