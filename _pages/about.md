@@ -74,6 +74,25 @@ Featured Reports
     margin: 0.35rem 0 0;
     line-height: 1.65;
   }
+  .news-card a {
+    display: inline-block;
+    margin-left: 0.25rem;
+    padding: 0.12rem 0.48rem;
+    border: 1px solid #d8c8bf;
+    border-radius: 999px;
+    background: #fff;
+    color: #8b1e2d;
+    font-size: 0.78rem;
+    font-weight: 700;
+    line-height: 1.45;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  .news-card a:hover {
+    background: #f7e6e6;
+    border-color: #cfa5a5;
+    text-decoration: none;
+  }
   .news-meta {
     display: flex;
     flex-wrap: wrap;
@@ -168,7 +187,7 @@ Latest News
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-06</span><span class="news-tag news-tag--projects">Projects</span></div>
-    <p><strong>A new Mingli College project begins.</strong> Junlie Huang's project "Research on High-Precision Fault Early-Warning Algorithms Based on Statistics" has been approved as a Renmin University of China Mingli College "Qiushi Graduate Education Research" project. <a href="https://mp.weixin.qq.com/s/RctY4tEAfXxE1zw6Io4I-g">Link</a></p>
+    <p><strong>A new Mingli College project begins.</strong> Junlie Huang's project "Research on High-Precision Fault Early-Warning Algorithms Based on Statistics" has been approved as a Renmin University of China Mingli College "Qiushi Graduate Education Research" project. <a href="https://mp.weixin.qq.com/s/RctY4tEAfXxE1zw6Io4I-g">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-06</span><span class="news-tag news-tag--projects">Projects</span></div>
@@ -176,23 +195,23 @@ Latest News
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-05</span><span class="news-tag news-tag--papers">Papers</span></div>
-    <p><strong>Another JCGS paper joins the group's publication list.</strong> Congratulations to Junyi Lin et al. on "Sparsification Subsampling for Partial Least Squares Regression" being accepted by JCGS. <a href="https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493940&idx=1&sn=3f41517b696d31773e31a21693ad8c35&chksm=e8f6112b10b60af59a6e06b2b853b016819e8df11bd3e59f74027f2f0f3b6a7008093539b5aa&mpshare=1&scene=1&srcid=0612HIgIPk4SNGTgunx3oLYC&sharer_shareinfo=9485eab15d920ade4b142f3ec70593ac&sharer_shareinfo_first=9485eab15d920ade4b142f3ec70593ac#rd">Link</a></p>
+    <p><strong>Another JCGS paper joins the group's publication list.</strong> Congratulations to Junyi Lin et al. on "Sparsification Subsampling for Partial Least Squares Regression" being accepted by JCGS. <a href="https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493940&idx=1&sn=3f41517b696d31773e31a21693ad8c35&chksm=e8f6112b10b60af59a6e06b2b853b016819e8df11bd3e59f74027f2f0f3b6a7008093539b5aa&mpshare=1&scene=1&srcid=0612HIgIPk4SNGTgunx3oLYC&sharer_shareinfo=9485eab15d920ade4b142f3ec70593ac&sharer_shareinfo_first=9485eab15d920ade4b142f3ec70593ac#rd">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-05</span><span class="news-tag news-tag--papers">Papers</span></div>
-    <p><strong>BDAL-RUC work on MoE was accepted by ICML 2026.</strong> Congratulations to Xinlai Kang, Dunyao Xue, Zhengbo Wang, Chengshuo Du et al. on "Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE," also featured by the well-known machine learning public account "Machine Heart" (Ji Qi Zhi Xin). <a href="https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034543&idx=2&sn=8c0a91d51644de87618d0cdd9585429d">Link</a></p>
+    <p><strong>BDAL-RUC work on MoE was accepted by ICML 2026.</strong> Congratulations to Xinlai Kang, Dunyao Xue, Zhengbo Wang, Chengshuo Du et al. on "Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE," also featured by the well-known machine learning public account "Machine Heart" (Ji Qi Zhi Xin). <a href="https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034543&idx=2&sn=8c0a91d51644de87618d0cdd9585429d">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-05</span><span class="news-tag news-tag--projects">Projects</span></div>
-    <p><strong>A teaching innovation project received city-level recognition.</strong> Cheng Meng participated in "Building a New Campus-Wide Academy System to Create a 'Three-Span, Three-Exchange, Three-Learning' Ecosystem for Future Talent Development," which won the Second Prize of the Beijing Higher Education Teaching Achievement Award. <a href="https://mp.weixin.qq.com/s/tblNY71IJZHax3ybNhkG0A">Link</a></p>
+    <p><strong>A teaching innovation project received city-level recognition.</strong> Cheng Meng participated in "Building a New Campus-Wide Academy System to Create a 'Three-Span, Three-Exchange, Three-Learning' Ecosystem for Future Talent Development," which won the Second Prize of the Beijing Higher Education Teaching Achievement Award. <a href="https://mp.weixin.qq.com/s/tblNY71IJZHax3ybNhkG0A">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-04</span><span class="news-tag news-tag--awards">Awards</span></div>
-    <p><strong>Four students brought home Travel Awards.</strong> Congratulations to Tao Wang, Chengshuo Du, Xiaxue Ouyang, and Junyi Lin for winning the Travel Award at the 1st "Mao Shisong Statistical Education Doctoral Forum." <a href="https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493720&idx=1&sn=33806c9917daa341d2b28715e7154461">Link</a></p>
+    <p><strong>Four students brought home Travel Awards.</strong> Congratulations to Tao Wang, Chengshuo Du, Xiaxue Ouyang, and Junyi Lin for winning the Travel Award at the 1st "Mao Shisong Statistical Education Doctoral Forum." <a href="https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493720&idx=1&sn=33806c9917daa341d2b28715e7154461">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-03</span><span class="news-tag news-tag--papers">Papers</span></div>
-    <p><strong>A core-elements subsampling paper was accepted by JCGS.</strong> Congratulations to Dunyao Xue et al. on "Core-elements Subsampling for Alternating Least Squares" being accepted by JCGS. <a href="https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493684&idx=1&sn=2890bbd35e47576683e9019d532ff71d&chksm=e8c4425f7136d1bed9b4acf814b19ef8179428e79e09fa51e30af3cdfa9842fd2b54290b4c16&mpshare=1&scene=1&srcid=0414OajaNWC2FQBekHecF670&sharer_shareinfo=bcb12df34a4a3d6bd935ea3dc2d09229&sharer_shareinfo_first=bcb12df34a4a3d6bd935ea3dc2d09229#rd">Link</a></p>
+    <p><strong>A core-elements subsampling paper was accepted by JCGS.</strong> Congratulations to Dunyao Xue et al. on "Core-elements Subsampling for Alternating Least Squares" being accepted by JCGS. <a href="https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493684&idx=1&sn=2890bbd35e47576683e9019d532ff71d&chksm=e8c4425f7136d1bed9b4acf814b19ef8179428e79e09fa51e30af3cdfa9842fd2b54290b4c16&mpshare=1&scene=1&srcid=0414OajaNWC2FQBekHecF670&sharer_shareinfo=bcb12df34a4a3d6bd935ea3dc2d09229&sharer_shareinfo_first=bcb12df34a4a3d6bd935ea3dc2d09229#rd">Read more →</a></p>
   </article>
 </div>
 
@@ -206,15 +225,15 @@ Latest News
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-03</span><span class="news-tag news-tag--projects">Projects</span></div>
-    <p><strong>The team won another Huawei Spark Award.</strong> Congratulations to Jun Zhu and Cheng Meng on winning the Spark Award in Huawei's "Challenge Bounty" Issue 131 for the challenge "Online Lithium Plating Detection." <a href="https://mp.weixin.qq.com/s/aECgm4y8pQs_ImBtHJ-7Pw">Link</a></p>
+    <p><strong>The team won another Huawei Spark Award.</strong> Congratulations to Jun Zhu and Cheng Meng on winning the Spark Award in Huawei's "Challenge Bounty" Issue 131 for the challenge "Online Lithium Plating Detection." <a href="https://mp.weixin.qq.com/s/aECgm4y8pQs_ImBtHJ-7Pw">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-01</span><span class="news-tag news-tag--papers">Papers</span></div>
-    <p><strong>An optimal transport sparsification paper was accepted.</strong> Congratulations to Ouyang Xiaxue et al. on their paper "Sparsification Techniques for Large-scale Optimal Transport Problems" being accepted by WIREs Computational Statistics, and for its feature coverage on the renowned statistics public platform "Capital of Statistics"! <a href="https://mp.weixin.qq.com/s/f_F0dMu3QbU_GCBHDJIv4A">Link</a></p>
+    <p><strong>An optimal transport sparsification paper was accepted.</strong> Congratulations to Ouyang Xiaxue et al. on their paper "Sparsification Techniques for Large-scale Optimal Transport Problems" being accepted by WIREs Computational Statistics, and for its feature coverage on the renowned statistics public platform "Capital of Statistics"! <a href="https://mp.weixin.qq.com/s/f_F0dMu3QbU_GCBHDJIv4A">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-01</span><span class="news-tag news-tag--papers">Papers</span></div>
-    <p><strong>An SE(p)-invariant transport metric paper was accepted by ICLR.</strong> Congratulations to Junyi Lin, Dunyao Xue, et al. on their paper "An Efficient SE(p)-Invariant Transport Metric Driven by Polar Transport Discrepancy-Based Representation" being accepted by ICLR, and for its feature coverage on the renowned AI public platform "Synced"! <a href="https://mp.weixin.qq.com/s/JMUyM_UScUCKwxmcGBlTAQ">Link</a></p>
+    <p><strong>An SE(p)-invariant transport metric paper was accepted by ICLR.</strong> Congratulations to Junyi Lin, Dunyao Xue, et al. on their paper "An Efficient SE(p)-Invariant Transport Metric Driven by Polar Transport Discrepancy-Based Representation" being accepted by ICLR, and for its feature coverage on the renowned AI public platform "Synced"! <a href="https://mp.weixin.qq.com/s/JMUyM_UScUCKwxmcGBlTAQ">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-01</span><span class="news-tag news-tag--projects">Projects</span></div>
@@ -222,19 +241,19 @@ Latest News
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-01</span><span class="news-tag news-tag--team">Team</span></div>
-    <p><strong>Five students were featured in the RUC Statistics growth chronicle.</strong> Congratulations to Mengyu Li, Junlie Huang, Chengshuo Du, Tao Wang, and Dunyao Xue, five students featured in the 2025 RUC Statistics Student Growth Chronicle! <a href="https://mp.weixin.qq.com/s/ZAW9in5xx4kh3uWEm1sinA">Link</a></p>
+    <p><strong>Five students were featured in the RUC Statistics growth chronicle.</strong> Congratulations to Mengyu Li, Junlie Huang, Chengshuo Du, Tao Wang, and Dunyao Xue, five students featured in the 2025 RUC Statistics Student Growth Chronicle! <a href="https://mp.weixin.qq.com/s/ZAW9in5xx4kh3uWEm1sinA">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-11</span><span class="news-tag news-tag--awards">Awards</span></div>
-    <p><strong>Postdoctoral research received new support.</strong> Congratulations to Mengyu Li on receiving the China Postdoctoral Science Foundation！ <a href="https://mp.weixin.qq.com/s/Ziaz-dZziQIdrkS6bBu6uQ">Link</a></p>
+    <p><strong>Postdoctoral research received new support.</strong> Congratulations to Mengyu Li on receiving the China Postdoctoral Science Foundation！ <a href="https://mp.weixin.qq.com/s/Ziaz-dZziQIdrkS6bBu6uQ">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-11</span><span class="news-tag news-tag--team">Team</span></div>
-    <p><strong>The team joined a NeurIPS offline exchange in Beijing.</strong> Congratulations to Tao Wang for being invited to attend the NeurIPS 2025 offline sharing session in Beijing and for presenting a poster. <a href="https://mp.weixin.qq.com/s/DaLrbOeDIacQ-XAorbPVGA">Link</a></p>
+    <p><strong>The team joined a NeurIPS offline exchange in Beijing.</strong> Congratulations to Tao Wang for being invited to attend the NeurIPS 2025 offline sharing session in Beijing and for presenting a poster. <a href="https://mp.weixin.qq.com/s/DaLrbOeDIacQ-XAorbPVGA">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-11</span><span class="news-tag news-tag--team">Team</span></div>
-    <p><strong>A Tsinghua sports story was recorded and shared.</strong> Cheng Meng was selected as one of the 25 representatives of Tsinghua's sports athletes to share the growth and stories of the sports team. <a href="https://mp.weixin.qq.com/s/vy3i4iGzefxdtZy2zuq0dQ">Link</a></p>
+    <p><strong>A Tsinghua sports story was recorded and shared.</strong> Cheng Meng was selected as one of the 25 representatives of Tsinghua's sports athletes to share the growth and stories of the sports team. <a href="https://mp.weixin.qq.com/s/vy3i4iGzefxdtZy2zuq0dQ">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-11</span><span class="news-tag news-tag--papers">Papers</span></div>
@@ -242,7 +261,7 @@ Latest News
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-11</span><span class="news-tag news-tag--awards">Awards</span></div>
-    <p><strong>BDAL students stood out at the CSIAM Student Forum.</strong> Congratulations to Junlie Huang, Chengshuo Du, Tao Wang and Dunyao Xue for the Outstanding Poster Award at the 9th Student Forum of the China Society for Industrial and Applied Mathematics(CSIAM), <strong>with the number of awards ranking first among all participating units</strong>! <a href="https://mp.weixin.qq.com/s/krRC5HjTbBXFPWO6ZEP19Q">Link</a> Honored to be featured on the official news website of Renmin University! <a href="https://news.ruc.edu.cn/1984663406100312065.html">Link</a></p>
+    <p><strong>BDAL students stood out at the CSIAM Student Forum.</strong> Congratulations to Junlie Huang, Chengshuo Du, Tao Wang and Dunyao Xue for the Outstanding Poster Award at the 9th Student Forum of the China Society for Industrial and Applied Mathematics(CSIAM), <strong>with the number of awards ranking first among all participating units</strong>! <a href="https://mp.weixin.qq.com/s/krRC5HjTbBXFPWO6ZEP19Q">Read more →</a> Honored to be featured on the official news website of Renmin University! <a href="https://news.ruc.edu.cn/1984663406100312065.html">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-11</span><span class="news-tag news-tag--awards">Awards</span></div>
@@ -254,7 +273,7 @@ Latest News
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-10</span><span class="news-tag news-tag--awards">Awards</span></div>
-    <p><strong>Stat2Spark presented at the Mingli College academic annual conference.</strong> Junlie Huang, on behalf of the Stat2Spark team, participated in the 2025 Mingli College Academic Annual Conference, received the “Outstanding Research Team Award of Mingli College” presented by President Shangli Lin, and gave a presentation at the Mingli Innovation Lab Sub-Forum showcasing the team’s latest research achievements.<a href="https://mp.weixin.qq.com/s/LEnJWeN-nbosP2ZigYn-pQ?scene=1&click_id=1">Link</a></p>
+    <p><strong>Stat2Spark presented at the Mingli College academic annual conference.</strong> Junlie Huang, on behalf of the Stat2Spark team, participated in the 2025 Mingli College Academic Annual Conference, received the “Outstanding Research Team Award of Mingli College” presented by President Shangli Lin, and gave a presentation at the Mingli Innovation Lab Sub-Forum showcasing the team’s latest research achievements.<a href="https://mp.weixin.qq.com/s/LEnJWeN-nbosP2ZigYn-pQ?scene=1&click_id=1">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-10</span><span class="news-tag news-tag--projects">Projects</span></div>
@@ -270,7 +289,7 @@ Latest News
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-09</span><span class="news-tag news-tag--papers">Papers</span></div>
-    <p><strong>A 3DGS Gaussian reduction paper received a NeurIPS Spotlight.</strong> Congratulations to Tao Wang, Mengyu Li, Geduo Zeng, and co-authors on their paper "Gaussian Herding Across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS" being accepted by NeurIPS 2025 as a Spotlight, and for its feature coverage on the renowned machine learning public account "Synced"! <a href="https://mp.weixin.qq.com/s/N34W_LK0jYPrmWWtGxVp4w">Link</a></p>
+    <p><strong>A 3DGS Gaussian reduction paper received a NeurIPS Spotlight.</strong> Congratulations to Tao Wang, Mengyu Li, Geduo Zeng, and co-authors on their paper "Gaussian Herding Across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS" being accepted by NeurIPS 2025 as a Spotlight, and for its feature coverage on the renowned machine learning public account "Synced"! <a href="https://mp.weixin.qq.com/s/N34W_LK0jYPrmWWtGxVp4w">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-08</span><span class="news-tag news-tag--projects">Projects</span></div>
@@ -286,12 +305,12 @@ Latest News
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-06</span><span class="news-tag news-tag--media">Media</span></div>
-    <p><strong>Statistics outreach appeared across multiple platforms.</strong> Cheng Meng was invited to multiple platforms to introduce the statistics major and share stories from his personal growth journey.<a href="https://www.bilibili.com/video/BV1gZM1zSEKs/?spm_id_from=333.337.search-card.all.click&vd_source=e6527d198967f47b463a38a48f92d812">Link</a></p>
+    <p><strong>Statistics outreach appeared across multiple platforms.</strong> Cheng Meng was invited to multiple platforms to introduce the statistics major and share stories from his personal growth journey.<a href="https://www.bilibili.com/video/BV1gZM1zSEKs/?spm_id_from=333.337.search-card.all.click&vd_source=e6527d198967f47b463a38a48f92d812">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-06</span><span class="news-tag news-tag--awards">Awards</span></div>
     <p><span style="color: rgb(165, 16, 33);"><strong>Mengyu Li received RUC's highest student honor.</strong> Congratulations to Mengyu Li on receiving the "Wu Yuzhang Scholarship"! The "Wu Yuzhang Scholarship" is the highest honor awarded to students at our university. It is presented to graduating students who demonstrate all-around excellence in moral character, intellect, physical fitness, aesthetics, and labor, and who best embody the university's educational goals. Each year, only four doctoral students are selected for this prestigious award!
-<a href="https://mp.weixin.qq.com/s/zID17NSsC8q4sK_bimLOJQ">Link</a></span></p>
+<a href="https://mp.weixin.qq.com/s/zID17NSsC8q4sK_bimLOJQ">Read more →</a></span></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-06</span><span class="news-tag news-tag--papers">Papers</span></div>
@@ -304,44 +323,44 @@ Latest News
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-05</span><span class="news-tag news-tag--papers">Papers</span></div>
     <p><strong>A leverage-score approximation paper was accepted by JCGS.</strong> Congratulations to Junlie Huang, Xinlai Kang, Qiannan Huang, and others on their paper "Efficient Approximation of Leverage Scores in Two-dimensional Autoregressive Models with Application to Image Anomaly Detection" being accepted by JCGS! This marks the 9th paper from our group published in a Category 1B journal of the Research Institute!
-<a href="https://mp.weixin.qq.com/s/68Qa5Yv9DNXlm035fzIhjQ">Link</a></p>
+<a href="https://mp.weixin.qq.com/s/68Qa5Yv9DNXlm035fzIhjQ">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-05</span><span class="news-tag news-tag--media">Media</span></div>
-    <p><span style="color:purple"><strong>Cheng Meng spoke as a Tsinghua alumnus ten years after graduation.</strong> Cheng Meng, representing alumni ten years after graduation, was invited to attend and speak at a themed symposium hosted by Yong Qiu, the Party Secretary of Tsinghua University. <a href="https://mp.weixin.qq.com/s/d8KrSRIqVNIQVdvBO0yjFw">Link</a> This event was also reported by the Department of Statistics and Data Science at Tsinghua University. <a href="https://mp.weixin.qq.com/s/utOxnb63ZurO7jPo6NpkAg">Link</a></span></p>
+    <p><span style="color:purple"><strong>Cheng Meng spoke as a Tsinghua alumnus ten years after graduation.</strong> Cheng Meng, representing alumni ten years after graduation, was invited to attend and speak at a themed symposium hosted by Yong Qiu, the Party Secretary of Tsinghua University. <a href="https://mp.weixin.qq.com/s/d8KrSRIqVNIQVdvBO0yjFw">Read more →</a> This event was also reported by the Department of Statistics and Data Science at Tsinghua University. <a href="https://mp.weixin.qq.com/s/utOxnb63ZurO7jPo6NpkAg">Read more →</a></span></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-04</span><span class="news-tag news-tag--awards">Awards</span></div>
-    <p><strong>Three students received Travel Awards at the doctoral forum.</strong> Congratulations to Junyi Lin, Junlie Huang and Dunyao Xue for receiving the Travel Award and being selected for the Doctoral Forum at the 2025 Annual Conference of the Youth Statisticians Association of the National Industrial Statistics Teaching and Research Association and the 3rd International Symposium on Statistical Theory and its Applications.<a href="https://mp.weixin.qq.com/s/ko2HoiA6hpjWPdyo8Q8E-g">Link</a> The award was  reported by a well-known academic platform "Gouxiong Hui".<a href="https://mp.weixin.qq.com/s/secOUhCJQb0NYumfMlM5qQ">Link</a></p>
+    <p><strong>Three students received Travel Awards at the doctoral forum.</strong> Congratulations to Junyi Lin, Junlie Huang and Dunyao Xue for receiving the Travel Award and being selected for the Doctoral Forum at the 2025 Annual Conference of the Youth Statisticians Association of the National Industrial Statistics Teaching and Research Association and the 3rd International Symposium on Statistical Theory and its Applications.<a href="https://mp.weixin.qq.com/s/ko2HoiA6hpjWPdyo8Q8E-g">Read more →</a> The award was  reported by a well-known academic platform "Gouxiong Hui".<a href="https://mp.weixin.qq.com/s/secOUhCJQb0NYumfMlM5qQ">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-3</span><span class="news-tag news-tag--projects">Projects</span></div>
-    <p><strong>The team won Huawei's Spark Award for the third time.</strong> Congratulations to Cheng Meng for leading students Hao Zheng, Tao Wang, Haoxian Liang, and Mengyu Li to win the Huawei "Challenge Solving" 114th Spark Award. This is the team's third time receiving this honor！<a href="https://mp.weixin.qq.com/s/NXFraboslDTdyHaGAFEjFA">Link</a>
+    <p><strong>The team won Huawei's Spark Award for the third time.</strong> Congratulations to Cheng Meng for leading students Hao Zheng, Tao Wang, Haoxian Liang, and Mengyu Li to win the Huawei "Challenge Solving" 114th Spark Award. This is the team's third time receiving this honor！<a href="https://mp.weixin.qq.com/s/NXFraboslDTdyHaGAFEjFA">Read more →</a>
 Congratulations to Haoxian Liang on Being Interviewed by Mingli College！
 <a href="https://mp.weixin.qq.com/s/0SyJYpWQNhOvDi2sjYaxOg">My Spark Moments</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-3</span><span class="news-tag news-tag--papers">Papers</span></div>
     <p><strong>A hyperbolic Wasserstein distance paper was accepted by IEEE TNNLS.</strong> Congratulations! The paper "Efficient Variants of Wasserstein Distance in Hyperbolic Space via Space-filling Curve Projection" by Tao Li, Jun Zhu, and others has been accepted by IEEE TNNLS (IF: 10.2)! This is the third 1A-class journal publication from our group at the research institute!
-<a href="https://mp.weixin.qq.com/s/1LUVaZowmOd9oIREQAScgA">Link</a></p>
+<a href="https://mp.weixin.qq.com/s/1LUVaZowmOd9oIREQAScgA">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2024-12</span><span class="news-tag news-tag--awards">Awards</span></div>
     <p><span style="color: rgb(0, 71, 171);"><strong>Mengyu Li was selected for the CAST Young Talent Support Program.</strong> Congratulations! Mengyu Li has been selected for the 2024 China Association for Science and Technology (CAST) Young Talent Support Program for Doctoral Students, supported by the Chinese Association for Applied Statistics (CAAS)! This is the inaugural year of the program, with approximately 3,000 students selected.
-<a href="https://mp.weixin.qq.com/s/rRtjWDszTF0U0GonVTHsRA">Link</a></span></p>
+<a href="https://mp.weixin.qq.com/s/rRtjWDszTF0U0GonVTHsRA">Read more →</a></span></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2024-11</span><span class="news-tag news-tag--awards">Awards</span></div>
     <p><strong>Qiannan Huang received a JD Scholarship nomination.</strong> Congratulations! Qiannan Huang has been awarded the JD Scholarship Nomination.
-<a href="https://mp.weixin.qq.com/s/yr_M4j9BJM41Ku5_H25O0Q">Link</a></p>
+<a href="https://mp.weixin.qq.com/s/yr_M4j9BJM41Ku5_H25O0Q">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2024-11</span><span class="news-tag news-tag--awards">Awards</span></div>
-    <p><strong>Qiannan Huang received a National Scholarship.</strong> Congratulations! Qiannan Huang has been awarded the National Scholarship for Master's Students in the 2024 Student Award Review! This is BDAL Lab's third National Scholarship, following the 2023 Doctoral National Scholarship awarded to Mengyu Li and the 2021 Master's National Scholarship awarded to Dianjun Lin.<a href="https://cheng-bdal.github.io//images/黄倩楠国奖.jpg">Link</a></p>
+    <p><strong>Qiannan Huang received a National Scholarship.</strong> Congratulations! Qiannan Huang has been awarded the National Scholarship for Master's Students in the 2024 Student Award Review! This is BDAL Lab's third National Scholarship, following the 2023 Doctoral National Scholarship awarded to Mengyu Li and the 2021 Master's National Scholarship awarded to Dianjun Lin.<a href="https://cheng-bdal.github.io//images/黄倩楠国奖.jpg">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2024-10</span><span class="news-tag news-tag--awards">Awards</span></div>
-    <p><strong>Mengyu Li received a CSIAM Outstanding Poster Award.</strong> Congratulations! Mengyu Li was awarded the Outstanding Poster Award at the 22nd Annual Conference of the China Society for Industrial and Applied Mathematics.<a href="https://mp.weixin.qq.com/s/ffKNLItqx5vv-P0r3Yd2QQ">Link</a></p>
+    <p><strong>Mengyu Li received a CSIAM Outstanding Poster Award.</strong> Congratulations! Mengyu Li was awarded the Outstanding Poster Award at the 22nd Annual Conference of the China Society for Industrial and Applied Mathematics.<a href="https://mp.weixin.qq.com/s/ffKNLItqx5vv-P0r3Yd2QQ">Read more →</a></p>
   </article>
 </div>
 </details>
