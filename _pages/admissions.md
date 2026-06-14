@@ -129,15 +129,15 @@ The email does not need to be long, but it should have a clear direction and sub
 <div class="admission-grid">
   <div class="admission-panel">
     <h3>Student-Led High-Level Research</h3>
-    <p>Students are encouraged to engage deeply from problem formulation and method design to paper writing; most group papers are led by students as first authors or core contributors.</p>
+    <p>Students are encouraged to start from real problems and engage deeply in problem formulation, method design, and paper writing; most group papers are led by students as first authors or core contributors.</p>
   </div>
   <div class="admission-panel">
-    <h3>Training on Frontier Problems</h3>
-    <p>Research directions span statistics, optimal transport, artificial intelligence, and industrial data problems, with an emphasis on turning real problems into publishable and impactful research topics.</p>
+    <h3>Publication and Industry Platforms</h3>
+    <p>The group has published in NeurIPS, ICML, ICLR, JMLR, and Biometrika, and maintains long-term collaborations with Huawei and other partners, offering strong referrals for internships and full-time positions.</p>
   </div>
   <div class="admission-panel">
-    <h3>Publication and Collaboration Platforms</h3>
-    <p>The group has published in NeurIPS, ICML, ICLR, JMLR, and Biometrika, with deep collaborations with Huawei and other partners.</p>
+    <h3>Research Support and Group Culture</h3>
+    <p>Ph.D. students can receive nearly RMB 100,000 per year through stipends, scholarships, and research assistant support. The group also values informal exchange beyond research and a supportive team atmosphere.</p>
   </div>
   <div class="admission-panel">
     <h3>Clear Career Outcomes</h3>
