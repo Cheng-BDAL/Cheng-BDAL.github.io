@@ -161,19 +161,15 @@ Service
     </div>
   </div>
   <div class="cv-service-item">
-    <h3>Laboratory Mentoring</h3>
-    <p>Supervisor of the Stat2Spark Mingli Innovation Laboratory. <a href="https://mp.weixin.qq.com/s/ci3yEQE8B6Om9nn7HDRXJA">View more</a></p>
-    <img loading="lazy" class="cv-image-wide" src="https://cheng-bdal.github.io//images/明理创新实验室.png" alt="Stat2Spark Mingli Innovation Laboratory">
-  </div>
-  <div class="cv-service-item">
-    <h3>Peer Review</h3>
-    <p>Reviewer for journals and conferences including Annals of Statistics (AOS), Annals of Applied Statistics (AOAS), Biometrika, Journal of Machine Learning Research (JMLR), Journal of Computational and Graphical Statistics (JCGS), NeurIPS, ICLR, among others.</p>
-  </div>
-  <div class="cv-service-item">
     <h3>Admissions and Outreach</h3>
     <p>Member of the Renmin University of China Shanghai Admissions Committee (2023-2026).</p>
     <img loading="lazy" class="cv-image-wide" src="https://cheng-bdal.github.io//images/上海招生.jpg" alt="RUC Shanghai admissions">
     <p>Representative of the Renmin University of China Jiangsu Admissions Committee in 2025; delivered a science outreach talk at Tianyi High School, Jiangsu Province. <a href="https://mp.weixin.qq.com/s/Rhzmvg_Trd_3_13nDxzjRg">Read more</a></p>
     <img loading="lazy" class="cv-image-wide" src="https://cheng-bdal.github.io//images/江苏省招生.jpg" alt="RUC Jiangsu admissions">
+  </div>
+  <div class="cv-service-item">
+    <h3>Laboratory Mentoring</h3>
+    <p>Supervisor of the Stat2Spark Mingli Innovation Laboratory. <a href="https://mp.weixin.qq.com/s/ci3yEQE8B6Om9nn7HDRXJA">View more</a></p>
+    <img loading="lazy" class="cv-image-wide" src="https://cheng-bdal.github.io//images/明理创新实验室.png" alt="Stat2Spark Mingli Innovation Laboratory">
   </div>
 </div>
