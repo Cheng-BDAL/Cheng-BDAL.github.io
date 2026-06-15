@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: 'https://www.tandfonline.com/doi/full/10.1080/10618600.2020.1844215'
 excerpt: 'Cheng Meng, Rui Xie, Abhyuday Mandal, Xinlian Zhang, Wenxuan Zhong, and Ping Ma<sup>*</sup>'
+tldr: "Uses space-filling subsampling to improve robustness and coverage under model misspecification."
 date: 2021-01-01
 venue: 'JCGS'
 research_line: "subsampling"

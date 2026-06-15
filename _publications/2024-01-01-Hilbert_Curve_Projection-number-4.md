@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: 'https://ieeexplore.ieee.org/abstract/document/10428036/'
 excerpt: <a href="https://github.com/sherlockLitao">Tao Li</a>, Cheng Meng, Hongteng Xu, Jun Yu (alphabetical order)
+tldr: "Uses Hilbert ordering to generate transport couplings, then evaluates costs in the original space for distribution comparison."
 date: 2024-01-01
 venue: 'IEEE TPAMI'
 research_line: "hilbert"

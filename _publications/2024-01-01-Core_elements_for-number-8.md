@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: 'https://arxiv.org/html/2206.10240v4'
 excerpt: '<a href="https://mengyu8042.github.io/">Mengyu Li</a>, Jun Yu, <a href="https://github.com/sherlockLitao">Tao Li</a>, Cheng Meng<sup>*</sup>'
+tldr: "Moves subsampling from rows to matrix elements and rewrites the estimator to preserve large-sample properties."
 date: 2024-01-01
 venue: 'Stat. Comput.'
 research_line: "subsampling"

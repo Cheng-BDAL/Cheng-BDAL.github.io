@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: 'https://www.tandfonline.com/doi/full/10.1080/10618600.2023.2183213'
 excerpt: '<a href="https://github.com/sherlockLitao">Tao Li</a>, Jun Yu, Cheng Meng<sup>*</sup>'
+tldr: "Uses sliced-Wasserstein dependency for model-free feature screening and nonlinear variable importance."
 date: 2023-01-01
 venue: 'JCGS'
 research_line: "optimal_transport"

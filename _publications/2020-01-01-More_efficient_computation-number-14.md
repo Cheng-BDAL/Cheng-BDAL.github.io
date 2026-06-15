@@ -4,9 +4,10 @@ collection: publications
 category: manuscripts
 permalink: 'https://academic.oup.com/biomet/article-abstract/107/3/723/5831923'
 excerpt: 'Cheng Meng, Xinlian Zhang, Jingyi Zhang, Wenxuan Zhong, Ping Ma<sup>*</sup>'
+tldr: "Uses low-discrepancy space-filling basis selection to accelerate smoothing spline approximation."
 date: 2020-01-01
 venue: 'Biometrika'
-research_line: "hilbert"
+research_line: "subsampling"
 research_tags: ["Space-Filling", "Smoothing Splines"]
 paperurl: 'https://cheng-bdal.github.io/files/More efficient approximation.pdf'
 #slidesurl: 'https://cheng-bdal.github.io/files/More efficient approximation.pdf'

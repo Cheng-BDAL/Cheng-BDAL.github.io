@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: 'https://ieeexplore.ieee.org/document/10973297'
 excerpt: '<a href="https://github.com/sherlockLitao">Tao Li</a>, Cheng Meng<sup>*</sup>, Hongteng Xu, <a href="https://dfsxzj.github.io/homepage/">Jun Zhu</a> (alphabetical order)'
+tldr: "Uses space-filling curves to generate lightweight couplings in hyperbolic space while evaluating original geometric costs."
 date: 2025-01-01
 venue: 'IEEE TNNLS'
 research_line: "hilbert"

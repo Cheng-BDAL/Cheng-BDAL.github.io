@@ -4,9 +4,10 @@ collection: publications
 category: manuscripts
 permalink: 'https://spj.science.org/doi/full/10.34133/plantphenomics.0179'
 excerpt: 'Tian Qiu, <a href="https://taowang0105.github.io/">Tao Wang</a>, Tao Han, Kaspar Kuehn, Lailiang Cheng, Cheng Meng, Xiangtao Xu, Kenong Xu, and Jiang Yu<sup>*</sup>'
+tldr: "Builds geometry-based characterization and quantification methods for 3D apple-tree architecture in orchards."
 date: 2024-01-01
 venue: 'Plant Phenomics'
-research_line: "related"
+research_line: "other"
 research_tags: ["Agriculture", "Geometry"]
 paperurl: 'https://cheng-bdal.github.io/files/AppleQSM.pdf'
 #slidesurl: 'https://cheng-bdal.github.io/files/AppleQSM.pdf'

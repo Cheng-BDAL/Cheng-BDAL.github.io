@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: 'https://www.tandfonline.com/doi/full/10.1080/10618600.2021.2002161'
 excerpt: 'Cheng Meng, Jun Yu, Yongkai Chen, Wenxuan Zhong, Ping Ma<sup>*</sup>'
+tldr: "Uses Hilbert-curve ordering for basis selection, balancing coverage and efficiency in multivariate smoothing splines."
 date: 2022-01-01
 venue: 'JCGS'
 research_line: "hilbert"

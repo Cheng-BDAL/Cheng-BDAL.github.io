@@ -4,9 +4,10 @@ collection: publications
 category: manuscripts
 permalink: 'https://www.igi-global.com/chapter/effective-statistical-methods-for-big-data-analytics/181110'
 excerpt: 'Cheng Meng, Ye Wang, Xinlian Zhang, Abhyuday Mandal, Wenxuan Zhong, Ping Ma<sup>*</sup>'
+tldr: "Reviews statistical modeling and computation tools for big data analytics as an early background entry point."
 date: 2017-01-01
 venue: 'Handbook of Research on Applied Cybernetics and Systems Science'
-research_line: "related"
+research_line: "review"
 research_tags: ["Big Data", "Overview"]
 paperurl: 'https://cheng-bdal.github.io/files/Effective statistical methods.pdf'
 #slidesurl: 'https://cheng-bdal.github.io/files/Effective statistical methods.pdf'

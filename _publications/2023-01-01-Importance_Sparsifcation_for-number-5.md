@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: 'https://www.jmlr.org/papers/v24/22-1311.html'
 excerpt: '<a href="https://mengyu8042.github.io/">Mengyu Li</a>, Jun Yu, <a href="https://github.com/sherlockLitao">Tao Li</a>, and Cheng Meng<sup>*</sup>'
+tldr: "Derives computable sampling upper bounds from OT structure to sparsify pairwise interactions in Sinkhorn."
 date: 2023-01-01
 venue: 'JMLR'
 research_line: "subsampling"

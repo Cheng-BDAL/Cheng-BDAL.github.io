@@ -4,6 +4,7 @@ collection: publications
 category: conferences
 permalink: 'https://proceedings.neurips.cc/paper/2020/hash/29586cb449c90e249f1f09a0a4ee245a-Abstract.html'
 excerpt: 'Cheng Meng, Jun Yu, Jingyi Zhang, Ping Ma, Wenxuan Zhong<sup>*</sup>'
+tldr: "Uses OT displacements between class distributions as proxies for recovering sufficient dimension reduction directions."
 date: 2020-01-01
 venue: 'NeurIPS (top ML conference)'
 research_line: "optimal_transport"

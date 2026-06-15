@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: 'https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2024-03989-3/'
 excerpt: 'Yukuan Hu, <a href="https://mengyu8042.github.io/">Mengyu Li</a>, Xin Liu, Cheng Meng (alphabetical order)'
+tldr: "Develops sampling-based solvers for multi-block transport polytopes to reduce the cost of multi-marginal structural optimization."
 date: 2024-01-01
 venue: 'Math. Comp.'
 research_line: "subsampling"

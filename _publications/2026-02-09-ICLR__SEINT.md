@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: https://cheng-bdal.github.io/files/ICLR_SEINT.pdf
 excerpt: '<a href="https://junyilin559.github.io/">Junyi Lin</a>, <a href="https://sapphirexdy.github.io/">Dunyao Xue</a>, Jun Yu, Hongteng Xu<sup>*</sup>, Cheng Meng<sup>*</sup>'
+tldr: "Constructs information-preserving rigid-motion invariant representations for low-cost transport metrics."
 date: 2026-02-09
 venue: 'ICLR (top ML conference)'
 research_line: "optimal_transport"

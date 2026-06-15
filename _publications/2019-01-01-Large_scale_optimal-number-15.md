@@ -4,6 +4,7 @@ collection: publications
 category: conferences
 permalink: 'https://proceedings.neurips.cc/paper/2019/hash/4bbbe6cb5982b9110413c40f3cce680b-Abstract.html'
 excerpt: 'Cheng Meng, Yuan Ke, Jingyi Zhang, Mengrui Zhang, Wenxuan Zhong, Ping Ma<sup>*</sup>'
+tldr: "Uses residual-driven projection pursuit directions to build high-dimensional OT map approximations step by step."
 date: 2019-01-01
 venue: 'NeurIPS (top ML conference)'
 research_line: "optimal_transport"

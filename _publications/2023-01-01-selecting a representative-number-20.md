@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: 'https://www.tandfonline.com/doi/abs/10.1080/10618600.2022.2084404'
 excerpt: 'Jingyi Zhang, Cheng Meng, Jun Yu, Mengrui Zhang, Wenxuan Zhong, and Ping Ma<sup>*</sup>'
+tldr: "Uses optimal transport to select representative subsamples that improve distributional coverage for kernel density estimation."
 date: 2023-01-01
 venue: 'JCGS'
 research_line: "subsampling"
