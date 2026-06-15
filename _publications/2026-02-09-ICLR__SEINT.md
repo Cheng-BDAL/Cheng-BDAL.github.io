@@ -2,7 +2,7 @@
 title: "An Efficient SE(p)-Invariant Transport Metric Driven by Polar Transport Discrepancy-Based Representation"
 collection: publications
 category: manuscripts
-permalink: https://cheng-bdal.github.io/files/ICLR_SEINT.pdf
+permalink: https://openreview.net/forum?id=oyxExc7TEl
 excerpt: '<a href="https://junyilin559.github.io/">Junyi Lin</a>, <a href="https://sapphirexdy.github.io/">Dunyao Xue</a>, Jun Yu, Hongteng Xu<sup>*</sup>, Cheng Meng<sup>*</sup>'
 tldr: "Constructs information-preserving rigid-motion invariant representations for low-cost transport metrics."
 date: 2026-02-09

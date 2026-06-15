@@ -2,7 +2,7 @@
 title: "Leverage Classifier: Another Look at Support Vector Machine"
 collection: publications
 category: manuscripts
-permalink: 'https://arxiv.org/abs/2308.12444'
+permalink: 'https://www3.stat.sinica.edu.tw/sstest/J35N3/J35N317/J35N317.html'
 excerpt: 'Yixin Han, Jun Yu, Nan Zhang, Cheng Meng, Ping Ma, Wenxuan Zhong, Changliang Zou<sup>*</sup>'
 tldr: "Revisits support vector machine classification from a leverage-score perspective."
 date: 2024-01-01
