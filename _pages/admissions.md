@@ -90,7 +90,7 @@ author_profile: true
 </style>
 
 <div class="admission-notice" markdown="1">
-**Important note:** Admissions are handled through the Institute's unified committee process. Master's or Ph.D. positions cannot be confirmed by email before formal application. Please first obtain the relevant admission qualification or enter the formal application process; group matching will then depend on research interests, prior communication, and topic fit. Generic emails or emails without basic familiarity with our work will generally not receive a reply.
+**Important note:** Admissions are handled through the Institute's unified committee process. Master's or Ph.D. positions cannot be confirmed by email before formal application. Please first complete the institute-level application process and obtain the relevant admission eligibility; group matching will then depend on research interests, prior communication, and topic fit. Generic emails or emails without basic familiarity with our work will generally not receive a reply.
 </div>
 
 ---
@@ -99,16 +99,16 @@ author_profile: true
 
 <div class="admission-grid">
   <div class="admission-panel">
-    <h3>Student-Led High-Level Research</h3>
+    <h3>Student-Led Research at a High Level</h3>
     <p>Students work from real problems to formulation, method design, and paper writing; most group papers are led by students as first authors or core contributors.</p>
   </div>
   <div class="admission-panel">
-    <h3>Publication and Industry Platforms</h3>
+    <h3>Publications and Industry Connections</h3>
     <p>The group has published in NeurIPS, ICML, ICLR, JMLR, and Biometrika, with long-term Huawei collaborations and strong referrals for internships and full-time positions.</p>
   </div>
   <div class="admission-panel">
-    <h3>Research Support and Group Culture</h3>
-    <p>Ph.D. students can receive nearly RMB 100,000 per year through stipends, scholarships, and research assistant support, alongside a supportive team atmosphere.</p>
+    <h3>Research Support and Group Life</h3>
+    <p>Ph.D. students can receive close to RMB 100,000 per year through stipends, scholarships, and research assistantships, alongside a supportive team atmosphere.</p>
   </div>
   <div class="admission-panel">
     <h3>Clear Career Outcomes</h3>
@@ -140,7 +140,7 @@ author_profile: true
 </div>
 
 <div class="admission-process" markdown="1">
-BDAL-RUC hopes to build a group where people can do serious research while also feeling relaxed, supported, and connected. We “especially welcome” students who are sunny, open, communicative, and enjoy growing with peers. Kindness, responsibility, and the ability to fit into the team are qualities we especially value.
+BDAL-RUC hopes to build a group where people can do serious research while also feeling relaxed, supported, and connected. We especially welcome students who are positive, open, communicative, and enjoy growing with peers. Kindness, responsibility, and a willingness to grow with the team are qualities we especially value.
 </div>
 
 ---

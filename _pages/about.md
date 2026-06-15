@@ -14,11 +14,11 @@ About BDAL-RUC
 ======
 <div class="profile-intro" markdown="1">
 
-Hi! I’m Cheng Meng, a tenure-track Assistant Professor and Ph.D. advisor at the School of Statistics and Data Science, Renmin University of China (RUC). My research centers on big data statistics, optimal transport, artificial intelligence, and industrial statistics, with a particular interest in developing statistically principled methods for complex computational and modeling problems arising in real applications.
+Hi! I’m Cheng Meng, a tenure-track Assistant Professor and Ph.D. advisor at the School of Statistics and Data Science, Renmin University of China (RUC). My research centers on big data statistics, optimal transport, artificial intelligence, and industrial statistics. I am particularly interested in statistically principled methods for complex computational and modeling problems in real applications.
 
-I received my B.S. in Mathematics from Tsinghua University and my Ph.D. in Statistics from the University of Georgia. During my doctoral study, I was fortunate to be advised by Prof. <a href="https://bdalpingio.github.io/">Ping Ma</a> and Prof. <a href="https://zhonglabuga.github.io/">Wenxuan Zhong</a>, who co-direct the Big Data Analytics Lab (BDAL) at UGA. After joining RUC, I have had the pleasure of building BDAL-RUC with a group of talented, sincere, and highly motivated students. Group members have received major honors including the Wu Yuzhang Scholarship (RUC's highest student honor), JSM Student Paper Awards, and National Graduate Scholarships.
+I received my B.S. in Mathematics from Tsinghua University and my Ph.D. in Statistics from the University of Georgia. During my doctoral study, I was fortunate to be advised by Prof. <a href="https://bdalpingio.github.io/">Ping Ma</a> and Prof. <a href="https://zhonglabuga.github.io/">Wenxuan Zhong</a>, who co-direct the Big Data Analytics Lab (BDAL) at UGA. After joining RUC, I have been building BDAL-RUC together with a group of talented, sincere, and highly motivated students. Group members have received major honors including the Wu Yuzhang Scholarship (RUC's highest student honor), JSM Student Paper Awards, and National Graduate Scholarships.
 
-Our work starts from statistical theory and stays closely connected to real-world applications. In recent years, the group has worked on scalable algorithms for large-scale data analysis, fast methods for optimal transport, industrial data modeling, and AI-related statistical methods, with active collaborations including projects with Huawei. I received the 2023 Junior Researcher Award from the Pan-Asian Committee for Statistical Research, and our team has won the Huawei Spark Award three times for solving major industrial challenges. Our goal is to develop statistical and machine learning methods that are reliable, efficient, and genuinely useful in industrial and interdisciplinary scientific problems.
+Our work is grounded in statistical theory and closely connected to real-world applications. In recent years, the group has worked on scalable algorithms for large-scale data analysis, fast methods for optimal transport, industrial data modeling, and AI-related statistical methods, with active collaborations including projects with Huawei. I received the 2023 Junior Researcher Award from the Pan-Asian Committee for Statistical Research, and our team has won the Huawei Spark Award three times for solving major industrial challenges. Our goal is to develop reliable, efficient, and practically useful statistical and machine learning methods for industrial and interdisciplinary scientific problems.
 
 </div>
 
@@ -267,16 +267,16 @@ Our work starts from statistical theory and stays closely connected to real-worl
 
 <div class="highlight-grid">
   <a href="https://mp.weixin.qq.com/s/jtmVn6od7OL0Z7EPplROpQ">
-    <img loading="lazy" src="https://cheng-bdal.github.io//images/赛道.jpg" alt="Huawei reports on Cheng Meng's third Spark Award">
-    <span>Huawei reports on Cheng Meng's third Spark Award →</span>
+    <img loading="lazy" src="https://cheng-bdal.github.io//images/赛道.jpg" alt="Huawei Feature: Cheng Meng's Third Spark Award">
+    <span>Huawei Feature: Cheng Meng's Third Spark Award →</span>
   </a>
   <a href="https://mp.weixin.qq.com/s/bSx9Vl2pe-LEdYZdeyDGRQ">
-    <img loading="lazy" src="https://cheng-bdal.github.io//images/新生讲话.jpg" alt="RUC reports on the faculty speech at the opening ceremony">
-    <span>RUC reports on the faculty speech at the opening ceremony →</span>
+    <img loading="lazy" src="https://cheng-bdal.github.io//images/新生讲话.jpg" alt="RUC Feature: Faculty Speech at the Opening Ceremony">
+    <span>RUC Feature: Faculty Speech at the Opening Ceremony →</span>
   </a>
   <a href="https://mp.weixin.qq.com/s/OQwr1EvCYTcqG4Tm2Yl84Q">
-    <img loading="lazy" src="https://cheng-bdal.github.io//images/清华校友.jpg" alt="Tsinghua Alumni Association features an alumni story">
-    <span>Tsinghua Alumni Association features an alumni story →</span>
+    <img loading="lazy" src="https://cheng-bdal.github.io//images/清华校友.jpg" alt="Tsinghua Alumni Feature: Cheng Meng's Story">
+    <span>Tsinghua Alumni Feature: Cheng Meng's Story →</span>
   </a>
 </div>
 
@@ -285,7 +285,7 @@ Our work starts from statistical theory and stays closely connected to real-worl
 <div class="news-list">
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-06</span><span class="news-tag news-tag--papers">Papers</span></div>
-    <p><strong>Two BDAL-RUC papers are heading to STAI-X.</strong> Congratulations to Jun Zhu et al. for "SSP-Ensemble: A Sufficient Subspace Projection Ensemble for Multiclass Classification" and Peize Wang et al. for "KPOTD: Kernel Principal Optimal Transport Directions for Nonlinear Sufficient Dimension Reduction," both accepted by the inaugural STAI-X conference.</p>
+    <p><strong>Two BDAL-RUC papers have been accepted by STAI-X.</strong> Congratulations to Jun Zhu et al. for "SSP-Ensemble: A Sufficient Subspace Projection Ensemble for Multiclass Classification" and Peize Wang et al. for "KPOTD: Kernel Principal Optimal Transport Directions for Nonlinear Sufficient Dimension Reduction," both accepted by the inaugural STAI-X conference.</p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-06</span><span class="news-tag news-tag--projects">Projects</span></div>
@@ -297,11 +297,11 @@ Our work starts from statistical theory and stays closely connected to real-worl
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-05</span><span class="news-tag news-tag--papers">Papers</span></div>
-    <p><strong>Another JCGS paper joins the group's publication list.</strong> Congratulations to Junyi Lin et al. on "Sparsification Subsampling for Partial Least Squares Regression" being accepted by JCGS. <a href="https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493940&idx=1&sn=3f41517b696d31773e31a21693ad8c35&chksm=e8f6112b10b60af59a6e06b2b853b016819e8df11bd3e59f74027f2f0f3b6a7008093539b5aa&mpshare=1&scene=1&srcid=0612HIgIPk4SNGTgunx3oLYC&sharer_shareinfo=9485eab15d920ade4b142f3ec70593ac&sharer_shareinfo_first=9485eab15d920ade4b142f3ec70593ac#rd">Read more →</a></p>
+    <p><strong>Another group paper has been accepted by JCGS.</strong> Congratulations to Junyi Lin et al. on "Sparsification Subsampling for Partial Least Squares Regression" being accepted by JCGS. <a href="https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493940&idx=1&sn=3f41517b696d31773e31a21693ad8c35&chksm=e8f6112b10b60af59a6e06b2b853b016819e8df11bd3e59f74027f2f0f3b6a7008093539b5aa&mpshare=1&scene=1&srcid=0612HIgIPk4SNGTgunx3oLYC&sharer_shareinfo=9485eab15d920ade4b142f3ec70593ac&sharer_shareinfo_first=9485eab15d920ade4b142f3ec70593ac#rd">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-05</span><span class="news-tag news-tag--papers">Papers</span></div>
-    <p><strong>An improved MoE method was accepted by ICML 2026.</strong> Congratulations to Xinlai Kang, Dunyao Xue, Zhengbo Wang, Chengshuo Du et al. on "Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE," also featured by the well-known machine learning public account "Machine Heart" (Ji Qi Zhi Xin). <a href="https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034543&idx=2&sn=8c0a91d51644de87618d0cdd9585429d">Read more →</a></p>
+    <p><strong>Our improved MoE work has been accepted by ICML 2026.</strong> Congratulations to Xinlai Kang, Dunyao Xue, Zhengbo Wang, Chengshuo Du et al. on "Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE," also featured by the well-known machine learning public account "Machine Heart" (Ji Qi Zhi Xin). <a href="https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034543&idx=2&sn=8c0a91d51644de87618d0cdd9585429d">Read more →</a></p>
   </article>
 </div>
 
@@ -314,7 +314,7 @@ Our work starts from statistical theory and stays closely connected to real-worl
 <div class="news-list">
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-05</span><span class="news-tag news-tag--projects">Projects</span></div>
-    <p><strong>A teaching innovation project received city-level recognition.</strong> Cheng Meng participated in "Building a New Campus-Wide Academy System to Create a 'Three-Span, Three-Exchange, Three-Learning' Ecosystem for Future Talent Development," which won the Second Prize of the Beijing Higher Education Teaching Achievement Award. <a href="https://mp.weixin.qq.com/s/tblNY71IJZHax3ybNhkG0A">Read more →</a></p>
+    <p><strong>A teaching innovation project received a Beijing municipal award.</strong> Cheng Meng participated in "Building a New Campus-Wide Academy System to Create a 'Three-Span, Three-Exchange, Three-Learning' Ecosystem for Future Talent Development," which won the Second Prize of the Beijing Higher Education Teaching Achievement Award. <a href="https://mp.weixin.qq.com/s/tblNY71IJZHax3ybNhkG0A">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-04</span><span class="news-tag news-tag--awards">Awards</span></div>
@@ -322,7 +322,7 @@ Our work starts from statistical theory and stays closely connected to real-worl
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-03</span><span class="news-tag news-tag--papers">Papers</span></div>
-    <p><strong>A core-elements subsampling paper was accepted by JCGS.</strong> Congratulations to Dunyao Xue et al. on "Core-elements Subsampling for Alternating Least Squares" being accepted by JCGS. <a href="https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493684&idx=1&sn=2890bbd35e47576683e9019d532ff71d&chksm=e8c4425f7136d1bed9b4acf814b19ef8179428e79e09fa51e30af3cdfa9842fd2b54290b4c16&mpshare=1&scene=1&srcid=0414OajaNWC2FQBekHecF670&sharer_shareinfo=bcb12df34a4a3d6bd935ea3dc2d09229&sharer_shareinfo_first=bcb12df34a4a3d6bd935ea3dc2d09229#rd">Read more →</a></p>
+    <p><strong>The core-elements subsampling work has been accepted by JCGS.</strong> Congratulations to Dunyao Xue et al. on "Core-elements Subsampling for Alternating Least Squares" being accepted by JCGS. <a href="https://mp.weixin.qq.com/s?__biz=MzI0NTE1MDk4Mg==&mid=2247493684&idx=1&sn=2890bbd35e47576683e9019d532ff71d&chksm=e8c4425f7136d1bed9b4acf814b19ef8179428e79e09fa51e30af3cdfa9842fd2b54290b4c16&mpshare=1&scene=1&srcid=0414OajaNWC2FQBekHecF670&sharer_shareinfo=bcb12df34a4a3d6bd935ea3dc2d09229&sharer_shareinfo_first=bcb12df34a4a3d6bd935ea3dc2d09229#rd">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-03</span><span class="news-tag news-tag--awards">Awards</span></div>
@@ -334,11 +334,11 @@ Our work starts from statistical theory and stays closely connected to real-worl
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-01</span><span class="news-tag news-tag--papers">Papers</span></div>
-    <p><strong>An optimal transport sparsification paper was accepted.</strong> Congratulations to Ouyang Xiaxue et al. on their paper "Sparsification Techniques for Large-scale Optimal Transport Problems" being accepted by WIREs Computational Statistics, and for its feature coverage on the renowned statistics public platform "Capital of Statistics"! <a href="https://mp.weixin.qq.com/s/f_F0dMu3QbU_GCBHDJIv4A">Read more →</a></p>
+    <p><strong>An optimal transport sparsification paper was accepted.</strong> Congratulations to Ouyang Xiaxue et al. on their paper "Sparsification Techniques for Large-scale Optimal Transport Problems" being accepted by WIREs Computational Statistics. The work was also featured by the well-known statistics platform Capital of Statistics. <a href="https://mp.weixin.qq.com/s/f_F0dMu3QbU_GCBHDJIv4A">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-01</span><span class="news-tag news-tag--papers">Papers</span></div>
-    <p><strong>A rigid-motion-invariant metric paper was accepted by ICLR.</strong> Congratulations to Junyi Lin, Dunyao Xue, et al. on their paper "An Efficient SE(p)-Invariant Transport Metric Driven by Polar Transport Discrepancy-Based Representation" being accepted by ICLR, and for its feature coverage on the renowned AI public platform "Synced"! <a href="https://mp.weixin.qq.com/s/JMUyM_UScUCKwxmcGBlTAQ">Read more →</a></p>
+    <p><strong>A rigid-motion-invariant metric paper was accepted by ICLR.</strong> Congratulations to Junyi Lin, Dunyao Xue, et al. on their paper "An Efficient SE(p)-Invariant Transport Metric Driven by Polar Transport Discrepancy-Based Representation" being accepted by ICLR. The work was also featured by the well-known AI media outlet Synced. <a href="https://mp.weixin.qq.com/s/JMUyM_UScUCKwxmcGBlTAQ">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-01</span><span class="news-tag news-tag--projects">Projects</span></div>
@@ -346,7 +346,7 @@ Our work starts from statistical theory and stays closely connected to real-worl
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-01</span><span class="news-tag news-tag--team">Team</span></div>
-    <p><strong>Five students were featured in the RUC Statistics growth chronicle.</strong> Congratulations to Mengyu Li, Junlie Huang, Chengshuo Du, Tao Wang, and Dunyao Xue, five students featured in the 2025 RUC Statistics Student Growth Chronicle! <a href="https://mp.weixin.qq.com/s/ZAW9in5xx4kh3uWEm1sinA">Read more →</a></p>
+    <p><strong>Five students were featured in the 2025 RUC Statistics Student Profile Series.</strong> Congratulations to Mengyu Li, Junlie Huang, Chengshuo Du, Tao Wang, and Dunyao Xue, five students featured in the 2025 RUC Statistics Student Profile Series. <a href="https://mp.weixin.qq.com/s/ZAW9in5xx4kh3uWEm1sinA">Read more →</a></p>
 </article>
 </div>
 
@@ -371,7 +371,7 @@ Our work starts from statistical theory and stays closely connected to real-worl
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-11</span><span class="news-tag news-tag--awards">Awards</span></div>
-    <p><strong>BDAL students stood out at the CSIAM Student Forum.</strong> Congratulations to Junlie Huang, Chengshuo Du, Tao Wang and Dunyao Xue for the Outstanding Poster Award at the 9th Student Forum of the China Society for Industrial and Applied Mathematics (CSIAM), <strong>with the number of awards ranking first among all participating units</strong>, with additional coverage by RUC News. <a href="https://mp.weixin.qq.com/s/krRC5HjTbBXFPWO6ZEP19Q">WeChat report →</a> <a href="https://news.ruc.edu.cn/1984663406100312065.html">RUC News →</a></p>
+    <p><strong>BDAL students stood out at the CSIAM Student Forum.</strong> Congratulations to Junlie Huang, Chengshuo Du, Tao Wang and Dunyao Xue for winning Outstanding Poster Awards at the 9th CSIAM Student Forum. BDAL-RUC received the most awards among participating institutions, and the achievement was also covered by RUC News. <a href="https://mp.weixin.qq.com/s/krRC5HjTbBXFPWO6ZEP19Q">WeChat report →</a> <a href="https://news.ruc.edu.cn/1984663406100312065.html">RUC News →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-11</span><span class="news-tag news-tag--awards">Awards</span></div>
@@ -399,11 +399,11 @@ Our work starts from statistical theory and stays closely connected to real-worl
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-09</span><span class="news-tag news-tag--papers">Papers</span></div>
-    <p><strong>A 3DGS Gaussian reduction paper received a NeurIPS Spotlight.</strong> Congratulations to Tao Wang, Mengyu Li, Geduo Zeng, and co-authors on their paper "Gaussian Herding Across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS" being accepted by NeurIPS 2025 as a Spotlight, and for its feature coverage on the renowned machine learning public account "Synced"! <a href="https://mp.weixin.qq.com/s/N34W_LK0jYPrmWWtGxVp4w">Read more →</a></p>
+    <p><strong>A 3DGS Gaussian reduction paper received a NeurIPS Spotlight.</strong> Congratulations to Tao Wang, Mengyu Li, Geduo Zeng, and co-authors on their paper "Gaussian Herding Across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS" being accepted by NeurIPS 2025 as a Spotlight. The work was also featured by the well-known AI media outlet Synced. <a href="https://mp.weixin.qq.com/s/N34W_LK0jYPrmWWtGxVp4w">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-08</span><span class="news-tag news-tag--projects">Projects</span></div>
-    <p><strong>Xiaxue Ouyang's graduate research fund project was approved.</strong> Congratulations to Xiaxue Ouyang for hosting the project "Efficient Feature Selection Driven by Adaptive Subsampling and Bio-inspired Encoding Expansion and Sparse Representation Methods," which has been approved as a 2025 Graduate Scientific Research Fund Project by the Institute of Statistics and Big Data.</p>
+    <p><strong>Xiaxue Ouyang's graduate research fund project was approved.</strong> Congratulations to Xiaxue Ouyang for leading the project "Efficient Feature Selection Driven by Adaptive Subsampling and Bio-inspired Encoding Expansion and Sparse Representation Methods," which has been approved as a 2025 Graduate Scientific Research Fund Project by the Institute of Statistics and Big Data.</p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-08</span><span class="news-tag news-tag--papers">Papers</span></div>
@@ -423,7 +423,7 @@ Our work starts from statistical theory and stays closely connected to real-worl
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-06</span><span class="news-tag news-tag--papers">Papers</span></div>
-    <p><strong>A double optimal transport paper was accepted by Bioinformatics.</strong> Congratulations to Mengyu Li and co-authors on their paper "Double Optimal Transport for Differential Gene Regulatory Network Inference with Unpaired Samples" being accepted by Bioinformatics in June 2025! This marks the 11th paper from our group published in a Class A- journal recognized by Renmin University of China.</p>
+    <p><strong>A double optimal transport paper was accepted by Bioinformatics.</strong> Congratulations to Mengyu Li and co-authors on their paper "Double Optimal Transport for Differential Gene Regulatory Network Inference with Unpaired Samples" being accepted by Bioinformatics in June 2025! This is the group's 11th paper in an RUC Class A- journal.</p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-05</span><span class="news-tag news-tag--team">Team</span></div>

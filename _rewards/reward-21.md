@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cheng Meng Received the 2025 Outstanding Technical Collaboration Project Award from Huawei Central Research Institute"
+title: "Cheng Meng Received Huawei Central Research Institute's 2025 Outstanding Technical Collaboration Project Award"
 date: 2025-12-31
 categories: rewards
 ---

@@ -128,7 +128,7 @@ Academic Positions
   <div class="cv-entry">
     <div class="cv-date">2020 - present</div>
     <div>
-      <h3>Assistant Professor (Tenure Track)</h3>
+      <h3>Tenure-Track Assistant Professor</h3>
       <p>Renmin University of China, Institute of Statistics and Big Data</p>
       <p>Beijing, China</p>
     </div>
@@ -160,7 +160,7 @@ Service
 <div class="cv-service">
   <div class="cv-service-item">
     <h3>Editorial Service</h3>
-    <p>Associate Editor of <em>The Chinese Encyclopedia</em> (Third Edition), Statistics Volume - Data Science Subvolume.</p>
+    <p>Associate editor for the Data Science section of <em>The Chinese Encyclopedia</em>, Third Edition: Statistics Volume.</p>
     <div class="cv-image-grid">
       <img loading="lazy" src="https://cheng-bdal.github.io//images/百科全书P1.png" alt="Chinese Encyclopedia page 1">
       <img loading="lazy" src="https://cheng-bdal.github.io//images/百科全书P2.png" alt="Chinese Encyclopedia page 2">
@@ -177,7 +177,7 @@ Service
   </div>
   <div class="cv-service-item">
     <h3>Laboratory Mentoring</h3>
-    <p>Supervisor of the Stat2Spark Mingli Innovation Laboratory. <a href="https://mp.weixin.qq.com/s/ci3yEQE8B6Om9nn7HDRXJA">View more</a></p>
+    <p>Faculty mentor for the Stat2Spark Mingli Innovation Laboratory. <a href="https://mp.weixin.qq.com/s/ci3yEQE8B6Om9nn7HDRXJA">View more</a></p>
     <img loading="lazy" class="cv-image-wide" src="https://cheng-bdal.github.io//images/明理创新实验室.png" alt="Stat2Spark Mingli Innovation Laboratory">
   </div>
 </div>

@@ -306,7 +306,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
   </tr>
 </table>
 
-## Graduated PhD Students
+## Graduated Ph.D. Students
 {: #graduated-phd }
 <style>
   img {
@@ -330,7 +330,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
     <td>
       <img loading="lazy" src="https://cheng-bdal.github.io//images/康欣来毕业照/康欣来毕业照1.jpg" alt="Xinlai Kang"><br>
-      Graduation Message: Take a broad and long-term view.<br>
+      Graduation note: Take a broad and long-term view.<br>
       <br>
       <br>
       <br>
@@ -338,7 +338,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
     <td>
       <img loading="lazy" src="https://cheng-bdal.github.io//images/康欣来毕业照/康欣来毕业照2.jpg" alt="Xinlai Kang"><br>
-      Graduation Commemoration on May 28, 2026<br>
+      Graduation photo, May 28, 2026<br>
       Next affiliation: Huawei Central Research Institute<br>
       Foundation Model Laboratory<br>
       <br>
@@ -356,7 +356,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
     <td>
       <img loading="lazy" src="https://cheng-bdal.github.io//images/李梦雨毕业照/李梦雨毕业照1.jpg" alt="Mengyu Li"><br>
-    Graduation Message: Nothing is impossible to a willing heart.<br>
+    Graduation note: Nothing is impossible to a willing heart.<br>
     <br>
     <br>
     <br>
@@ -364,7 +364,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
     <td>
       <img loading="lazy" src="https://cheng-bdal.github.io//images/李梦雨毕业照/李梦雨毕业照2.jpg" alt="Mengyu Li"><br>
-      Graduation Commemoration on May 16, 2025<br>
+      Graduation photo, May 16, 2025<br>
       Shuimu Scholar, Department of Statistics, Tsinghua University<br>
       <br>
       <br>
@@ -382,7 +382,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
     <td>
     <img loading="lazy" src="https://cheng-bdal.github.io//images/李涛毕业礼物.jpg" alt="Tao Li"><br>
-    Graduation Message: The iron pass was daunting, yet now we begin anew with confident steps.<br>
+    Graduation note: The iron pass was daunting, yet now we begin anew with confident steps.<br>
     <br>
     <br>
     <br>
@@ -390,7 +390,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
     <td>
     <img loading="lazy" src="https://cheng-bdal.github.io//images/李涛毕业照.jpg" alt="Tao Li"><br>
-    Graduation Commemoration on May 17, 2024<br>
+    Graduation photo, May 17, 2024<br>
     Next affiliation: China Galaxy Securities<br>
     <br>
     <br>
@@ -413,17 +413,17 @@ author_profile: true  # 可选，视需要是否显示作者信息
     </td>
     <td>
       <img loading="lazy" src="https://cheng-bdal.github.io//images/黄倩楠毕业照/黄倩楠毕业照1.jpg" alt="Qiannan Huang"><br>
-      Graduation Message: Success begins with the right direction.<br>
+      Graduation note: Success begins with the right direction.<br>
       Special Thanks：<a href="https://space.bilibili.com/652096797?spm_id_from=333.337.0.0">我是超人CR</a><br>
       <br>
       <br>
     </td>
     <td>
       <img loading="lazy" src="https://cheng-bdal.github.io//images/黄倩楠毕业照/黄倩楠毕业照2.jpg" alt="Qiannan Huang"><br>
-      Graduation Commemoration on May 25, 2025<br>
+      Graduation photo, May 25, 2025<br>
       Next affiliation:<br>
       HKU Business School<br>
-      Graduation Message: <a href="https://mp.weixin.qq.com/s/JjcNgioFblkL_FJBtw1wbw">Link</a>
+      Graduation note: <a href="https://mp.weixin.qq.com/s/JjcNgioFblkL_FJBtw1wbw">Link</a>
       <br>
       <br>
     </td>

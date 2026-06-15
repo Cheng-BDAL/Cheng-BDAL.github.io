@@ -49,12 +49,12 @@ author_profile: true
   }
 </style>
 
-## Principal Investigator (PI) Projects
+## PI-Led Projects
 
 <div class="funding-list">
   <article class="funding-card">
     <span class="funding-status funding-status--ongoing">Ongoing</span>
-    <h3>Collaborative Project on Time-Series Feature Correlation Analysis and Dimensionality Reduction Technology Based on Mutual Information</h3>
+    <h3>Mutual-Information-Based Time-Series Feature Association and Dimensionality Reduction</h3>
     <ul>
       <li>Huawei Technologies Co., Ltd., 2012 Laboratories</li>
     </ul>
@@ -62,10 +62,10 @@ author_profile: true
 
   <article class="funding-card">
     <span class="funding-status funding-status--excellent">Completed with Excellence</span>
-    <h3>Collaborative Project on Multi-Dimensional Fast Optimization Technology</h3>
+    <h3>Multi-Dimensional Fast Optimization</h3>
     <ul>
       <li>Huawei Technologies Co., Ltd., Optical Product Line</li>
-      <li>Entered into Huawei's Outstanding Talent System: Junlie Huang, Zhengbo Wang, Jiadi Lv</li>
+      <li>Students recognized in Huawei's Outstanding Talent System: Junlie Huang, Zhengbo Wang, Jiadi Lv</li>
     </ul>
   </article>
 
@@ -74,7 +74,7 @@ author_profile: true
     <h3>Collaborative Project on High-Dimensional Feature Space Compression Technology Based on Multivariate Statistical Relationships</h3>
     <ul>
       <li>Huawei Technologies Co., Ltd., 2012 Laboratories</li>
-      <li>Entered into Huawei's Outstanding Talent System: Tao Wang, Peize Wang</li>
+      <li>Students recognized in Huawei's Outstanding Talent System: Tao Wang, Peize Wang</li>
     </ul>
   </article>
 
@@ -83,7 +83,7 @@ author_profile: true
     <h3>Collaborative Project on Spatial Characteristics of Image Noise</h3>
     <ul>
       <li>Huawei Technologies Co., Ltd., Optical Product Line</li>
-      <li>Entered into Huawei's Outstanding Talent System: Xinlai Kang, Qiannan Huang, Tao Wang</li>
+      <li>Students recognized in Huawei's Outstanding Talent System: Xinlai Kang, Qiannan Huang, Tao Wang</li>
     </ul>
   </article>
 
@@ -106,14 +106,14 @@ author_profile: true
   </article>
 </div>
 
-## Participated Projects
+## Collaborative Projects
 
 <div class="funding-list">
   <article class="funding-card">
     <span class="funding-status funding-status--ongoing">Ongoing</span>
     <h3>Collaborative Project on Feature Extraction and Clustering Algorithms for Large-Scale Chip Layout Patterns</h3>
     <ul>
-      <li>Huawei Technologies Co., Ltd., Semiconductor Department</li>
+      <li>Huawei Technologies Co., Ltd., Semiconductor Division</li>
     </ul>
   </article>
 
@@ -121,7 +121,7 @@ author_profile: true
     <span class="funding-status funding-status--ongoing">Ongoing</span>
     <h3>Collaborative Project on Online Lithium Plating Detection for Silicon Anodes</h3>
     <ul>
-      <li>Huawei Technologies Co., Ltd., Device Department</li>
+      <li>Huawei Technologies Co., Ltd., Consumer Device Division</li>
     </ul>
   </article>
 
