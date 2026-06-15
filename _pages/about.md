@@ -207,6 +207,9 @@ Our work is grounded in statistical theory and closely connected to real-world a
       object-fit: cover;
       object-position: center;
     }
+    .profile-intro p {
+      text-align: left;
+    }
     .page__content > h1,
     .page__content > h2 {
       margin: 1.12rem 0 0.5rem;
