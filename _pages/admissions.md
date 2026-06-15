@@ -123,6 +123,10 @@ author_profile: true
   </div>
 </div>
 
+<div class="admission-process" markdown="1">
+BDAL-RUC aims to be a group where people can do serious research while also enjoying a relaxed and supportive team atmosphere. We “especially welcome” students who are sincere, positive, communicative, and enjoy discussing ideas and growing with peers. Research skills can be trained over time, but kindness, responsibility, and the ability to fit into the team matter a great deal.
+</div>
+
 ---
 
 ## 3. Matching Process
