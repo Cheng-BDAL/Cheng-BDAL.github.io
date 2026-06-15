@@ -124,7 +124,7 @@ author_profile: true
 </div>
 
 <div class="admission-process" markdown="1">
-BDAL-RUC hopes to build a group where people can do serious research while also feeling relaxed, supported, and connected. We “especially welcome” students who are sunny, open, communicative, and enjoy growing with peers, including the ENFP happy-puppy type 🐾. Kindness, responsibility, and the ability to fit into the team are qualities we especially value.
+BDAL-RUC hopes to build a group where people can do serious research while also feeling relaxed, supported, and connected. We “especially welcome” students who are sunny, open, communicative, and enjoy growing with peers. Kindness, responsibility, and the ability to fit into the team are qualities we especially value.
 </div>
 
 ---
