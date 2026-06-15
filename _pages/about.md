@@ -12,17 +12,15 @@ redirect_from:
 
 About BDAL-RUC
 ======
-<p style="text-align: justify;">
+<div class="profile-intro" markdown="1">
+
 Hi! I’m Cheng Meng, a tenure-track Assistant Professor and Ph.D. advisor at the School of Statistics and Data Science, Renmin University of China (RUC). My research centers on big data statistics, optimal transport, artificial intelligence, and industrial statistics, with a particular interest in developing statistically principled methods for complex computational and modeling problems arising in real applications.
-</p>
 
-<p style="text-align: justify;">
 I received my B.S. in Mathematics from Tsinghua University and my Ph.D. in Statistics from the University of Georgia. During my doctoral study, I was fortunate to be advised by Prof. <a href="https://bdalpingio.github.io/">Ping Ma</a> and Prof. <a href="https://zhonglabuga.github.io/">Wenxuan Zhong</a>, who co-direct the Big Data Analytics Lab (BDAL) at UGA. After joining RUC, I have had the pleasure of building BDAL-RUC with a group of talented, sincere, and highly motivated students. Group members have received major honors including the Wu Yuzhang Scholarship (RUC's highest student honor), JSM Student Paper Awards, and National Graduate Scholarships.
-</p>
 
-<p style="text-align: justify;">
 Our work starts from statistical theory and stays closely connected to real-world applications. In recent years, the group has worked on scalable algorithms for large-scale data analysis, fast methods for optimal transport, industrial data modeling, and AI-related statistical methods, with active collaborations including projects with Huawei. I received the 2023 Junior Researcher Award from the Pan-Asian Committee for Statistical Research, and our team has won the Huawei Spark Award three times for solving major industrial challenges. Our goal is to develop statistical and machine learning methods that are reliable, efficient, and genuinely useful in industrial and interdisciplinary scientific problems.
-</p>
+
+</div>
 
 ## Featured Reports
 
@@ -32,10 +30,15 @@ Our work starts from statistical theory and stays closely connected to real-worl
     height: auto;
     border-radius: 6px;
   }
+  .profile-intro p {
+    margin: 0 0 0.8rem;
+    text-align: justify;
+    line-height: 1.68;
+  }
 
   .page__content > h1,
   .page__content > h2 {
-    margin: 1.55rem 0 0.75rem;
+    margin: 1.45rem 0 0.65rem;
     padding-bottom: 0.35rem;
     border-bottom: 1px solid #eadfd8;
     font-size: 1.35rem;
@@ -50,12 +53,22 @@ Our work starts from statistical theory and stays closely connected to real-worl
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 0.8rem;
-    margin: 0.25rem 0 1.25rem;
+    margin: 0.2rem 0 1.1rem;
   }
   .highlight-grid a {
     display: block;
+    padding: 0.65rem;
+    border: 1px solid #e7e0da;
+    border-left: 3px solid #8b1e2d;
+    border-radius: 6px;
+    background: #fbfaf8;
     color: inherit;
     text-decoration: none;
+    transition: background 0.15s ease, border-color 0.15s ease;
+  }
+  .highlight-grid a:hover {
+    background: #f7f1ee;
+    border-color: #d8c8bf;
   }
   .highlight-grid a:hover span {
     background: #f7e6e6;
@@ -66,11 +79,11 @@ Our work starts from statistical theory and stays closely connected to real-worl
     width: 100%;
     aspect-ratio: 4 / 3;
     object-fit: cover;
-    border-radius: 6px;
+    border-radius: 5px;
   }
   .highlight-grid span {
     display: inline-block;
-    margin-top: 0.35rem;
+    margin-top: 0.45rem;
     padding: 0.12rem 0.48rem;
     border: 1px solid #d8c8bf;
     border-radius: 999px;
@@ -84,7 +97,7 @@ Our work starts from statistical theory and stays closely connected to real-worl
   .news-list {
     display: grid;
     gap: 0.72rem;
-    margin: 0.25rem 0 1rem;
+    margin: 0.2rem 0 1rem;
   }
   .news-card {
     padding: 0.75rem 0.85rem;
@@ -193,7 +206,7 @@ Our work starts from statistical theory and stays closely connected to real-worl
     }
     .page__content > h1,
     .page__content > h2 {
-      margin: 1.2rem 0 0.55rem;
+      margin: 1.12rem 0 0.5rem;
       font-size: 1.18rem;
     }
     .highlight-grid {
@@ -205,6 +218,7 @@ Our work starts from statistical theory and stays closely connected to real-worl
       grid-template-columns: 5.6rem minmax(0, 1fr);
       gap: 0.65rem;
       align-items: center;
+      padding: 0.55rem 0.62rem;
     }
     .highlight-grid img {
       aspect-ratio: 4 / 3;
@@ -419,18 +433,18 @@ Our work starts from statistical theory and stays closely connected to real-worl
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-05</span><span class="news-tag news-tag--media">Media</span></div>
-    <p><span class="news-emphasis--muted"><strong>Cheng Meng spoke as a Tsinghua alumnus ten years after graduation.</strong> Cheng Meng was invited to speak at a Tsinghua alumni symposium, with additional coverage by the Department of Statistics and Data Science. <a href="https://mp.weixin.qq.com/s/d8KrSRIqVNIQVdvBO0yjFw">Event report →</a> <a href="https://mp.weixin.qq.com/s/utOxnb63ZurO7jPo6NpkAg">Department report →</a></span></p>
+    <p><span class="news-emphasis--red"><strong>Cheng Meng spoke as a Tsinghua alumnus ten years after graduation.</strong> Cheng Meng was invited to speak at a Tsinghua alumni symposium, with additional coverage by the Department of Statistics and Data Science. <a href="https://mp.weixin.qq.com/s/d8KrSRIqVNIQVdvBO0yjFw">Event report →</a> <a href="https://mp.weixin.qq.com/s/utOxnb63ZurO7jPo6NpkAg">Department report →</a></span></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2025-04</span><span class="news-tag news-tag--awards">Awards</span></div>
     <p><strong>Three students received Travel Awards at the doctoral forum.</strong> Congratulations to Junyi Lin, Junlie Huang and Dunyao Xue for receiving the Travel Award and being selected for the Doctoral Forum at the 2025 Annual Conference of the Youth Statisticians Association of the National Industrial Statistics Teaching and Research Association and the 3rd International Symposium on Statistical Theory and its Applications, with additional coverage by the academic platform "Gouxiong Hui". <a href="https://mp.weixin.qq.com/s/ko2HoiA6hpjWPdyo8Q8E-g">Forum report →</a> <a href="https://mp.weixin.qq.com/s/secOUhCJQb0NYumfMlM5qQ">Platform report →</a></p>
   </article>
   <article class="news-card">
-    <div class="news-meta"><span class="news-date">2025-3</span><span class="news-tag news-tag--projects">Projects</span></div>
+    <div class="news-meta"><span class="news-date">2025-03</span><span class="news-tag news-tag--projects">Projects</span></div>
     <p><strong>The team won Huawei's Spark Award for the third time.</strong> Congratulations to Cheng Meng for leading students Hao Zheng, Tao Wang, Haoxian Liang, and Mengyu Li to win the Huawei "Challenge Solving" 114th Spark Award. This is the team's third time receiving this honor; Haoxian Liang was also interviewed by Mingli College. <a href="https://mp.weixin.qq.com/s/NXFraboslDTdyHaGAFEjFA">Huawei report →</a> <a href="https://mp.weixin.qq.com/s/0SyJYpWQNhOvDi2sjYaxOg">My Spark Moments →</a></p>
   </article>
   <article class="news-card">
-    <div class="news-meta"><span class="news-date">2025-3</span><span class="news-tag news-tag--papers">Papers</span></div>
+    <div class="news-meta"><span class="news-date">2025-03</span><span class="news-tag news-tag--papers">Papers</span></div>
     <p><strong>A hyperbolic Wasserstein distance paper was accepted by IEEE TNNLS.</strong> Congratulations! The paper "Efficient Variants of Wasserstein Distance in Hyperbolic Space via Space-filling Curve Projection" by Tao Li, Jun Zhu, and others has been accepted by IEEE TNNLS (IF: 10.2)! This is the third 1A-class journal publication from our group at the research institute!
 <a href="https://mp.weixin.qq.com/s/1LUVaZowmOd9oIREQAScgA">Read more →</a></p>
 </article>
@@ -441,7 +455,7 @@ Our work starts from statistical theory and stays closely connected to real-worl
 <div class="news-list">
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2024-12</span><span class="news-tag news-tag--awards">Awards</span></div>
-    <p><span class="news-emphasis--blue"><strong>Mengyu Li was selected for the CAST Young Talent Support Program.</strong> Congratulations to Mengyu Li on being selected for the 2024 CAST Young Talent Support Program for Doctoral Students, supported by CAAS. <a href="https://mp.weixin.qq.com/s/rRtjWDszTF0U0GonVTHsRA">Read more →</a></span></p>
+    <p><strong>Mengyu Li was selected for the CAST Young Talent Support Program.</strong> Congratulations to Mengyu Li on being selected for the 2024 CAST Young Talent Support Program for Doctoral Students, supported by CAAS. <a href="https://mp.weixin.qq.com/s/rRtjWDszTF0U0GonVTHsRA">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2024-11</span><span class="news-tag news-tag--awards">Awards</span></div>
