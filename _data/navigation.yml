@@ -34,3 +34,4 @@ main:
 
   - title: "中文"
     url: https://cheng-bdal.github.io/cn/
+    lang_switch: true
