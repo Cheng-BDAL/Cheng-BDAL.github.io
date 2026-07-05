@@ -90,7 +90,7 @@ author_profile: true
 </style>
 
 <div class="admission-notice" markdown="1">
-**Important note:** Admissions are handled through the Institute's unified committee process. Master's or Ph.D. positions cannot be confirmed by email before formal application. Please first complete the institute-level application process and obtain the relevant admission eligibility; group matching will then depend on research interests, prior communication, and topic fit. Generic emails or emails without basic familiarity with our work will generally not receive a reply.
+**Important note:** Admissions are handled through the Institute's unified committee process. Master's or Ph.D. positions cannot be confirmed by email before formal application. Please first complete the institute-level application process and obtain the relevant admission eligibility; group matching will then depend on research interests, prior communication, and topic fit. To improve communication efficiency, please include **[BDAL-READ-current year]** in the subject, replacing "current year" with the four-digit year when you send the email; emails that do not follow this requirement or appear generic/template-based will generally not receive a reply.
 </div>
 
 ---
@@ -165,4 +165,4 @@ Please briefly include:
   <li>CV, transcript, representative projects, papers, or code links.</li>
 </ul>
 
-The email does not need to be long, but it should have a clear direction and substantive content.
+The email does not need to be long, but please start with no more than 150 words on which part of this website you read, which group paper or direction interests you, and why your background may fit.
