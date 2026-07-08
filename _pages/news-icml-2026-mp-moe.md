@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /news/icml-2026-mp-moe/
-title: "Students Joined ICML 2026 for On-Site Exchange"
+title: "Notes from ICML 2026 in Seoul"
 author_profile: true
 ---
 
@@ -31,9 +31,9 @@ author_profile: true
 }
 </style>
 
-In July 2026, Xinlai Kang and Dunyao Xue traveled to Seoul, Korea for ICML 2026, where they presented and discussed the team's MP-MoE work during the poster session.
+In July 2026, Xinlai Kang and Dunyao Xue traveled to Seoul for ICML 2026 and presented the team's latest MP-MoE work during the poster session.
 
-The trip also gave them a chance to experience the research atmosphere of a leading machine learning conference, exchange ideas with researchers from different areas, and bring back useful observations and feedback for future work.
+The on-site discussions touched on expert selection, complementarity modeling, and practical efficiency in MoE systems. The feedback and observations from the conference will help shape our follow-up research.
 
 <div class="news-photo-grid">
   <div class="news-photo-placeholder">Poster Photo</div>

@@ -288,7 +288,7 @@ Our work is grounded in statistical theory and closely connected to real-world a
 <div class="news-list">
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-07</span><span class="news-tag news-tag--team">Team</span></div>
-    <p><strong>Students joined ICML 2026 for on-site exchange.</strong> Xinlai Kang and Dunyao Xue traveled to Seoul, Korea for ICML 2026, where they presented and discussed the team's MP-MoE work during the poster session. <a href="https://cheng-bdal.github.io/news/icml-2026-mp-moe/">Read more →</a></p>
+    <p><strong>MP-MoE was presented at ICML 2026 in Seoul.</strong> Xinlai Kang and Dunyao Xue traveled to Seoul for ICML 2026 and presented the team's latest MP-MoE work during the poster session. <a href="https://cheng-bdal.github.io/news/icml-2026-mp-moe/">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-06</span><span class="news-tag news-tag--papers">Papers</span></div>
