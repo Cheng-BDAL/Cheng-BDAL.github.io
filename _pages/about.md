@@ -287,6 +287,10 @@ Our work is grounded in statistical theory and closely connected to real-world a
 
 <div class="news-list">
   <article class="news-card">
+    <div class="news-meta"><span class="news-date">2026-07</span><span class="news-tag news-tag--team">Team</span></div>
+    <p><strong>Students joined ICML 2026 for on-site exchange.</strong> Xinlai Kang and Dunyao Xue traveled to Seoul, Korea for ICML 2026, where they presented and discussed the team's MP-MoE work during the poster session. <a href="https://cheng-bdal.github.io/news/icml-2026-mp-moe/">Read more →</a></p>
+  </article>
+  <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-06</span><span class="news-tag news-tag--papers">Papers</span></div>
     <p><strong>Two BDAL-RUC papers have been accepted by STAI-X.</strong> Congratulations to Jun Zhu et al. for "SSP-Ensemble: A Sufficient Subspace Projection Ensemble for Multiclass Classification" and Peize Wang et al. for "KPOTD: Kernel Principal Optimal Transport Directions for Nonlinear Sufficient Dimension Reduction," both accepted by the inaugural STAI-X conference.</p>
   </article>
