@@ -288,6 +288,10 @@ Our work is grounded in statistical theory and closely connected to real-world a
 <div class="news-list">
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-07</span><span class="news-tag news-tag--team">Team</span></div>
+    <p><strong>Three students shared their work at Huawei's Zijin Summit seminar.</strong> Xinlai Kang, Dunyao Xue, and Junyi Lin were invited to the "Zijin Summit" Young Scholars Paper Sharing Seminar at Huawei's Huang Danian Chasiwu, where they presented and discussed their recent research. <a href="https://cheng-bdal.github.io/news/huawei-zijinzhi-dian-2026/">Read more →</a></p>
+  </article>
+  <article class="news-card">
+    <div class="news-meta"><span class="news-date">2026-07</span><span class="news-tag news-tag--team">Team</span></div>
     <p><strong>MP-MoE was presented at ICML 2026 in Seoul.</strong> Xinlai Kang and Dunyao Xue traveled to Seoul for ICML 2026 and presented the team's latest MP-MoE work during the poster session. <a href="https://cheng-bdal.github.io/news/icml-2026-mp-moe/">Read more →</a></p>
   </article>
   <article class="news-card">
