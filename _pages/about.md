@@ -288,6 +288,10 @@ Our work is grounded in statistical theory and closely connected to real-world a
 <div class="news-list">
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-07</span><span class="news-tag news-tag--team">Team</span></div>
+    <p><strong>Mengyu Li's joint work was featured in a keynote talk in Guiyang.</strong> Mengyu Li attended the 4th Joint Conference on Statistics and Data Science in Guiyang and contributed to the work presented in Prof. Jun S. Liu's keynote talk; she also met BDAL alumna Huimin Cheng, now Assistant Professor at Boston University. <a href="https://cheng-bdal.github.io/news/jcsds-guiyang-2026/">Read more →</a></p>
+  </article>
+  <article class="news-card">
+    <div class="news-meta"><span class="news-date">2026-07</span><span class="news-tag news-tag--team">Team</span></div>
     <p><strong>Three students shared their work at Huawei's Zijin Summit seminar.</strong> Xinlai Kang, Dunyao Xue, and Junyi Lin were invited to the "Zijin Summit" Young Scholars Paper Sharing Seminar at Huawei's Huang Danian Chasiwu, where they presented and discussed their recent research. <a href="https://cheng-bdal.github.io/news/huawei-zijinzhi-dian-2026/">Read more →</a></p>
   </article>
   <article class="news-card">
