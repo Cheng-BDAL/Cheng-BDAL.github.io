@@ -306,6 +306,15 @@ Our work is grounded in statistical theory and closely connected to real-world a
     <div class="news-meta"><span class="news-date">2026-06</span><span class="news-tag news-tag--projects">Projects</span></div>
     <p><strong>A new Mingli College project begins.</strong> Junlie Huang's project "Research on High-Precision Fault Early-Warning Algorithms Based on Statistics" has been approved as a Renmin University of China Mingli College "Qiushi Graduate Education Research" project. <a href="https://mp.weixin.qq.com/s/RctY4tEAfXxE1zw6Io4I-g">Read more →</a></p>
   </article>
+</div>
+
+<div class="news-more">
+  <button type="button" class="news-more-toggle" onclick="var target=document.getElementById('more-news-list'); target.hidden=!target.hidden; this.textContent=target.hidden?'Show More News':'Show Less News';">Show More News</button>
+  <div id="more-news-list" hidden>
+
+<h3 class="news-year-heading">2026</h3>
+
+<div class="news-list">
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-06</span><span class="news-tag news-tag--projects">Projects</span></div>
     <p><strong>Four student projects won institute-level support.</strong> Projects by Tao Wang, Junlie Huang, Dunyao Xue, and Chengshuo Du were approved as 2026 Graduate Student Scientific Research Fund Projects of the Institute of Statistics and Big Data, among 8 awardees institute-wide.</p>
@@ -318,15 +327,6 @@ Our work is grounded in statistical theory and closely connected to real-world a
     <div class="news-meta"><span class="news-date">2026-05</span><span class="news-tag news-tag--papers">Papers</span></div>
     <p><strong>Our improved MoE work has been accepted by ICML 2026.</strong> Congratulations to Xinlai Kang, Dunyao Xue, Zhengbo Wang, Chengshuo Du et al. on "Breaking the Echo Chamber: A Dynamic Ensemble Pruning Perspective on MoE," also featured by the well-known machine learning public account "Machine Heart" (Ji Qi Zhi Xin). <a href="https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651034543&idx=2&sn=8c0a91d51644de87618d0cdd9585429d">Read more →</a></p>
   </article>
-</div>
-
-<div class="news-more">
-  <button type="button" class="news-more-toggle" onclick="var target=document.getElementById('more-news-list'); target.hidden=!target.hidden; this.textContent=target.hidden?'Show More News':'Show Less News';">Show More News</button>
-  <div id="more-news-list" hidden>
-
-<h3 class="news-year-heading">2026</h3>
-
-<div class="news-list">
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-05</span><span class="news-tag news-tag--projects">Projects</span></div>
     <p><strong>A teaching innovation project received a Beijing municipal award.</strong> Cheng Meng participated in "Building a New Campus-Wide Academy System to Create a 'Three-Span, Three-Exchange, Three-Learning' Ecosystem for Future Talent Development," which won the Second Prize of the Beijing Higher Education Teaching Achievement Award. <a href="https://mp.weixin.qq.com/s/tblNY71IJZHax3ybNhkG0A">Read more →</a></p>
