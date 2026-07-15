@@ -51,6 +51,27 @@ author_profile: true
   line-height: 1.4;
   letter-spacing: 0;
 }
+.news-video-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin: 1rem 0 1.2rem;
+}
+.news-video-links a {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid #d8c8c0;
+  border-radius: 999px;
+  padding: 0.35rem 0.75rem;
+  color: #7c2f24;
+  font-size: 0.82rem;
+  text-decoration: none;
+  background: #fffaf7;
+}
+.news-video-links a:hover {
+  border-color: #c44a3c;
+  color: #c44a3c;
+}
 @media (max-width: 720px) {
   .news-photo-grid {
     grid-template-columns: 1fr;
@@ -67,6 +88,13 @@ author_profile: true
 In July 2026, Xinlai Kang, Dunyao Xue, and Junyi Lin were invited to Huawei's Huang Danian Chasiwu for the "Zijin Summit" Young Scholars Paper Sharing Seminar, where they presented and discussed their recent research.
 
 At the seminar, the students exchanged ideas face to face with industry researchers on methodological design, practical problem formulation, and possible follow-up applications. These close conversations helped connect the group's research more directly with real-world questions.
+
+Two talk videos are now available on the Chasiwu platform:
+
+<div class="news-video-links">
+  <a href="https://www.chaspark.com/#/stw/media/1294124499406843904" target="_blank" rel="noopener">Watch talk video 1</a>
+  <a href="https://www.chaspark.com/#/stw/media/1294127487140237312?anchorV=1294127454905397248" target="_blank" rel="noopener">Watch talk video 2</a>
+</div>
 
 <div class="news-photo-grid">
   <figure class="news-photo-card news-photo-card--tall">
