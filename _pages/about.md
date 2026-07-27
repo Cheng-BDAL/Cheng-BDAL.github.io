@@ -341,7 +341,7 @@ Our work is grounded in statistical theory and closely connected to real-world a
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-03</span><span class="news-tag news-tag--awards">Awards</span></div>
-    <p><strong>Dunyao Xue was selected for RUC's talent training program.</strong> Congratulations on being selected for the 2025-2026 Renmin University of China "Top Innovative Talents Training Funding Program" (2 awardees institute-wide), marking the team's second such honor after Mengyu Li.</p>
+    <p><strong>Dunyao Xue was selected for RUC's talent training program.</strong> Congratulations on being selected for the 2025-2026 Renmin University of China "Top Innovative Talents Training Funding Program" (2 awardees institute-wide), marking the team's second such honor after Mengyu Li. <a href="https://cheng-bdal.github.io/images/awards/xue-dunyao-top-innovative-certificate.jpg">Certificate →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-03</span><span class="news-tag news-tag--projects">Projects</span></div>
