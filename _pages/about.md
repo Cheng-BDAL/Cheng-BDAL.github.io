@@ -288,6 +288,10 @@ Our work is grounded in statistical theory and closely connected to real-world a
 <div class="news-list">
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-07</span><span class="news-tag news-tag--team">Team</span></div>
+    <p><strong>Another Zijin Summit session featured Jun Zhu and Peize Wang.</strong> Jun Zhu and Peize Wang joined the "Zijin Summit" Young Scholars Paper Sharing Seminar and presented two statistical methodology talks on targeted projection and data-quality limits. <a href="https://cheng-bdal.github.io/news/zijin-summit-2026-07-31/">Read more →</a></p>
+  </article>
+  <article class="news-card">
+    <div class="news-meta"><span class="news-date">2026-07</span><span class="news-tag news-tag--team">Team</span></div>
     <p><strong>Mengyu Li's joint work was featured in a keynote talk in Guiyang.</strong> Mengyu Li attended the 4th Joint Conference on Statistics and Data Science in Guiyang and contributed to the work presented in Prof. Jun S. Liu's keynote talk; she also met BDAL alumna Huimin Cheng, now Assistant Professor at Boston University. <a href="https://cheng-bdal.github.io/news/jcsds-guiyang-2026/">Read more →</a></p>
   </article>
   <article class="news-card">
@@ -302,10 +306,6 @@ Our work is grounded in statistical theory and closely connected to real-world a
     <div class="news-meta"><span class="news-date">2026-06</span><span class="news-tag news-tag--papers">Papers</span></div>
     <p><strong>Two BDAL-RUC papers have been accepted by STAI-X.</strong> Congratulations to Jun Zhu et al. for "SSP-Ensemble: A Sufficient Subspace Projection Ensemble for Multiclass Classification" and Peize Wang et al. for "KPOTD: Kernel Principal Optimal Transport Directions for Nonlinear Sufficient Dimension Reduction," both accepted by the inaugural STAI-X conference.</p>
   </article>
-  <article class="news-card">
-    <div class="news-meta"><span class="news-date">2026-06</span><span class="news-tag news-tag--projects">Projects</span></div>
-    <p><strong>A new Mingli College project begins.</strong> Junlie Huang's project "Research on High-Precision Fault Early-Warning Algorithms Based on Statistics" has been approved as a Renmin University of China Mingli College "Qiushi Graduate Education Research" project. <a href="https://mp.weixin.qq.com/s/RctY4tEAfXxE1zw6Io4I-g">Read more →</a></p>
-  </article>
 </div>
 
 <div class="news-more">
@@ -315,6 +315,10 @@ Our work is grounded in statistical theory and closely connected to real-world a
 <h3 class="news-year-heading">2026</h3>
 
 <div class="news-list">
+  <article class="news-card">
+    <div class="news-meta"><span class="news-date">2026-06</span><span class="news-tag news-tag--projects">Projects</span></div>
+    <p><strong>A new Mingli College project begins.</strong> Junlie Huang's project "Research on High-Precision Fault Early-Warning Algorithms Based on Statistics" has been approved as a Renmin University of China Mingli College "Qiushi Graduate Education Research" project. <a href="https://mp.weixin.qq.com/s/RctY4tEAfXxE1zw6Io4I-g">Read more →</a></p>
+  </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-06</span><span class="news-tag news-tag--projects">Projects</span></div>
     <p><strong>Four student projects won institute-level support.</strong> Projects by Tao Wang, Junlie Huang, Dunyao Xue, and Chengshuo Du were approved as 2026 Graduate Student Scientific Research Fund Projects of the Institute of Statistics and Big Data, among 8 awardees institute-wide.</p>
