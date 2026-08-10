@@ -51,6 +51,27 @@ author_profile: true
   line-height: 1.4;
   letter-spacing: 0;
 }
+.news-video-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin: 1rem 0 1.2rem;
+}
+.news-video-links a {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid #d8c8c0;
+  border-radius: 999px;
+  padding: 0.35rem 0.75rem;
+  color: #7c2f24;
+  font-size: 0.82rem;
+  text-decoration: none;
+  background: #fffaf7;
+}
+.news-video-links a:hover {
+  border-color: #c44a3c;
+  color: #c44a3c;
+}
 @media (max-width: 720px) {
   .news-photo-grid {
     grid-template-columns: 1fr;
@@ -67,6 +88,13 @@ author_profile: true
 On July 31, 2026, Jun Zhu and Peize Wang were invited to Huawei's Huang Danian Chasiwu for another "Zijin Summit" Young Scholars Paper Sharing Seminar, where they presented and discussed recent statistical methodology work.
 
 Jun Zhu's talk, "From Broad Search to Targeted Projection: Moving Beyond Random Projection by Chance," focused on replacing random subspace trials with more supervised and targeted projection ideas. Peize Wang's talk, "Where Is the Ceiling of Data Quality? Accuracy-Limit Evaluation and Model-Free Metric Selection from a Statistical Perspective," discussed how statistical tools can help understand data quality, performance limits, and metric selection. Together, the two talks continued the group's rhythm of bringing methodological work into close conversation with real-world research questions.
+
+Two talk recordings are now available on the Chasiwu platform:
+
+<div class="news-video-links">
+  <a href="https://www.chaspark.com/#/stw/media/1303070357372678144?lang=zh" target="_blank" rel="noopener">Watch recording 1</a>
+  <a href="https://www.chaspark.com/#/stw/media/1303068016695947264?lang=zh" target="_blank" rel="noopener">Watch recording 2</a>
+</div>
 
 <div class="news-photo-grid">
   <figure class="news-photo-card">

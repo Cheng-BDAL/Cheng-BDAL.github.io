@@ -288,7 +288,7 @@ Our work is grounded in statistical theory and closely connected to real-world a
 <div class="news-list">
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-07</span><span class="news-tag news-tag--team">Team</span></div>
-    <p><strong>Another Zijin Summit session featured Jun Zhu and Peize Wang.</strong> Jun Zhu and Peize Wang joined the "Zijin Summit" Young Scholars Paper Sharing Seminar and presented two statistical methodology talks on targeted projection and data-quality limits. <a href="https://cheng-bdal.github.io/news/zijin-summit-2026-07-31/">Read more →</a></p>
+    <p><strong>Another Zijin Summit session featured Jun Zhu and Peize Wang.</strong> Jun Zhu and Peize Wang joined the "Zijin Summit" Young Scholars Paper Sharing Seminar and presented two statistical methodology talks on targeted projection and data-quality limits; two talk recordings are now available. <a href="https://cheng-bdal.github.io/news/zijin-summit-2026-07-31/">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-07</span><span class="news-tag news-tag--team">Team</span></div>
