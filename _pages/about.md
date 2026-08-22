@@ -287,6 +287,10 @@ Our work is grounded in statistical theory and closely connected to real-world a
 
 <div class="news-list">
   <article class="news-card">
+    <div class="news-meta"><span class="news-date">2026-08</span><span class="news-tag news-tag--papers">Papers</span></div>
+    <p><strong>Beyond probability truncation: LLM decoding through ensemble pruning.</strong> Congratulations to Dunyao Xue, Chengshuo Du, Zhengbo Wang, Wenlin Dai, and Cheng Meng on the acceptance of "Beyond Truncation: Rethinking LLM Decoding as Ensemble Pruning" to the EMNLP 2026 Main Conference. Among 17,669 submissions, 2,719 were accepted to the main conference, for an acceptance rate of 15.4%.</p>
+  </article>
+  <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-07</span><span class="news-tag news-tag--team">Team</span></div>
     <p><strong>Another Zijin Summit session featured Jun Zhu and Peize Wang.</strong> Jun Zhu and Peize Wang joined the "Zijin Summit" Young Scholars Paper Sharing Seminar and presented two statistical methodology talks on targeted projection and data-quality limits; two talk recordings are now available. <a href="https://cheng-bdal.github.io/news/zijin-summit-2026-07-31/">Read more →</a></p>
   </article>
@@ -302,10 +306,6 @@ Our work is grounded in statistical theory and closely connected to real-world a
     <div class="news-meta"><span class="news-date">2026-07</span><span class="news-tag news-tag--team">Team</span></div>
     <p><strong>MP-MoE was presented at ICML 2026 in Seoul.</strong> Xinlai Kang and Dunyao Xue traveled to Seoul for ICML 2026 and presented the team's latest MP-MoE work during the poster session. <a href="https://cheng-bdal.github.io/news/icml-2026-mp-moe/">Read more →</a></p>
   </article>
-  <article class="news-card">
-    <div class="news-meta"><span class="news-date">2026-06</span><span class="news-tag news-tag--papers">Papers</span></div>
-    <p><strong>Two BDAL-RUC papers have been accepted by STAI-X.</strong> Congratulations to Jun Zhu et al. for "SSP-Ensemble: A Sufficient Subspace Projection Ensemble for Multiclass Classification" and Peize Wang et al. for "KPOTD: Kernel Principal Optimal Transport Directions for Nonlinear Sufficient Dimension Reduction," both accepted by the inaugural STAI-X conference.</p>
-  </article>
 </div>
 
 <div class="news-more">
@@ -315,6 +315,10 @@ Our work is grounded in statistical theory and closely connected to real-world a
 <h3 class="news-year-heading">2026</h3>
 
 <div class="news-list">
+  <article class="news-card">
+    <div class="news-meta"><span class="news-date">2026-06</span><span class="news-tag news-tag--papers">Papers</span></div>
+    <p><strong>Two BDAL-RUC papers have been accepted by STAI-X.</strong> Congratulations to Jun Zhu et al. for "SSP-Ensemble: A Sufficient Subspace Projection Ensemble for Multiclass Classification" and Peize Wang et al. for "KPOTD: Kernel Principal Optimal Transport Directions for Nonlinear Sufficient Dimension Reduction," both accepted by the inaugural STAI-X conference.</p>
+  </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-06</span><span class="news-tag news-tag--projects">Projects</span></div>
     <p><strong>A new Mingli College project begins.</strong> Junlie Huang's project "Research on High-Precision Fault Early-Warning Algorithms Based on Statistics" has been approved as a Renmin University of China Mingli College "Qiushi Graduate Education Research" project. <a href="https://mp.weixin.qq.com/s/RctY4tEAfXxE1zw6Io4I-g">Read more →</a></p>
