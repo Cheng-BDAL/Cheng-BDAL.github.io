@@ -288,7 +288,7 @@ Our work is grounded in statistical theory and closely connected to real-world a
 <div class="news-list">
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-08</span><span class="news-tag news-tag--papers">Papers</span></div>
-    <p><strong>Beyond probability truncation: LLM decoding through ensemble pruning.</strong> Congratulations to Dunyao Xue, Chengshuo Du, Zhengbo Wang, Wenlin Dai, and Cheng Meng on the acceptance of "Beyond Truncation: Rethinking LLM Decoding as Ensemble Pruning" to the EMNLP 2026 Main Conference. Among 17,669 submissions, 2,719 were accepted to the main conference, for an acceptance rate of 15.4%.</p>
+    <p><strong>Beyond probability truncation: LLM decoding through ensemble pruning.</strong> Congratulations to Dunyao Xue, Chengshuo Du, Zhengbo Wang et al. on the acceptance of "Beyond Truncation: Rethinking LLM Decoding as Ensemble Pruning" to the EMNLP 2026 Main Conference. Among 17,669 submissions, 2,719 were accepted to the main conference, for an acceptance rate of 15.4%.</p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-07</span><span class="news-tag news-tag--team">Team</span></div>
