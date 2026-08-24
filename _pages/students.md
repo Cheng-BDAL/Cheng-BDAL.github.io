@@ -304,9 +304,9 @@ author_profile: true  # 可选，视需要是否显示作者信息
     <td><img loading="lazy" src="https://cheng-bdal.github.io//images/头像/雷依衡.jpg" alt="Yiheng Lei" style="object-position: center top;"><br><strong class="student-name">Yiheng Lei</strong><br>M.S. (2026)<br>BS: Hunan University<br>School of Mathematics<br><span class="student-email">yihenglei822 at ruc dot edu dot cn</span></td>
   </tr>
   <tr>
+    <td><img loading="lazy" src="https://cheng-bdal.github.io//images/头像/黄玙凡.jpg" alt="Yufan Huang"><br><strong class="student-name">Yufan Huang</strong><br>M.S. (2026)<br>BS: Renmin University of China<br>School of Mathematics<br><span class="student-email">huangyf0710 at ruc dot edu dot cn</span></td>
     <td><img loading="lazy" src="https://cheng-bdal.github.io//images/头像/蒋璇.jpg" alt="Xuan Jiang"><br><strong class="student-name">Xuan Jiang</strong><br>Undergraduate (2024)<br>Joint advisor: Researcher Zhang Jingyi<br>BS: Beijing University of Posts and Telecommunications, School of Mathematics<br><span class="student-email">2024212523 at bupt dot cn</span></td>
     <td><img loading="lazy" src="https://cheng-bdal.github.io//images/头像/朱同臣.jpg" alt="Tongchen Zhu"><br><strong class="student-name">Tongchen Zhu</strong><br>Undergraduate (2024)<br>Joint advisor: Researcher Zhang Jingyi<br>Beijing University of Posts and Telecommunications, Digital Media Technology<br><span class="student-email">2024213885 at bupt dot cn</span></td>
-    <td></td>
   </tr>
 </table>
 
