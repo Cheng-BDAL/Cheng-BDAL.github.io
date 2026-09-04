@@ -14,7 +14,7 @@ About BDAL-RUC
 ======
 <div class="profile-intro" markdown="1">
 
-Hi! I’m Cheng Meng, a tenured Associate Professor and Research Professor (full rank) at the School of Statistics and Data Science, Renmin University of China (RUC). My research centers on big data statistics, optimal transport, artificial intelligence, and industrial statistics. I am particularly interested in statistically principled methods for complex computational and modeling problems in real applications.
+Hi! I’m Cheng Meng, a tenured Associate Professor, Research Professor, and Ph.D. advisor at the School of Statistics and Data Science, Renmin University of China (RUC). My research centers on big data statistics, optimal transport, artificial intelligence, and industrial statistics. I am particularly interested in statistically principled methods for complex computational and modeling problems in real applications.
 
 I received my B.S. in Mathematics from Tsinghua University and my Ph.D. in Statistics from the University of Georgia. During my doctoral study, I was fortunate to be advised by Prof. <a href="https://bdalpingio.github.io/">Ping Ma</a> and Prof. <a href="https://zhonglabuga.github.io/">Wenxuan Zhong</a>, who co-direct the Big Data Analytics Lab (BDAL) at UGA. After joining RUC, I have been building BDAL-RUC together with a group of talented, sincere, and highly motivated students. Group members have received major honors including the Wu Yuzhang Scholarship (RUC's highest student honor), JSM Student Paper Awards, and National Graduate Scholarships.
 
