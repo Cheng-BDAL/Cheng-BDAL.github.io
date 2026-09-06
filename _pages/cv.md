@@ -126,9 +126,17 @@ Academic Positions
 ======
 <div class="cv-timeline">
   <div class="cv-entry">
-    <div class="cv-date">2020 - present</div>
+    <div class="cv-date">2026 - present</div>
     <div>
-      <h3>tenured Associate Professor, Research Professor, and Ph.D. advisor</h3>
+      <h3>Tenured Associate Professor, Research Professor, and Ph.D. Advisor</h3>
+      <p>Renmin University of China, Institute of Statistics and Big Data</p>
+      <p>Beijing, China</p>
+    </div>
+  </div>
+  <div class="cv-entry">
+    <div class="cv-date">2020 - 2026</div>
+    <div>
+      <h3>Assistant Professor and Associate Research Professor</h3>
       <p>Renmin University of China, Institute of Statistics and Big Data</p>
       <p>Beijing, China</p>
     </div>

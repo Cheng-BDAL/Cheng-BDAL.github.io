@@ -288,7 +288,7 @@ Our work is grounded in statistical theory and closely connected to real-world a
 <div class="news-list">
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-09</span><span class="news-tag news-tag--projects">Projects</span></div>
-    <p><strong>Mengyu Li received Youth Fund support for virtual-cell research.</strong> Her project, “Sequential Sampling and Conditional Generation via Optimal Transport for Virtual Cells,” is one more step into the virtual-cell space—excited to see where it goes!</p>
+    <p><strong>Virtual-cell research wins Young Scientists Fund (Category C) support.</strong> Congratulations to Mengyu Li on receiving funding from the National Natural Science Foundation of China’s Young Scientists Fund (Category C) for “Sequential Sampling and Conditional Generation via Optimal Transport for Virtual Cells.”</p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-08</span><span class="news-tag news-tag--papers">Papers</span></div>
