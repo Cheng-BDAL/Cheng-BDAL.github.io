@@ -128,7 +128,7 @@ Academic Positions
   <div class="cv-entry">
     <div class="cv-date">2020 - present</div>
     <div>
-      <h3>Tenure-Track Assistant Professor</h3>
+      <h3>tenured Associate Professor, Research Professor, and Ph.D. advisor</h3>
       <p>Renmin University of China, Institute of Statistics and Big Data</p>
       <p>Beijing, China</p>
     </div>

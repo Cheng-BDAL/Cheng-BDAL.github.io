@@ -287,6 +287,10 @@ Our work is grounded in statistical theory and closely connected to real-world a
 
 <div class="news-list">
   <article class="news-card">
+    <div class="news-meta"><span class="news-date">2026-09</span><span class="news-tag news-tag--projects">Projects</span></div>
+    <p><strong>Mengyu Li received Youth Fund support for virtual-cell research.</strong> Her project, “Sequential Sampling and Conditional Generation via Optimal Transport for Virtual Cells,” is one more step into the virtual-cell space—excited to see where it goes!</p>
+  </article>
+  <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-08</span><span class="news-tag news-tag--papers">Papers</span></div>
     <p><strong>Beyond probability truncation: LLM decoding through ensemble pruning.</strong> Congratulations to Dunyao Xue, Chengshuo Du, Zhengbo Wang et al. on the acceptance of "Beyond Truncation: Rethinking LLM Decoding as Ensemble Pruning" to the EMNLP 2026 Main Conference. Among 17,669 submissions, 2,719 were accepted to the main conference, for an acceptance rate of 15.4%.</p>
   </article>
@@ -302,10 +306,6 @@ Our work is grounded in statistical theory and closely connected to real-world a
     <div class="news-meta"><span class="news-date">2026-07</span><span class="news-tag news-tag--team">Team</span></div>
     <p><strong>Three students shared their work at Huawei's Zijin Summit seminar.</strong> Xinlai Kang, Dunyao Xue, and Junyi Lin were invited to the "Zijin Summit" Young Scholars Paper Sharing Seminar at Huawei's Huang Danian Chasiwu, where they presented and discussed their recent research; two talk videos are now available. <a href="https://cheng-bdal.github.io/news/huawei-zijinzhi-dian-2026/">Read more →</a></p>
   </article>
-  <article class="news-card">
-    <div class="news-meta"><span class="news-date">2026-07</span><span class="news-tag news-tag--team">Team</span></div>
-    <p><strong>MP-MoE was presented at ICML 2026 in Seoul.</strong> Xinlai Kang and Dunyao Xue traveled to Seoul for ICML 2026 and presented the team's latest MP-MoE work during the poster session. <a href="https://cheng-bdal.github.io/news/icml-2026-mp-moe/">Read more →</a></p>
-  </article>
 </div>
 
 <div class="news-more">
@@ -315,6 +315,10 @@ Our work is grounded in statistical theory and closely connected to real-world a
 <h3 class="news-year-heading">2026</h3>
 
 <div class="news-list">
+  <article class="news-card">
+    <div class="news-meta"><span class="news-date">2026-07</span><span class="news-tag news-tag--team">Team</span></div>
+    <p><strong>MP-MoE was presented at ICML 2026 in Seoul.</strong> Xinlai Kang and Dunyao Xue traveled to Seoul for ICML 2026 and presented the team's latest MP-MoE work during the poster session. <a href="https://cheng-bdal.github.io/news/icml-2026-mp-moe/">Read more →</a></p>
+  </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-06</span><span class="news-tag news-tag--papers">Papers</span></div>
     <p><strong>Two BDAL-RUC papers have been accepted by STAI-X.</strong> Congratulations to Jun Zhu et al. for "SSP-Ensemble: A Sufficient Subspace Projection Ensemble for Multiclass Classification" and Peize Wang et al. for "KPOTD: Kernel Principal Optimal Transport Directions for Nonlinear Sufficient Dimension Reduction," both accepted by the inaugural STAI-X conference.</p>
