@@ -282,6 +282,9 @@ author_profile: true  # 可选，视需要是否显示作者信息
     <td><img loading="lazy" src="https://cheng-bdal.github.io//images/头像/李雨凝.jpg" alt="Yuning Li"><br><strong class="student-name">Yuning Li</strong><br>PhD candidate (2026)<br>Joint advisor: Researcher Zhang Jingyi<br>BS: Huazhong Agricultural University, Information and Computing Science<br><span class="student-email">13204761705 at 163 dot com</span></td>
     <td><img loading="lazy" src="https://cheng-bdal.github.io//images/头像/刘可欣.jpg" alt="Kexin Liu"><br><strong class="student-name">Kexin Liu</strong><br>PhD candidate (2026)<br>Joint advisor: Researcher Zhang Jingyi<br><span class="student-email">kxliu2025 at bupt dot cn</span></td>
   </tr>
+  <tr>
+    <td><img loading="lazy" src="https://cheng-bdal.github.io//images/头像/郑旖馨.jpg" alt="Yixin Zheng"><br><strong class="student-name">Yixin Zheng</strong><br>PhD candidate (2027)<br>BS: Wuhan University<br>School of Mathematics and Statistics<br><span class="student-email">1692037193 at qq dot com</span></td>
+  </tr>
 </table>
 
 ## Current M.S. and Undergraduate Students
