@@ -53,10 +53,11 @@ author_profile: true
 
 <div class="funding-list">
   <article class="funding-card">
-    <span class="funding-status funding-status--ongoing">Ongoing</span>
+    <span class="funding-status funding-status--excellent">Completed with Excellence</span>
     <h3>Mutual-Information-Based Time-Series Feature Association and Dimensionality Reduction</h3>
     <ul>
       <li>Huawei Technologies Co., Ltd., 2012 Laboratories</li>
+      <li>Students recognized in Huawei's Outstanding Talent System: Peize Wang, Jingxuan Hu</li>
     </ul>
   </article>
 
@@ -110,7 +111,7 @@ author_profile: true
 
 <div class="funding-list">
   <article class="funding-card">
-    <span class="funding-status funding-status--ongoing">Ongoing</span>
+    <span class="funding-status">Completed</span>
     <h3>Collaborative Project on Feature Extraction and Clustering Algorithms for Large-Scale Chip Layout Patterns</h3>
     <ul>
       <li>Huawei Technologies Co., Ltd., Semiconductor Division</li>
