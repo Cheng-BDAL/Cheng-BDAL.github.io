@@ -111,18 +111,18 @@ author_profile: true
 
 <div class="funding-list">
   <article class="funding-card">
-    <span class="funding-status">Completed</span>
-    <h3>Collaborative Project on Feature Extraction and Clustering Algorithms for Large-Scale Chip Layout Patterns</h3>
-    <ul>
-      <li>Huawei Technologies Co., Ltd., Semiconductor Division</li>
-    </ul>
-  </article>
-
-  <article class="funding-card">
     <span class="funding-status funding-status--ongoing">Ongoing</span>
     <h3>Collaborative Project on Online Lithium Plating Detection for Silicon Anodes</h3>
     <ul>
       <li>Huawei Technologies Co., Ltd., Consumer Device Division</li>
+    </ul>
+  </article>
+
+  <article class="funding-card">
+    <span class="funding-status">Completed</span>
+    <h3>Collaborative Project on Feature Extraction and Clustering Algorithms for Large-Scale Chip Layout Patterns</h3>
+    <ul>
+      <li>Huawei Technologies Co., Ltd., Semiconductor Division</li>
     </ul>
   </article>
 
