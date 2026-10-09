@@ -242,6 +242,9 @@ author_profile: true  # 可选，视需要是否显示作者信息
       border-right: 1px solid #e6e0dc !important;
     }
   }
+  .student-grid img.student-photo--jingyi-mo {
+    object-position: 84% center;
+  }
 </style>
 
 
@@ -283,7 +286,8 @@ author_profile: true  # 可选，视需要是否显示作者信息
     <td><img loading="lazy" src="https://cheng-bdal.github.io//images/头像/刘可欣.jpg" alt="Kexin Liu"><br><strong class="student-name">Kexin Liu</strong><br>PhD candidate (2026)<br>Joint advisor: Researcher Zhang Jingyi<br><span class="student-email">kxliu2025 at bupt dot cn</span></td>
   </tr>
   <tr>
-    <td><img loading="lazy" src="https://cheng-bdal.github.io//images/头像/郑旖馨.jpg" alt="Yixin Zheng"><br><strong class="student-name">Yixin Zheng</strong><br>PhD candidate (2027)<br>BS: Wuhan University<br>School of Mathematics and Statistics<br><span class="student-email">1692037193 at qq dot com</span></td>
+    <td><img loading="lazy" class="student-photo--jingyi-mo" src="https://cheng-bdal.github.io/images/头像/jingyi-mo.jpg" alt="Jingyi Mo"><br><strong class="student-name">Jingyi Mo</strong><br>Ph.D. student (2026)<br>School of Mathematics, Beijing University of Posts and Telecommunications<br>Joint advisor: Researcher Zhang Jingyi<br><span class="student-email">jymo2026 at bupt dot cn</span></td>
+<td><img loading="lazy" src="https://cheng-bdal.github.io//images/头像/郑旖馨.jpg" alt="Yixin Zheng"><br><strong class="student-name">Yixin Zheng</strong><br>PhD candidate (2027)<br>BS: Wuhan University<br>School of Mathematics and Statistics<br><span class="student-email">1692037193 at qq dot com</span></td>
   </tr>
 </table>
 
