@@ -287,6 +287,10 @@ Our work is grounded in statistical theory and closely connected to real-world a
 
 <div class="news-list">
   <article class="news-card">
+    <div class="news-meta"><span class="news-date">2026-10</span><span class="news-tag news-tag--awards">Awards</span></div>
+    <p><strong>Xiaxue Ouyang and Peize Wang received CSIAM Student Forum Outstanding Poster Awards.</strong> Congratulations to both students on winning awards at the 10th Student Forum of the China Society for Industrial and Applied Mathematics! The forum selected 13 outstanding posters from presentations by 135 students. Jingyan Bai was also selected to participate and presented a poster. <a href="https://mp.weixin.qq.com/s/PhRMWpL_K2bFUqnZGjzbgA">Read more →</a></p>
+  </article>
+  <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-09</span><span class="news-tag news-tag--projects">Projects</span></div>
     <p><strong>Virtual-cell research wins Young Scientists Fund (Category C) support.</strong> Congratulations to Mengyu Li on receiving funding from the National Natural Science Foundation of China’s Young Scientists Fund (Category C) for “Sequential Sampling and Conditional Generation via Optimal Transport for Virtual Cells.”</p>
   </article>
