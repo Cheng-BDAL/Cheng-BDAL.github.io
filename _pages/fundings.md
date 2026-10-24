@@ -53,6 +53,14 @@ author_profile: true
 
 <div class="funding-list">
   <article class="funding-card">
+    <span class="funding-status funding-status--ongoing">Ongoing</span>
+    <h3>Collaborative Project on Distance Measurement and Compression of High-Dimensional Variables for Time Series</h3>
+    <ul>
+      <li>Huawei Technologies Co., Ltd., 2012 Laboratories</li>
+    </ul>
+  </article>
+
+  <article class="funding-card">
     <span class="funding-status funding-status--excellent">Completed with Excellence</span>
     <h3>Mutual-Information-Based Time-Series Feature Association and Dimensionality Reduction</h3>
     <ul>
