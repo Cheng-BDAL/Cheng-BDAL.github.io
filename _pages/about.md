@@ -288,6 +288,10 @@ Our work is grounded in statistical theory and closely connected to real-world a
 <div class="news-list">
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-10</span><span class="news-tag news-tag--awards">Awards</span></div>
+    <p><strong>Ten students received first-class graduate academic scholarships.</strong> Congratulations to Jun Zhu, Tao Wang, Chengshuo Du, Xiaxue Ouyang, Junyi Lin, Dunyao Xue, Yuzheng Dong, Zhipeng Xiang, Wenhao Jiang, and Yufan Huang for receiving the First-Class Graduate Academic Scholarship from the Institute of Statistics and Big Data (awarded to the top 30% of each cohort)!</p>
+  </article>
+  <article class="news-card">
+    <div class="news-meta"><span class="news-date">2026-10</span><span class="news-tag news-tag--awards">Awards</span></div>
     <p><strong>Xiaxue Ouyang and Peize Wang received CSIAM Student Forum Outstanding Poster Awards.</strong> Congratulations to both students on winning awards at the 10th Student Forum of the China Society for Industrial and Applied Mathematics! The forum selected 13 outstanding posters from presentations by 135 students. Jingyan Bai was also selected to participate and presented a poster. <a href="https://mp.weixin.qq.com/s/PhRMWpL_K2bFUqnZGjzbgA">Read more →</a></p>
   </article>
   <article class="news-card">
