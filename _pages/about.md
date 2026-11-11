@@ -288,7 +288,7 @@ Our work is grounded in statistical theory and closely connected to real-world a
 <div class="news-list">
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-11</span><span class="news-tag news-tag--papers">Papers</span></div>
-    <p><strong>JASA accepts Mengyu Li’s paper on resampling in sequential Monte Carlo.</strong> Congratulations to Mengyu! In joint work with Cheng Meng and Jun S. Liu, she developed an optimal transport method that generates new particles during resampling, helping preserve sample diversity when only a few particles are available. <a href="https://arxiv.org/abs/2610.17924">Read the paper →</a></p>
+    <p><strong>JASA accepts Mengyu Li’s paper on resampling in sequential Monte Carlo.</strong> Congratulations to Mengyu! In joint work with Cheng Meng and Jun S. Liu, she developed an optimal transport method that generates new particles during resampling, helping preserve sample diversity when only a few particles are available. <a href="https://arxiv.org/abs/2610.17924">Read more →</a></p>
   </article>
   <article class="news-card">
     <div class="news-meta"><span class="news-date">2026-10</span><span class="news-tag news-tag--awards">Awards</span></div>
