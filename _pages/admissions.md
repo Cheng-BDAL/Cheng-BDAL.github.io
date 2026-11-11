@@ -104,7 +104,7 @@ author_profile: true
   </div>
   <div class="admission-panel">
     <h3>Publications and Industry Connections</h3>
-    <p>The group has published in NeurIPS, ICML, ICLR, JMLR, and Biometrika, with long-term Huawei collaborations and strong referrals for internships and full-time positions.</p>
+    <p>Group students have led papers published in JMLR and accepted by JASA. Other group work has appeared in Biometrika and at NeurIPS, ICML, and ICLR. Long-term collaborations with Huawei and other partners provide referrals for internships and full-time positions.</p>
   </div>
   <div class="admission-panel">
     <h3>Research Support and Group Life</h3>
