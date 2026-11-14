@@ -338,7 +338,7 @@ author_profile: true  # 可选，视需要是否显示作者信息
   </tr>
   <tr>
     <td><img loading="lazy" src="https://cheng-bdal.github.io/images/team-optimized/黄玙凡.webp" alt="Yufan Huang"><br><strong class="student-name">Yufan Huang</strong><br>M.S. (2026)<br>BS: Renmin University of China<br>School of Mathematics<br><span class="student-email">huangyf0710 at ruc dot edu dot cn</span></td>
-    <td><span class="student-portrait--yeheng-tang"><img loading="lazy" src="https://cheng-bdal.github.io/images/team-optimized/yeheng-tang.webp" alt="Yeheng Tang"></span><br><strong class="student-name">Yeheng Tang</strong><br>M.S. (2026)<br>Joint advisor: Associate Professor Songshan Yang<br>Xi’an Jiaotong University<br>School of Economics and Finance<br><span class="student-email">2026104378 at ruc dot edu dot cn</span></td>
+    <td><span class="student-portrait--yeheng-tang"><img loading="lazy" src="https://cheng-bdal.github.io/images/team-optimized/yeheng-tang.webp" alt="Yeheng Tang"></span><br><strong class="student-name">Yeheng Tang</strong><br>M.S. (2026)<br>Joint advisor: Associate Professor Songshan Yang<br>BS: Xi’an Jiaotong University<br>School of Economics and Finance<br><span class="student-email">2026104378 at ruc dot edu dot cn</span></td>
     <td><img loading="lazy" src="https://cheng-bdal.github.io/images/team-optimized/蒋璇.webp" alt="Xuan Jiang"><br><strong class="student-name">Xuan Jiang</strong><br>Undergraduate (2024)<br>Joint advisor: Researcher Zhang Jingyi<br>BS: Beijing University of Posts and Telecommunications, School of Mathematics<br><span class="student-email">2024212523 at bupt dot cn</span></td>
   </tr>
   <tr>
