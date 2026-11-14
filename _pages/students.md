@@ -248,6 +248,29 @@ author_profile: true  # 可选，视需要是否显示作者信息
   .student-grid img.student-photo--jingyi-mo {
     object-position: 84% center;
   }
+  .student-portrait--yeheng-tang {
+    display: inline-block;
+    position: relative;
+    width: min(100%, 190px);
+    height: 218px;
+    overflow: hidden;
+    border-radius: 8px;
+    vertical-align: bottom;
+  }
+  .student-grid .student-portrait--yeheng-tang img {
+    position: absolute;
+    width: 143%;
+    max-width: none;
+    height: auto;
+    left: -21.5%;
+    top: -20.6%;
+  }
+  @media (max-width: 720px) {
+    .student-portrait--yeheng-tang {
+      width: min(100%, 165px);
+      height: 190px;
+    }
+  }
 </style>
 
 
@@ -315,7 +338,10 @@ author_profile: true  # 可选，视需要是否显示作者信息
   </tr>
   <tr>
     <td><img loading="lazy" src="https://cheng-bdal.github.io/images/team-optimized/黄玙凡.webp" alt="Yufan Huang"><br><strong class="student-name">Yufan Huang</strong><br>M.S. (2026)<br>BS: Renmin University of China<br>School of Mathematics<br><span class="student-email">huangyf0710 at ruc dot edu dot cn</span></td>
+    <td><span class="student-portrait--yeheng-tang"><img loading="lazy" src="https://cheng-bdal.github.io/images/team-optimized/yeheng-tang.webp" alt="Yeheng Tang"></span><br><strong class="student-name">Yeheng Tang</strong><br>M.S. (2026)<br>Joint advisor: Associate Professor Songshan Yang<br>Xi’an Jiaotong University<br>School of Economics and Finance<br><span class="student-email">2026104378 at ruc dot edu dot cn</span></td>
     <td><img loading="lazy" src="https://cheng-bdal.github.io/images/team-optimized/蒋璇.webp" alt="Xuan Jiang"><br><strong class="student-name">Xuan Jiang</strong><br>Undergraduate (2024)<br>Joint advisor: Researcher Zhang Jingyi<br>BS: Beijing University of Posts and Telecommunications, School of Mathematics<br><span class="student-email">2024212523 at bupt dot cn</span></td>
+  </tr>
+  <tr>
     <td><img loading="lazy" src="https://cheng-bdal.github.io//images/头像/朱同臣.jpg" alt="Tongchen Zhu"><br><strong class="student-name">Tongchen Zhu</strong><br>Undergraduate (2024)<br>Joint advisor: Researcher Zhang Jingyi<br>Beijing University of Posts and Telecommunications, Digital Media Technology<br><span class="student-email">2024213885 at bupt dot cn</span></td>
   </tr>
 </table>
